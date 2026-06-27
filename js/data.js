@@ -1749,7 +1749,7 @@ const LIBRARY = [
   {
     frase: "El día que no tengas ganas es justo el día que más cuenta. La constancia se mide en los días difíciles, no en los fáciles.",
     emocion: "Orgullo", nicho: "Hábitos", objetivo: "Guardados",
-    descripcion: "Dignifica el esfuerzo en los días sin motivación. Guardable.",
+    descripcion: "💪 Verdad que separa a quien logra de quien abandona: cualquiera cumple cuando tiene ganas. El día que de verdad cuenta es ese en que estás cansado, desmotivado y aun así apareces. La constancia no se mide en los días fáciles, se forja en los difíciles. 🔖 Guárdalo y léelo el próximo día sin ganas.",
     hashtags: "#disciplina #constancia #habitos #mentalidad #fortaleza",
     prompt: "Persona entrenando bajo la lluvia con determinación, luz dramática, estética motivadora.",
     tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
@@ -1757,7 +1757,7 @@ const LIBRARY = [
   {
     frase: "Te pedían que entendieras sus razones, pero nunca hicieron el esfuerzo de entender tu dolor. Eso no es relación: es servicio.",
     emocion: "Enojo", nicho: "Narcisismo", objetivo: "Comentarios",
-    descripcion: "Expone la falta de reciprocidad emocional. Genera identificación.",
+    descripcion: "🚩 Detalle que define una relación desigual: siempre te pedían comprender sus motivos, su humor, su estrés… pero jamás hacían el esfuerzo de entender tu dolor. Cuando solo una persona comprende y la otra solo recibe, eso no es una relación, es un servicio de atención. 👇 ¿Te ha pasado ser el que siempre entiende? Cuéntalo abajo.",
     hashtags: "#relacionestoxicas #narcisismo #limites #saludmental #conciencia",
     prompt: "Una figura escuchando con esfuerzo a otra que no devuelve la atención, luz contrastada.",
     tecnicas: ["Antítesis", "Revelación", "Gancho de debate"]
@@ -1765,7 +1765,7 @@ const LIBRARY = [
   {
     frase: "No te enamoraste de la persona. Te enamoraste de la versión que te mostró los primeros meses y nunca volvió.",
     emocion: "Tristeza", nicho: "Narcisismo", objetivo: "Compartidos",
-    descripcion: "Describe el idealizar inicial del narcisista. Revelador y compartible.",
+    descripcion: "💔 Lo que casi nadie se atreve a admitir: muchas veces no te enamoras de la persona real, sino de la versión perfecta que te mostró los primeros meses, esa que después desapareció. Y te pasas la relación intentando recuperar a alguien que solo existió al principio. ✨ Comparte si esto te tocó de cerca.",
     hashtags: "#narcisismo #relacionestoxicas #idealizacion #saludmental #conciencia",
     prompt: "Retrato que cambia de cálido a frío al girar la luz, estética conceptual de dos caras.",
     tecnicas: ["Revelación", "Reframe", "Espejo emocional"]
@@ -1773,7 +1773,7 @@ const LIBRARY = [
   {
     frase: "Si cada conversación termina contigo pidiendo perdón sin saber por qué, no estás discutiendo: estás siendo entrenado.",
     emocion: "Sorpresa", nicho: "Manipulación", objetivo: "Guardados",
-    descripcion: "Señala el patrón de culpabilización constante. Revelador y guardable.",
+    descripcion: "🚩 Léelo con atención: si cada discusión, sin importar cómo empezó, termina contigo disculpándote sin entender bien por qué, no estás conversando… te están entrenando para ceder. Te enseñan que es más fácil rendirte que defenderte. Eso tiene nombre y no es normal. 🔖 Guárdalo, puede abrirle los ojos a alguien.",
     hashtags: "#manipulacion #relacionestoxicas #limites #saludmental #conciencia",
     prompt: "Persona disculpándose confundida frente a una sombra que asiente, luz fría, conceptual.",
     tecnicas: ["Revelación", "Open Loop", "Reframe"]
@@ -1781,7 +1781,7 @@ const LIBRARY = [
   {
     frase: "Quien de verdad te valora no te hace competir por un lugar que ya deberías tener.",
     emocion: "Calma", nicho: "Manipulación", objetivo: "Compartidos",
-    descripcion: "Señala el juego de hacerte competir por afecto. Identificación clara.",
+    descripcion: "💯 Recordatorio de amor propio: quien de verdad te valora no te pone a competir por su atención, ni te compara, ni te deja en duda. El lugar que mereces no se gana en una carrera contra otros; o te lo dan con claridad, o no era tuyo. ✨ Comparte con quien anda peleando por un lugar que debería ser seguro.",
     hashtags: "#limites #relacionestoxicas #amorpropio #conciencia #verdades",
     prompt: "Persona dejando de correr en una carrera que nadie más estaba corriendo, conceptual.",
     tecnicas: ["Reframe", "Brevedad", "Regla de oro"]
@@ -1791,7 +1791,7 @@ const LIBRARY = [
   {
     frase: "Tu cerebro recuerda mejor el principio y el final de una experiencia que el medio. Por eso cómo terminas algo lo define todo.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Explica la regla del pico y el final. Útil para relaciones y trabajo.",
+    descripcion: "🧠 Dato que puedes usar en todo: tu cerebro recuerda con más fuerza el inicio y el final de una experiencia que lo del medio. Por eso cómo terminas una cita, un viaje o una conversación marca el recuerdo entero. Cuida los cierres: pesan más de lo que crees. 🔖 Guárdalo, sirve para relaciones y trabajo.",
     hashtags: "#ciencia #memoria #cerebro #psicologia #datoscuriosos",
     prompt: "Línea de tiempo con destellos brillantes al inicio y al final, centro tenue, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Curiosity Gap"]
@@ -1799,7 +1799,7 @@ const LIBRARY = [
   {
     frase: "Un abrazo de más de 20 segundos libera oxitocina y baja el estrés. Tu cuerpo agradece el contacto, no solo tu corazón.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato cálido sobre el contacto físico y la oxitocina. Compartible.",
+    descripcion: "🤗 Dato tierno y real: un abrazo de más de 20 segundos libera oxitocina, baja el cortisol y calma tu sistema nervioso. No es solo cariño, es química que te sana. Tu cuerpo necesita contacto tanto como tu corazón. ✨ Comparte y ve a darle ese abrazo largo a alguien que quieres.",
     hashtags: "#ciencia #oxitocina #abrazos #bienestar #saludmental",
     prompt: "Dos personas abrazándose con calma bajo luz dorada, ambiente cálido y tierno.",
     tecnicas: ["Dato revelador", "Reframe", "Identificación"]
@@ -1807,7 +1807,7 @@ const LIBRARY = [
   {
     frase: "Olvidar no es un fallo de tu cerebro: es una función. Si recordaras todo, no podrías pensar en nada.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Reencuadra el olvido como diseño útil. Genera asombro y debate.",
+    descripcion: "🧠 Te quito una preocupación: olvidar no significa que tu memoria esté fallando. Es una función necesaria; si recordaras absolutamente todo, tu mente estaría tan saturada que no podrías ni pensar. Tu cerebro borra lo que no necesitas para dejar espacio a lo importante. 👇 ¿Te sorprende este dato? Cuéntalo abajo.",
     hashtags: "#ciencia #memoria #cerebro #olvido #datoscuriosos",
     prompt: "Hojas que el viento se lleva de un escritorio dejando solo las importantes, conceptual.",
     tecnicas: ["Reframe", "Dato revelador", "Gancho de debate"]
@@ -1815,7 +1815,7 @@ const LIBRARY = [
   {
     frase: "El hambre cambia tu humor de verdad: con el azúcar bajo, tu cerebro interpreta todo como amenaza. No estás insoportable, estás 'hangry'.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Explica el fenómeno 'hangry' con base fisiológica. Curioso y compartible.",
+    descripcion: "🍽️ Dato que salva discusiones: cuando tienes hambre, tu nivel de azúcar baja y tu cerebro interpreta todo como amenaza, así que te irritas por nada. No es que seas insoportable, es que estás «hangry» (hambriento + enojado). A veces la solución no es una pelea, es comer algo. ✨ Comparte con quien se pone de mal humor con hambre.",
     hashtags: "#ciencia #cerebro #emociones #hambre #datoscuriosos",
     prompt: "Persona irritada que se calma tras comer algo, dos estados de luz, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Identificación"]
@@ -1823,7 +1823,7 @@ const LIBRARY = [
   {
     frase: "Mojarte la cara con agua fría puede frenar la ansiedad: activa un reflejo que baja tu pulso. Tu cuerpo trae un botón de calma.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Truco fisiológico (reflejo de inmersión) para calmarse. Accionable.",
+    descripcion: "❄️ Truco gratis para crisis de ansiedad: mojarte la cara con agua fría activa un reflejo natural que baja tu ritmo cardíaco y te calma en segundos. Tu cuerpo trae un «botón de pánico» al revés, uno que apaga la alarma. Recuérdalo para el próximo momento de agobio. 🔖 Guárdalo, esto puede ayudarte de verdad.",
     hashtags: "#ciencia #ansiedad #cerebro #bienestar #saludmental",
     prompt: "Agua fría salpicando suavemente un rostro sereno, gotas en cámara lenta, estética limpia.",
     tecnicas: ["Dato revelador", "Llamado a la acción", "Reframe"]
@@ -1831,7 +1831,7 @@ const LIBRARY = [
   {
     frase: "Tu mente solo sostiene unas pocas cosas a la vez. Por eso intentar recordarlo todo te abruma: anótalo y libera espacio.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Explica la memoria de trabajo limitada. Práctico y guardable.",
+    descripcion: "🧠 Por esto vives abrumado: tu mente solo puede sostener unas pocas cosas a la vez en la memoria. Cuando intentas recordarlo todo (pendientes, ideas, compromisos), la saturas y se dispara la ansiedad. Anótalo y libera espacio: tu cabeza es para pensar, no para almacenar. 🔖 Guárdalo y empieza a sacar todo al papel.",
     hashtags: "#ciencia #memoria #productividad #cerebro #enfoque",
     prompt: "Mente con pocas cajas que se desbordan, una libreta recibiendo el resto, conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Llamado a la acción"]
@@ -1839,7 +1839,7 @@ const LIBRARY = [
   {
     frase: "El estrés se contagia: estar cerca de alguien tenso eleva tu propio cortisol. Cuidas tu paz también eligiendo tu entorno.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato sobre el estrés de segunda mano. Revelador y compartible.",
+    descripcion: "🧠 Dato que explica por qué ciertas personas te dejan agotado: el estrés se contagia. Estar cerca de alguien tenso o angustiado eleva tu propio cortisol, aunque no pase nada. Por eso cuidar tu paz también es elegir con quién pasas el tiempo. Tu entorno te calma o te enferma. ✨ Comparte con quien necesita poner límites.",
     hashtags: "#ciencia #estres #cortisol #entorno #bienestar",
     prompt: "Ondas de tensión pasando de una persona a otra cercana, luz fría, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Causa-efecto"]
@@ -1847,7 +1847,7 @@ const LIBRARY = [
   {
     frase: "Caminar despeja la mente de verdad: el movimiento activa las zonas creativas del cerebro. Las mejores ideas no llegan sentado.",
     emocion: "Esperanza", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Conecta caminar y creatividad. Accionable y positivo.",
+    descripcion: "🚶 Dato útil para cuando estés trabado: caminar no solo despeja la cabeza, activa las zonas creativas del cerebro. Por eso las mejores ideas suelen llegar en movimiento y no frente a la pantalla. Si estás bloqueado, no insistas sentado: sal a caminar. 🔖 Guárdalo y pruébalo la próxima vez que te atores.",
     hashtags: "#ciencia #creatividad #cerebro #caminar #bienestar",
     prompt: "Persona caminando por un sendero con destellos de ideas surgiendo, luz natural, conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Llamado a la acción"]
@@ -1855,7 +1855,7 @@ const LIBRARY = [
   {
     frase: "Anticipar un viaje te da más felicidad que el viaje mismo. La mente disfruta esperar tanto como vivir.",
     emocion: "Esperanza", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato sobre la felicidad de la anticipación. Curioso y compartible.",
+    descripcion: "✈️ Dato que te invita a planear: anticipar un viaje suele dar tanta o más felicidad que el viaje en sí. La mente disfruta la espera ilusionada, imaginando cada detalle. Por eso tener algo lindo por delante mejora tu presente. Date siempre algo que esperar con ganas. ✨ Comparte con quien necesita ilusionarse otra vez.",
     hashtags: "#ciencia #felicidad #cerebro #psicologia #datoscuriosos",
     prompt: "Persona soñando con un viaje mientras planea con un mapa, luz cálida, estética ilusionante.",
     tecnicas: ["Dato revelador", "Reframe", "Curiosity Gap"]
@@ -1863,7 +1863,7 @@ const LIBRARY = [
   {
     frase: "Leer ficción entrena tu empatía: tu cerebro practica ponerse en otra piel. Los libros también son gimnasio emocional.",
     emocion: "Esperanza", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Conecta lectura y empatía. Inspirador y guardable.",
+    descripcion: "📚 Razón hermosa para leer más: cuando lees ficción, tu cerebro practica ponerse en la piel de otros, sentir lo que sienten, entender otras vidas. Por eso quienes leen historias suelen ser más empáticos. Los libros también son gimnasio para el corazón. 🔖 Guárdalo y regálate una buena historia esta semana.",
     hashtags: "#ciencia #lectura #empatia #cerebro #bienestar",
     prompt: "Persona leyendo mientras de las páginas emergen otras vidas en luz suave, conceptual.",
     tecnicas: ["Dato revelador", "Metáfora", "Reframe"]
@@ -1871,7 +1871,7 @@ const LIBRARY = [
   {
     frase: "Las cosas buenas dejan de emocionarte con el tiempo: se llama adaptación hedónica. Por eso agradecer lo de siempre es un superpoder.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Explica la adaptación hedónica y el valor de la gratitud. Profundo.",
+    descripcion: "🧠 Dato que explica por qué nada te llena por mucho tiempo: tu mente se acostumbra a lo bueno y deja de emocionarse; se llama adaptación hedónica. Por eso el coche nuevo o el logro soñado dejan de brillar. Agradecer a propósito lo de siempre es la forma de romper ese piloto automático. ✨ Comparte, esto cambia cómo ves tu vida.",
     hashtags: "#ciencia #felicidad #gratitud #psicologia #bienestar",
     prompt: "Persona redescubriendo con asombro algo cotidiano iluminado, estética conceptual cálida.",
     tecnicas: ["Dato revelador", "Reframe", "Cierre potente"]
@@ -1879,7 +1879,7 @@ const LIBRARY = [
   {
     frase: "Tu corazón tiende a sincronizarse con la música y con las personas con las que te sientes seguro. La calma también se contagia.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Dato sobre sincronía fisiológica. Cálido y guardable.",
+    descripcion: "🫀 Dato precioso: tu corazón tiende a sincronizar su ritmo con la música que escuchas y con las personas junto a las que te sientes seguro. Así como el estrés se contagia, la calma también. Rodéate de quien te baja las pulsaciones, no de quien te las dispara. 🔖 Guárdalo y elige bien tu compañía.",
     hashtags: "#ciencia #corazon #musica #conexion #bienestar",
     prompt: "Dos ondas de latido acompasándose junto a una luz suave, estética conceptual serena.",
     tecnicas: ["Dato revelador", "Reframe", "Cierre emocional"]
@@ -1889,7 +1889,7 @@ const LIBRARY = [
   {
     frase: "Ponerle nombre a lo que sientes baja su intensidad. 'Estoy ansioso' calma más que fingir que no pasa nada.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Técnica de etiquetado emocional ('name it to tame it'). Accionable.",
+    descripcion: "🧠 Herramienta de oro para tus emociones: ponerle nombre a lo que sientes baja su intensidad de verdad. Decir «estoy ansioso» o «estoy triste» calma más que fingir que no pasa nada, porque al nombrarlo, tu cerebro deja de luchar a ciegas. Lo que se nombra, se domina un poco. 🔖 Guárdalo y pruébalo hoy.",
     hashtags: "#psicologia #emociones #ansiedad #saludmental #bienestar",
     prompt: "Persona escribiendo el nombre de una emoción que se vuelve más pequeña, conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Llamado a la acción"]
@@ -1897,7 +1897,7 @@ const LIBRARY = [
   {
     frase: "Sentir que no mereces lo que lograste tiene nombre: síndrome del impostor. Y lo sienten justo quienes más se esfuerzan.",
     emocion: "Esperanza", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "Da nombre y alivio al síndrome del impostor. Identificación fuerte.",
+    descripcion: "🎭 Si sientes que tus logros son «suerte» y que en cualquier momento te van a descubrir, tiene nombre: síndrome del impostor. Y lo viven justo las personas más capaces y esforzadas, no las mediocres. Si lo sientes, probablemente es señal de que sí mereces estar donde estás. ✨ Comparte con quien duda de sus logros.",
     hashtags: "#psicologia #sindromedelimpostor #autoestima #saludmental #mentalidad",
     prompt: "Persona frente a un logro propio dudando, sombra de inseguridad detrás, luz conceptual.",
     tecnicas: ["Dato revelador", "Validación emocional", "Reframe"]
@@ -1905,7 +1905,7 @@ const LIBRARY = [
   {
     frase: "Pensar en exceso no resuelve el problema. Solo te hace vivirlo muchas veces antes de que pase.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "Confronta la rumiación. Reflexiva y muy compartible.",
+    descripcion: "🧠 Verdad sobre el overthinking: darle mil vueltas a algo no lo resuelve, solo te hace sufrirlo muchas veces antes de que (quizás) pase. Tu mente confunde «preocuparse» con «hacer algo», pero rara vez es lo mismo. Pensar de más no es prepararte, es torturarte por adelantado. ✨ Comparte con quien vive en su cabeza.",
     hashtags: "#psicologia #overthinking #ansiedad #saludmental #mente",
     prompt: "Persona rodeada de pensamientos en bucle que se disuelven al respirar, conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Brevedad"]
@@ -1913,7 +1913,7 @@ const LIBRARY = [
   {
     frase: "Complacer a todos es la forma más educada de abandonarte a ti mismo.",
     emocion: "Sorpresa", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Frase potente contra el people-pleasing. Guardable.",
+    descripcion: "🎭 Frase para releer dos veces: complacer a todos, decir siempre que sí, callar para no incomodar… es la forma más educada y socialmente aplaudida de abandonarte a ti mismo. Cada vez que te traicionas por agradar, alguien gana y esa persona no eres tú. 🔖 Guárdalo y empieza a elegirte.",
     hashtags: "#psicologia #limites #amorpropio #saludmental #peoplepleasing",
     prompt: "Persona repartiéndose en pedazos para otros mientras queda poco de sí, conceptual.",
     tecnicas: ["Reframe", "Metáfora", "Cierre potente"]
@@ -1921,7 +1921,7 @@ const LIBRARY = [
   {
     frase: "El primer número que escuchas ancla tu juicio del resto. Por eso la primera impresión y el primer precio pesan tanto.",
     emocion: "Sorpresa", nicho: "Psicología", objetivo: "Comentarios",
-    descripcion: "Explica el sesgo de anclaje. Educativo y debatible.",
+    descripcion: "🧠 Dato que te usan en ventas todos los días: el primer número que escuchas «ancla» tu juicio sobre todo lo demás. Por eso primero te muestran el precio caro y luego el «descuento» parece ganga. Lo mismo pasa con las primeras impresiones. Conocer el sesgo es dejar de caer en él. 👇 ¿Sabías que te anclan así? Te leo abajo.",
     hashtags: "#psicologia #sesgos #decisiones #mente #crecimientopersonal",
     prompt: "Ancla sujetando un punto de referencia mientras lo demás flota alrededor, conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Gancho de debate"]
@@ -1929,7 +1929,7 @@ const LIBRARY = [
   {
     frase: "No tienes que ganarte el descanso. Tu valor no depende de tu nivel de productividad.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Separa valor personal de productividad. Liberadora y guardable.",
+    descripcion: "😮‍💨 Recordatorio contra la cultura del agotamiento: no tienes que «ganarte» el derecho a descansar terminando todo primero. El descanso es una necesidad, no un premio, y tu valor como persona no se mide en tareas completadas. No eres una máquina de producir. 🔖 Guárdalo y descansa sin sentirte culpable.",
     hashtags: "#descanso #saludmental #autoestima #burnout #bienestar",
     prompt: "Persona descansando sin culpa en un sofá luminoso con una taza, ambiente sereno.",
     tecnicas: ["Reframe", "Antítesis", "Regla de oro"]
@@ -1937,7 +1937,7 @@ const LIBRARY = [
   {
     frase: "La disponibilidad emocional es el lujo más raro hoy. No busques a quien te desee: busca a quien esté presente.",
     emocion: "Esperanza", nicho: "Relaciones", objetivo: "Guardados",
-    descripcion: "Eleva la presencia sobre el deseo. Madura y guardable.",
+    descripcion: "❤️ Verdad sobre el amor moderno: hoy lo más difícil de encontrar no es alguien que te desee, es alguien emocionalmente disponible, que esté presente de verdad, que no huya cuando las cosas se ponen serias. El deseo sobra; la presencia constante es el verdadero lujo. 🔖 Guárdalo para recordar qué buscar.",
     hashtags: "#relaciones #amor #presencia #parejas #amorpropio",
     prompt: "Dos personas plenamente presentes en una conversación sin teléfonos, luz cálida.",
     tecnicas: ["Reframe", "Antítesis", "Cierre emocional"]
