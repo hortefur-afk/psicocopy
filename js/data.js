@@ -32,6 +32,22 @@ const GENERATOR_BANK = {
     Narcisismo: "#narcisismo #relacionestoxicas #limites #saludmental",
     Hábitos: "#habitos #disciplina #productividad #mejora #constancia",
     Manipulación: "#limites #relacionestoxicas #inteligenciaemocional #conciencia"
+  },
+  // Descripciones LISTAS para publicar (texto de apoyo, no explicación)
+  descripciones: [
+    "A veces {tema} no se habla… solo se carga en silencio. Hoy alguien necesita leer que no está solo en esto.",
+    "Nadie te prepara para {tema}. Pero entenderlo es el primer paso para soltarlo.",
+    "Si estás pasando por {tema}, respira: esto también es parte de crecer.",
+    "Lo que casi nadie te dice sobre {tema} es que aceptarlo duele menos que seguir negándolo.",
+    "Guarda esto para el día en que {tema} vuelva a tocar tu puerta. Te va a hacer falta."
+  ],
+  // CTA invisibles según el OBJETIVO de la publicación
+  ctas: {
+    Compartidos: "Comparte esto con quien hoy lo necesita leer. 💭",
+    Comentarios: "¿Te ha pasado? Cuéntamelo aquí abajo. 👇",
+    Guardados: "Guárdalo para releerlo cuando lo necesites. 🔖",
+    Seguidores: "Sígueme para más frases que te hacen pensar. ✨",
+    Clics: "Te dejo la reflexión completa en el primer comentario. 👇"
   }
 };
 

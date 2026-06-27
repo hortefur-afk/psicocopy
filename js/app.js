@@ -230,11 +230,25 @@
       const tema = (temaInput.value || "eso que te quita la paz").trim();
       const frase = pick(GENERATOR_BANK.frases).replace(/\{tema\}/g, tema);
       const hashtags = GENERATOR_BANK.hashtags[nic.sel.value] || "#frases #reflexiones";
-      const desc = `Una reflexión sobre ${tema} pensada para generar ${goal.sel.value.toLowerCase()} a través de ${emo.sel.value.toLowerCase()}.`;
+
+      // Descripción LISTA para publicar = texto de apoyo + CTA según objetivo
+      const descBase = pick(GENERATOR_BANK.descripciones).replace(/\{tema\}/g, tema);
+      const cta = GENERATOR_BANK.ctas[goal.sel.value] || "";
+      const desc = cta ? `${descBase}\n\n${cta}` : descBase;
+
       const prompt = `Fotografía cinematográfica que transmite ${emo.sel.value.toLowerCase()}, relacionada con "${tema}", luz natural suave, estética editorial, bokeh.`;
 
+      // Publicación completa, lista para copiar y pegar de una sola vez
+      const fullPost = `${frase}\n\n${desc}\n\n${hashtags}`;
+
       out.innerHTML = "";
-      [["Frase", frase], ["Descripción", desc], ["Hashtags", hashtags], ["Prompt IA", prompt]].forEach(([h, v]) => {
+      [
+        ["📋 Publicación lista (copiar todo)", fullPost],
+        ["Frase", frase],
+        ["Descripción", desc],
+        ["Hashtags", hashtags],
+        ["Prompt IA", prompt]
+      ].forEach(([h, v]) => {
         const block = el("div", "out-block");
         block.innerHTML = `<button class="btn btn--ghost copy-btn">Copiar</button><h4>${h}</h4><pre>${esc(v)}</pre>`;
         block.querySelector(".copy-btn").addEventListener("click", (e) => {
