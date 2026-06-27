@@ -1335,6 +1335,168 @@ const LIBRARY = [
     hashtags: "#limites #relaciones #paciencia #conciencia #verdades",
     prompt: "Reloj de arena que nunca termina de caer junto a una persona que espera, conceptual.",
     tecnicas: ["Antítesis", "Reframe", "Gancho de debate"]
+  },
+
+  /* ========== LOTE 7 (equilibrado · más peso en Ciencia) ========== */
+
+  /* ----- CIENCIA / CURIOSIDADES ----- */
+  {
+    frase: "Tu cerebro decide muchas cosas segundos antes de que 'tú' creas haberlo decidido. El libre albedrío es más lento de lo que sientes.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
+    descripcion: "Curiosidad de neurociencia que invita a debatir sobre la decisión. Polémica sana.",
+    hashtags: "#neurociencia #cerebro #ciencia #librealbedrio #datoscuriosos",
+    prompt: "Cerebro con un destello de actividad anticipándose a una mano que actúa, estética científica.",
+    tecnicas: ["Dato revelador", "Curiosity Gap", "Gancho de debate"]
+  },
+  {
+    frase: "No existe el 'multitasking': tu cerebro solo cambia de tarea muy rápido, y cada cambio te cuesta concentración.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Desmonta el mito de la multitarea con base científica. Útil y guardable.",
+    hashtags: "#ciencia #productividad #cerebro #enfoque #neurociencia",
+    prompt: "Persona rodeada de varias pantallas con líneas de atención cruzándose y rompiéndose, conceptual.",
+    tecnicas: ["Dato revelador", "Antítesis", "Reframe"]
+  },
+  {
+    frase: "Bostezar es contagioso incluso al leerlo. Tu cerebro está cableado para imitar a los demás sin que lo notes.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Dato curioso sobre neuronas espejo y empatía. Muy compartible por lo lúdico.",
+    hashtags: "#ciencia #cerebro #empatia #datoscuriosos #neuronasespejo",
+    prompt: "Varias siluetas bostezando en cadena bajo una luz suave, estética conceptual amigable.",
+    tecnicas: ["Dato revelador", "Curiosity Gap", "Interacción"]
+  },
+  {
+    frase: "La música que te pone la piel de gallina libera el mismo químico del placer que la comida o el amor.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Conecta música y dopamina. Curioso y emocional a la vez.",
+    hashtags: "#ciencia #musica #dopamina #cerebro #datoscuriosos",
+    prompt: "Persona con los ojos cerrados sintiendo la música, ondas de luz suaves a su alrededor, conceptual.",
+    tecnicas: ["Dato revelador", "Identificación", "Reframe"]
+  },
+  {
+    frase: "Tu memoria no guarda los hechos: guarda la última vez que los recordaste. Cada recuerdo es una copia de una copia.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Profundiza en cómo se reescribe la memoria. Fascinante y guardable.",
+    hashtags: "#memoria #cerebro #ciencia #neurociencia #datoscuriosos",
+    prompt: "Fotografía que se va difuminando en cada reimpresión sucesiva, estética conceptual.",
+    tecnicas: ["Dato revelador", "Metáfora", "Curiosity Gap"]
+  },
+  {
+    frase: "Pasar tiempo en la naturaleza baja de verdad tus niveles de estrés. No es poético: es medible.",
+    emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Respalda el efecto de la naturaleza con tono científico. Positivo y accionable.",
+    hashtags: "#ciencia #naturaleza #estres #bienestar #saludmental",
+    prompt: "Persona caminando entre árboles altos con luz filtrándose, ambiente sereno y verde.",
+    tecnicas: ["Dato revelador", "Reframe", "Llamado a la acción"]
+  },
+  {
+    frase: "Tu sentido del tiempo se acelera con la rutina y se alarga con lo nuevo. Por eso los veranos de niño parecían eternos.",
+    emocion: "Nostalgia", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Explica la percepción del tiempo con un giro nostálgico. Muy compartible.",
+    hashtags: "#ciencia #tiempo #cerebro #memoria #datoscuriosos",
+    prompt: "Niño jugando en un verano dorado infinito frente a un adulto con un reloj veloz, conceptual.",
+    tecnicas: ["Dato revelador", "Nostalgia", "Curiosity Gap"]
+  },
+  {
+    frase: "Sonríe y tu cerebro empieza a creerse un poco más feliz. El gesto no solo expresa la emoción: también la provoca.",
+    emocion: "Esperanza", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Hipótesis de la retroalimentación facial, simple y accionable.",
+    hashtags: "#ciencia #cerebro #felicidad #bienestar #psicologia",
+    prompt: "Persona sonriendo suavemente bajo luz cálida matutina, ambiente luminoso y sereno.",
+    tecnicas: ["Dato revelador", "Reframe", "Llamado a la acción"]
+  },
+
+  /* ----- PSICOLOGÍA ----- */
+  {
+    frase: "Lo que callas para evitar un conflicto hoy, lo gritará tu cuerpo mañana.",
+    emocion: "Sorpresa", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "Conecta represión emocional y salud. Reflexiva e impactante.",
+    hashtags: "#emociones #saludmental #psicologia #cuerpo #bienestar",
+    prompt: "Silueta con tensión acumulada en hombros y mandíbula, líneas suaves, estética conceptual.",
+    tecnicas: ["Causa-efecto", "Reframe", "Metáfora"]
+  },
+  {
+    frase: "Compararte es injusto: ves el resumen editado de los demás y el documental completo de ti.",
+    emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Metáfora memorable contra la comparación. Guardable.",
+    hashtags: "#comparacion #saludmental #autoestima #psicologia #bienestar",
+    prompt: "Pantalla con un tráiler brillante frente a una sala viendo metraje crudo, conceptual.",
+    tecnicas: ["Metáfora", "Reframe", "Contraste"]
+  },
+
+  /* ----- RELACIONES ----- */
+  {
+    frase: "Una disculpa sin cambio es solo manipulación con buenos modales.",
+    emocion: "Enojo", nicho: "Relaciones", objetivo: "Comentarios",
+    descripcion: "Frase corta y contundente que separa palabras de hechos. Genera debate.",
+    hashtags: "#relaciones #limites #disculpas #verdades #amorpropio",
+    prompt: "Mano ofreciendo una nota de disculpa mientras la otra repite un gesto dañino, conceptual.",
+    tecnicas: ["Antítesis", "Brevedad", "Gancho de debate"]
+  },
+  {
+    frase: "No necesitas a alguien que te complete. Necesitas a alguien que no te haga sentir incompleto.",
+    emocion: "Esperanza", nicho: "Relaciones", objetivo: "Guardados",
+    descripcion: "Madura la idea del amor desde la suficiencia propia. Guardable.",
+    hashtags: "#relaciones #amorpropio #parejas #autoestima #frases",
+    prompt: "Dos personas caminando juntas pero completas, cada una con su propia luz, estética cálida.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre emocional"]
+  },
+
+  /* ----- AUTOESTIMA ----- */
+  {
+    frase: "Te criticas creyendo que así mejoras. Pero nadie floreció en un lugar donde solo le señalaban lo seco.",
+    emocion: "Calma", nicho: "Autoestima", objetivo: "Compartidos",
+    descripcion: "Metáfora sobre la autocrítica destructiva. Reflexiva y compartible.",
+    hashtags: "#autoestima #autocompasion #saludmental #amorpropio #bienestar",
+    prompt: "Planta creciendo hacia la luz en tierra cuidada frente a otra en tierra seca, conceptual.",
+    tecnicas: ["Metáfora", "Reframe", "Antítesis"]
+  },
+  {
+    frase: "Que no te elijan no te hace menos valioso. A nadie le gusta la misma canción y eso no le quita su valor a la canción.",
+    emocion: "Esperanza", nicho: "Autoestima", objetivo: "Guardados",
+    descripcion: "Metáfora reconfortante sobre el rechazo. Guardable.",
+    hashtags: "#autoestima #rechazo #amorpropio #valor #frases",
+    prompt: "Disco de vinilo girando bajo una luz cálida, estética nostálgica y serena.",
+    tecnicas: ["Metáfora", "Reframe", "Cierre emocional"]
+  },
+
+  /* ----- DINERO ----- */
+  {
+    frase: "La libertad no es tener mucho dinero. Es no tener que decir que sí a todo por necesitarlo.",
+    emocion: "Calma", nicho: "Dinero", objetivo: "Compartidos",
+    descripcion: "Redefine la libertad financiera desde la elección. Reflexiva.",
+    hashtags: "#libertadfinanciera #dinero #finanzas #mentalidad #vida",
+    prompt: "Persona rechazando con calma una oferta, postura serena, luz cálida, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
+  },
+
+  /* ----- HÁBITOS ----- */
+  {
+    frase: "Junta un hábito nuevo a uno que ya tienes. Tu cerebro aprende más rápido por asociación que por fuerza.",
+    emocion: "Esperanza", nicho: "Hábitos", objetivo: "Guardados",
+    descripcion: "Técnica de apilamiento de hábitos con base psicológica. Accionable.",
+    hashtags: "#habitos #productividad #disciplina #ciencia #mejora",
+    prompt: "Dos engranajes encajando, uno viejo y uno nuevo, girando juntos, estética conceptual limpia.",
+    tecnicas: ["Regla práctica", "Dato revelador", "Llamado a la acción"]
+  },
+
+  /* ----- NARCISISMO ----- */
+  {
+    frase: "Te hicieron creer que su versión calmada era un premio. La paz no debería sentirse como una recompensa por portarte bien.",
+    emocion: "Sorpresa", nicho: "Narcisismo", objetivo: "Guardados",
+    descripcion: "Revela cómo se normaliza el maltrato intermitente. Sanadora.",
+    hashtags: "#relacionestoxicas #narcisismo #pazmental #limites #conciencia",
+    prompt: "Luz que se enciende como premio tras una sombra, persona dándose cuenta, conceptual.",
+    tecnicas: ["Revelación", "Reframe", "Antítesis"]
+  },
+
+  /* ----- MANIPULACIÓN ----- */
+  {
+    frase: "Te hicieron sentir exagerado por sentir. Sentir nunca fue el problema; lo fue que no te quisieron escuchar.",
+    emocion: "Enojo", nicho: "Manipulación", objetivo: "Compartidos",
+    descripcion: "Valida las emociones invalidadas por otros. Liberadora.",
+    hashtags: "#limites #emociones #saludmental #manipulacion #conciencia",
+    prompt: "Persona expresándose mientras la otra minimiza con un gesto, luz contrastada, conceptual.",
+    tecnicas: ["Validación emocional", "Reframe", "Cierre potente"]
   }
 ];
 
