@@ -285,7 +285,7 @@ const LIBRARY = [
   {
     frase: "Primero te hicieron sentir especial. Luego te hicieron sentir que sin ellos no eras nada. Esa secuencia tiene nombre.",
     emocion: "Miedo", nicho: "Narcisismo", objetivo: "Guardados",
-    descripcion: "Describe el ciclo idealización-devaluación para ayudar a reconocerlo.",
+    descripcion: "🎭 Atención, porque esto le pasa a más gente de la que crees: primero te llenan de halagos y atención hasta el cielo, y cuando ya estás enganchado, empiezan a hacerte sentir que sin ellos no vales nada. Ese vaivén no es amor intenso, es un ciclo con nombre: idealización y devaluación. Reconocerlo es el primer paso para soltarlo. 🔖 Guárdalo, puede abrirle los ojos a alguien que amas.",
     hashtags: "#narcisismo #relacionestoxicas #cicloabuso #saludmental #conciencia",
     prompt: "Dos máscaras superpuestas, una sonriente y otra fría, iluminación dramática, estilo editorial.",
     tecnicas: ["Open Loop", "Storytelling", "Curiosity Gap"]
@@ -293,7 +293,7 @@ const LIBRARY = [
   {
     frase: "Que te pida perdón no significa que vaya a cambiar. A veces solo significa que no quiere perder el control.",
     emocion: "Enojo", nicho: "Narcisismo", objetivo: "Comentarios",
-    descripcion: "Distingue el arrepentimiento real de la manipulación. Genera debate intenso.",
+    descripcion: "🚩 Te lo digo claro aunque incomode: no toda disculpa busca reparar. A veces el «perdón» llega justo cuando sienten que te están perdiendo, no porque les duela lo que hicieron. La prueba no son sus palabras, son sus actos las semanas siguientes. Perdón sin cambio es solo manipulación con buenos modales. 👇 ¿Lo has vivido? Cuéntalo en los comentarios.",
     hashtags: "#relacionestoxicas #narcisismo #limites #manipulacion #verdades",
     prompt: "Mano extendida ofreciendo una flor marchita, contraste sombrío, fotografía conceptual.",
     tecnicas: ["Antítesis", "Reframe", "Gancho de debate"]
@@ -303,7 +303,7 @@ const LIBRARY = [
   {
     frase: "No te falta disciplina. Te sobran decisiones que podrías haber automatizado.",
     emocion: "Sorpresa", nicho: "Hábitos", objetivo: "Guardados",
-    descripcion: "Reenfoca la disciplina como diseño de sistemas, no fuerza de voluntad.",
+    descripcion: "🧠 Te quito un peso de encima: no es que te falte fuerza de voluntad, es que gastas toda tu energía decidiendo cosas que deberían ser automáticas. Qué comer, a qué hora entrenar, cuándo empezar… cada microdecisión te agota. Deja lista la ropa, la comida y el horario desde la noche anterior y verás cómo «aparece» la disciplina. 🔖 Guárdalo, es un truco que cambia días enteros.",
     hashtags: "#habitos #disciplina #productividad #sistemas #mejora",
     prompt: "Rutina matutina ordenada sobre una mesa: agua, libreta, zapatillas, luz limpia y minimalista.",
     tecnicas: ["Reframe", "Antítesis", "Brevedad"]
@@ -311,7 +311,7 @@ const LIBRARY = [
   {
     frase: "Un día tras otro no es aburrido. Es el precio silencioso de todo lo que admiras en otros.",
     emocion: "Orgullo", nicho: "Hábitos", objetivo: "Compartidos",
-    descripcion: "Dignifica la constancia frente a la fantasía del éxito rápido.",
+    descripcion: "🔥 La gente admira el resultado, pero huye del proceso. Eso que ves y envidias en alguien (su cuerpo, su negocio, su calma) es la suma de miles de días aburridos que nadie aplaudió. No hay magia ni suerte: hay repetición silenciosa. Lo épico se ve en redes; lo que de verdad transforma se hace cuando nadie mira. ✨ Comparte con quien necesita dejar de buscar atajos.",
     hashtags: "#constancia #disciplina #habitos #exito #mentalidad",
     prompt: "Escalera de piedra ascendiendo entre la niebla hacia la luz, estética épica y serena.",
     tecnicas: ["Reframe", "Prueba social implícita", "Metáfora"]
@@ -319,7 +319,7 @@ const LIBRARY = [
   {
     frase: "Empieza tan pequeño que sea ridículo fallar. La constancia nace de lo fácil, no de lo épico.",
     emocion: "Esperanza", nicho: "Hábitos", objetivo: "Guardados",
-    descripcion: "Consejo práctico para empezar hábitos sin abrumarse. Muy guardable.",
+    descripcion: "💡 Te resuelvo el error más común al empezar algo nuevo: arrancas tan fuerte que a los tres días te quemas. El secreto es al revés: hazlo tan pequeño que sea ridículo no cumplirlo. ¿Una flexión? ¿Dos líneas? Perfecto. La constancia no nace de la motivación épica, nace de lo tan fácil que no puedes fallar. 🔖 Guárdalo y empieza hoy con la versión mínima.",
     hashtags: "#habitos #productividad #disciplina #mejora #constancia",
     prompt: "Una sola flexión o un vaso de agua sobre fondo claro, simbolismo de inicio pequeño, minimalista.",
     tecnicas: ["Reframe", "Regla práctica", "Contraste"]
@@ -329,7 +329,7 @@ const LIBRARY = [
   {
     frase: "Si poner un límite hace que te llamen 'malo', el límite era justo lo que necesitabas.",
     emocion: "Orgullo", nicho: "Manipulación", objetivo: "Compartidos",
-    descripcion: "Empodera a quien teme poner límites por miedo a la culpa ajena.",
+    descripcion: "🛑 Ojo con esto: cuando alguien se enoja porque por fin pusiste un límite, no estás siendo malo… estás dejando de ser cómodo para esa persona. A quien le servía tu «sí» eterno le va a molestar tu primer «no». Y justo ahí, en esa incomodidad, está la prueba de que el límite hacía falta. ✨ Comparte con quien siente culpa por empezar a cuidarse.",
     hashtags: "#limites #relacionestoxicas #inteligenciaemocional #amorpropio #conciencia",
     prompt: "Persona cerrando suavemente una puerta con expresión serena, luz cálida del otro lado, estilo editorial.",
     tecnicas: ["Reframe", "Regla de oro", "Validación emocional"]
@@ -337,7 +337,7 @@ const LIBRARY = [
   {
     frase: "La culpa que sientes al decir 'no' no siempre es tuya. A veces te la prestaron para que obedezcas.",
     emocion: "Sorpresa", nicho: "Manipulación", objetivo: "Guardados",
-    descripcion: "Distingue la culpa propia de la culpa inducida. Revelador.",
+    descripcion: "🧠 Dato que libera: esa culpa que te aplasta cada vez que dices «no» no siempre nació en ti. A veces te la sembraron para que fuera más fácil controlarte: si te sientes mal por negarte, terminas cediendo. Aprende a preguntarte si esa culpa es tuya o te la prestaron. 🔖 Guárdalo, distinguirlo te va a cambiar la vida.",
     hashtags: "#culpa #limites #manipulacion #saludmental #inteligenciaemocional",
     prompt: "Hilos invisibles atados a una muñeca abriéndose, luz suave, estilo conceptual de liberación.",
     tecnicas: ["Reframe", "Metáfora", "Revelación"]
@@ -347,7 +347,7 @@ const LIBRARY = [
   {
     frase: "El día que dejé de perseguir, empezaron a buscarme. No era magia: era respeto propio.",
     emocion: "Orgullo", nicho: "Relaciones", objetivo: "Seguidores",
-    descripcion: "Historia breve con moraleja sobre autovaloración. Atrae seguidores que se identifican.",
+    descripcion: "✨ Te cuento algo que comprobé en carne propia: el día que dejé de rogar atención, las cosas cambiaron. No fue un truco de seducción ni jugar al desinterés… fue respeto propio real. Cuando dejas de mendigar tu lugar, la gente nota que ya no estás disponible para lo que sea. Tu energía cambia y el mundo responde a eso. 💛 Sígueme para más recordatorios como este.",
     hashtags: "#amorpropio #relaciones #autoestima #respeto #frases",
     prompt: "Persona caminando con seguridad por una calle iluminada al atardecer, estética cinematográfica.",
     tecnicas: ["Storytelling", "Reframe", "Cierre potente"]
@@ -355,7 +355,7 @@ const LIBRARY = [
   {
     frase: "Guárdate esto: la paz también es una forma de éxito. Quizás la más difícil de conseguir.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Redefine el éxito desde el bienestar. CTA invisible de guardar incluido.",
+    descripcion: "🕊️ Nos vendieron que el éxito es ruido: dinero, likes, logros que presumir. Pero hay un éxito del que casi nadie habla y es el más difícil de todos: poder dormir tranquilo, no deberle explicaciones a nadie y no traer la cabeza en guerra. Esa paz no se hereda ni se compra, se construye. 🔖 Guárdalo para los días en que dudes de tu camino.",
     hashtags: "#pazmental #exito #bienestar #saludmental #mentalidad",
     prompt: "Persona meditando en una habitación luminosa y ordenada, plantas, luz natural, atmósfera serena.",
     tecnicas: ["Reframe", "CTA invisible", "Brevedad"]
@@ -363,7 +363,7 @@ const LIBRARY = [
   {
     frase: "¿Y si el problema no era que pedías demasiado… sino que se lo pedías a quien no podía darlo?",
     emocion: "Esperanza", nicho: "Relaciones", objetivo: "Comentarios",
-    descripcion: "Pregunta retórica que reencuadra el dolor y abre conversación.",
+    descripcion: "💭 Reflexiona conmigo un segundo: quizás nunca pediste de más. Quizás solo le pediste profundidad a alguien que vivía en la superficie, o constancia a quien solo sabía a ratos. No era que tu amor fuera demasiado… era que se lo entregabas a la persona equivocada. 👇 ¿Te hizo clic esta idea? Cuéntame en los comentarios.",
     hashtags: "#relaciones #amorpropio #limites #reflexion #parejas",
     prompt: "Dos manos que casi se tocan pero no llegan, luz suave de contraste, fotografía emotiva.",
     tecnicas: ["Pregunta retórica", "Reframe", "Gancho de debate"]
@@ -371,7 +371,7 @@ const LIBRARY = [
   {
     frase: "Tu yo de hace cinco años daría lo que fuera por estar donde estás. No lo olvides cuando te exijas tanto.",
     emocion: "Nostalgia", nicho: "Autoestima", objetivo: "Compartidos",
-    descripcion: "Cambia la perspectiva del autoexigente recordando el progreso logrado.",
+    descripcion: "🥹 Pausa un momento: ese «poco» que hoy menosprecias es exactamente lo que tu yo de hace cinco años soñaba con tener. Avanzaste más de lo que te reconoces, pero te exiges tanto que ya no lo ves. Hoy, en vez de pedirte más, agradece cuánto camino llevas. ✨ Comparte si necesitabas este recordatorio para ser más amable contigo.",
     hashtags: "#gratitud #autoestima #progreso #mentalidad #bienestar",
     prompt: "Persona mirando fotografías antiguas con una sonrisa suave, luz cálida nostálgica.",
     tecnicas: ["Reframe", "Perspectiva temporal", "Validación emocional"]
@@ -379,7 +379,7 @@ const LIBRARY = [
   {
     frase: "Da miedo empezar de nuevo. Pero da más miedo seguir igual cinco años más.",
     emocion: "Miedo", nicho: "Hábitos", objetivo: "Compartidos",
-    descripcion: "Contrasta dos miedos para empujar al cambio. Muy compartible.",
+    descripcion: "🔥 Aquí está la pregunta que incomoda: ¿qué da más miedo, empezar de cero hoy… o despertar en cinco años exactamente en el mismo lugar, arrepentido de no haberlo intentado? Reiniciar asusta, sí. Pero quedarte quieto por miedo tiene un precio que se paga en años perdidos. 🚀 Comparte con quien necesita el empujón para arrancar.",
     hashtags: "#cambio #miedo #valentia #superacion #mentalidad",
     prompt: "Bifurcación de un camino en el bosque al amanecer, una senda iluminada, estética simbólica.",
     tecnicas: ["Contraste", "Reframe", "Llamado a la acción"]
@@ -387,7 +387,7 @@ const LIBRARY = [
   {
     frase: "No todos los que aplauden tu calma vivieron tu tormenta. Por eso tu paz vale doble.",
     emocion: "Orgullo", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Reconoce el mérito invisible de quien sanó en silencio.",
+    descripcion: "🌊 Que nadie minimice tu paz: la que hoy ven serena pasó noches que nadie vio. Tu calma no es suerte ni que «todo te dé igual», es el resultado de una tormenta que sobreviviste en silencio. Por eso vale el doble: te costó. 🔖 Guárdalo para recordarte de dónde saliste cuando alguien dude de ti.",
     hashtags: "#superacion #saludmental #pazmental #resiliencia #fortaleza",
     prompt: "Mar en calma tras una tormenta, cielo despejándose, luz dorada en el horizonte.",
     tecnicas: ["Metáfora", "Reframe", "Cierre emocional"]
@@ -395,7 +395,7 @@ const LIBRARY = [
   {
     frase: "Comparte si alguna vez fingiste estar bien para no preocupar a nadie.",
     emocion: "Tristeza", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "Invitación directa y empática que da permiso a sentirse identificado.",
+    descripcion: "😔 Cuántas veces dijiste «estoy bien» con la voz quebrada por dentro, solo para no ser una carga. Te volviste fuerte para todos y olvidaste que tú también tenías permiso de no estar bien. Hoy quiero recordarte algo: fingir te protege un rato, pero te aísla a largo plazo. 🤍 Comparte si alguna vez te tocó hacerlo, alguien necesita sentirse acompañado hoy.",
     hashtags: "#saludmental #emociones #vulnerabilidad #bienestar #frases",
     prompt: "Persona con una sonrisa cansada frente a un espejo que refleja una expresión triste, luz tenue.",
     tecnicas: ["CTA invisible", "Espejo emocional", "Vulnerabilidad"]
@@ -407,7 +407,7 @@ const LIBRARY = [
   {
     frase: "Lo contrario del amor no es el odio. Es la indiferencia de quien antes te escribía todos los días.",
     emocion: "Tristeza", nicho: "Relaciones", objetivo: "Compartidos",
-    descripcion: "Pone palabras al dolor silencioso del distanciamiento. Conecta de inmediato.",
+    descripcion: "💔 Duele, pero es verdad: el odio todavía tiene emoción detrás. Lo que de verdad rompe es la indiferencia de quien antes te escribía a diario y ahora ni nota si existes. Pasar de ser todo a ser nada, sin pelea ni explicación, es de los duelos más silenciosos que hay. 🤍 Comparte si esta frase te llegó más de lo que esperabas.",
     hashtags: "#desamor #relaciones #indiferencia #frases #reflexiones",
     prompt: "Pantalla de chat con el último mensaje sin respuesta, luz azulada de la noche, ambiente melancólico.",
     tecnicas: ["Antítesis", "Espejo emocional", "Cierre emocional"]
@@ -415,7 +415,7 @@ const LIBRARY = [
   {
     frase: "Te eligieron a medias y aun así diste todo. Imagina lo que harás cuando alguien te elija completo.",
     emocion: "Esperanza", nicho: "Relaciones", objetivo: "Guardados",
-    descripcion: "Convierte una herida en promesa. Da esperanza sin negar el dolor.",
+    descripcion: "🌅 Mira el otro lado de la herida: si entregaste todo por alguien que solo te eligió a medias, imagina de lo que serás capaz cuando llegue quien te elija entero, sin dudas ni condiciones. Tu capacidad de amar nunca fue el problema; el problema fue dónde la estabas poniendo. 🔖 Guárdalo para cuando dudes de volver a confiar.",
     hashtags: "#amorpropio #relaciones #esperanza #merecer #frases",
     prompt: "Amanecer sobre un campo abierto, una persona de pie mirando al horizonte, luz cálida y prometedora.",
     tecnicas: ["Reframe", "Contraste", "Cierre potente"]
@@ -423,7 +423,7 @@ const LIBRARY = [
   {
     frase: "Madurar en pareja es dejar de querer ganar la discusión y empezar a querer entender a la persona.",
     emocion: "Calma", nicho: "Relaciones", objetivo: "Comentarios",
-    descripcion: "Invita a reflexionar sobre el ego en las relaciones. Genera respuestas.",
+    descripcion: "❤️ Hablemos de pareja sin filtros: muchas relaciones no mueren por falta de amor, mueren por exceso de ego. Querer tener siempre la razón te hace ganar discusiones y perder a la persona. Madurar juntos es cambiar el «¿quién tiene razón?» por «¿qué te está pasando?». 👇 ¿Crees que el ego rompe más parejas que la falta de amor? Te leo en los comentarios.",
     hashtags: "#parejas #relaciones #madurez #comunicacion #amor",
     prompt: "Pareja sentada frente a frente tomados de las manos en una conversación tranquila, luz suave de tarde.",
     tecnicas: ["Reframe", "Antítesis", "Gancho de debate"]
@@ -431,7 +431,7 @@ const LIBRARY = [
   {
     frase: "No era amor. Era miedo a quedarte solo disfrazado de cariño.",
     emocion: "Sorpresa", nicho: "Relaciones", objetivo: "Compartidos",
-    descripcion: "Una verdad incómoda que muchos reconocen al releerla. Alto poder de identificación.",
+    descripcion: "😶‍🌫️ Verdad incómoda: a veces no nos quedamos por amor, nos quedamos por miedo. Miedo al silencio, a volver a empezar, a la soledad. Y ese miedo se disfraza tan bien de cariño que llegamos a confundirlos. Pero quedarte por miedo no es amar… es solo posponer una despedida necesaria. 🤍 Comparte si alguna vez confundiste las dos cosas.",
     hashtags: "#relaciones #soledad #amorpropio #verdades #reflexion",
     prompt: "Persona sola en un cuarto con una sola luz encendida, sombras suaves, atmósfera introspectiva.",
     tecnicas: ["Revelación", "Reframe", "Brevedad"]
@@ -441,7 +441,7 @@ const LIBRARY = [
   {
     frase: "Descansar no es premio por terminar todo. Es requisito para poder seguir.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Reescribe la culpa del descanso. Ideal para perfiles de bienestar.",
+    descripcion: "😮‍💨 Te lo aclaro porque la culpa no te deja descansar: el descanso no es un premio que te ganas cuando terminas todo. Es el combustible que te permite seguir sin romperte. Esperar a «acabar pendientes» para parar es la receta perfecta del agotamiento, porque los pendientes nunca se acaban. 🔖 Guárdalo y date permiso de parar antes de vaciarte.",
     hashtags: "#descanso #saludmental #autocuidado #bienestar #burnout",
     prompt: "Persona recostada leyendo junto a una ventana con luz natural, ambiente sereno y acogedor.",
     tecnicas: ["Reframe", "Antítesis", "Regla de oro"]
@@ -449,7 +449,7 @@ const LIBRARY = [
   {
     frase: "Estás comparando tu detrás de cámaras con el estreno editado de los demás. No es una pelea justa.",
     emocion: "Sorpresa", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "Desarma la comparación en redes con una metáfora clara y memorable.",
+    descripcion: "🎬 Aquí está la trampa de las redes: comparas tu día crudo, sin editar, con el tráiler perfecto que los demás eligieron mostrar. Ves su mejor momento y lo enfrentas con tu peor rato. No es una pelea justa, es una pelea amañada. Deja de medirte contra una versión que ni siquiera es real. ✨ Comparte con quien vive comparándose.",
     hashtags: "#comparacion #saludmental #redessociales #autoestima #mentalidad",
     prompt: "Detrás de cámaras de una producción frente a una pantalla pulida, contraste visual, estilo conceptual.",
     tecnicas: ["Metáfora", "Reframe", "Identificación"]
@@ -457,7 +457,7 @@ const LIBRARY = [
   {
     frase: "Algunas heridas no necesitan que alguien las entienda. Solo necesitan que tú dejes de fingir que no existen.",
     emocion: "Tristeza", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Invita a la honestidad emocional con uno mismo. Profundo y guardable.",
+    descripcion: "🩹 Te resuelvo algo que tal vez llevas tiempo evitando: hay heridas que no se curan esperando que alguien las valide o las entienda. Se empiezan a sanar el día en que tú dejas de fingir que no están ahí. Nombrar lo que duele, en voz baja y para ti, ya es empezar a sanar. 🔖 Guárdalo para cuando te sientas listo para mirarlo de frente.",
     hashtags: "#sanar #saludmental #emociones #honestidad #bienestar",
     prompt: "Persona con la mano sobre el pecho, ojos cerrados, luz tenue y cálida, atmósfera introspectiva.",
     tecnicas: ["Reframe", "Validación emocional", "Cierre emocional"]
@@ -465,7 +465,7 @@ const LIBRARY = [
   {
     frase: "La procrastinación no es pereza. Casi siempre es miedo a hacerlo mal disfrazado de 'mañana'.",
     emocion: "Sorpresa", nicho: "Psicología", objetivo: "Comentarios",
-    descripcion: "Reencuadra la procrastinación desde el miedo, no la flojera. Abre conversación.",
+    descripcion: "🧠 Dato que cambia cómo te ves: postergar casi nunca es flojera. Detrás de ese «mañana lo hago» suele esconderse miedo a no hacerlo perfecto, a fallar, a no ser suficiente. No eres vago: estás asustado, y tu cerebro evita la incomodidad. Entenderlo es el primer paso para destrabarte. 👇 ¿Tú qué crees que hay detrás de tu procrastinación? Cuéntalo abajo.",
     hashtags: "#procrastinacion #productividad #psicologia #miedo #habitos",
     prompt: "Escritorio con tareas pendientes y un reloj, persona mirando la ventana distraída, luz neutra.",
     tecnicas: ["Reframe", "Revelación", "Gancho de debate"]
@@ -475,7 +475,7 @@ const LIBRARY = [
   {
     frase: "No necesitas ganar más para empezar. Necesitas dejar de huir de tus números.",
     emocion: "Miedo", nicho: "Dinero", objetivo: "Guardados",
-    descripcion: "Confronta el miedo a mirar las finanzas propias. Accionable.",
+    descripcion: "💸 Verdad financiera incómoda: la mayoría no tiene un problema de ingresos, tiene un problema de evitación. Da miedo abrir la app del banco, revisar las deudas, mirar a dónde se va el dinero… así que no lo haces. Pero lo que no miras, no lo controlas. El primer paso no es ganar más, es dejar de huir de tus números. 🔖 Guárdalo y revisa tus cuentas hoy.",
     hashtags: "#finanzas #dinero #educacionfinanciera #habitos #mentalidad",
     prompt: "Persona abriendo un sobre con cuentas sobre una mesa de madera, luz cálida, ambiente honesto.",
     tecnicas: ["Reframe", "Antítesis", "Llamado a la acción"]
@@ -483,7 +483,7 @@ const LIBRARY = [
   {
     frase: "Comprar barato lo que no necesitas sigue siendo caro.",
     emocion: "Sorpresa", nicho: "Dinero", objetivo: "Compartidos",
-    descripcion: "Frase corta y contundente sobre consumo. Muy compartible por lo memorable.",
+    descripcion: "🛒 Te ahorro dinero con una sola idea: una oferta no es un ahorro si era algo que no necesitabas. Gastaste, no ahorraste, por más que el precio fuera bajo. El marketing te hace sentir listo por «aprovechar», cuando en realidad caíste justo donde querían. Lo barato innecesario también vacía tu cuenta. ✨ Comparte con quien cae en cada promoción.",
     hashtags: "#dinero #ahorro #finanzas #consumo #mentalidad",
     prompt: "Bolsas de compras acumuladas en una esquina con etiquetas de oferta, luz dura, estilo conceptual.",
     tecnicas: ["Antítesis", "Brevedad", "Paradoja"]
