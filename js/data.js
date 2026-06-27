@@ -1339,7 +1339,7 @@ const LIBRARY = [
   {
     frase: "Volver con quien te lastimó porque 'cambió' suele ser volver a la misma película esperando otro final.",
     emocion: "Calma", nicho: "Narcisismo", objetivo: "Guardados",
-    descripcion: "Advierte sobre las recaídas en relaciones tóxicas. Guardable.",
+    descripcion: "🎬 Antes de recaer, lee esto: volver con quien te hizo daño porque «ahora sí cambió» suele ser regresar a la misma película esperando un final distinto. Si nada de fondo cambió, la historia se repite. El cambio se demuestra con tiempo y hechos, no con promesas en una crisis. 🔖 Guárdalo para cuando dudes en volver.",
     hashtags: "#relacionestoxicas #narcisismo #limites #saludmental #sanar",
     prompt: "Persona ante una puerta giratoria que vuelve al mismo lugar, luz tenue, estética conceptual.",
     tecnicas: ["Metáfora", "Reframe", "Regla de oro"]
@@ -1349,7 +1349,7 @@ const LIBRARY = [
   {
     frase: "Quien te quiere bien no te castiga con silencio por haber dicho lo que sentías.",
     emocion: "Enojo", nicho: "Manipulación", objetivo: "Compartidos",
-    descripcion: "Señala la ley del hielo como forma de control. Identificación clara.",
+    descripcion: "🚩 Que te quede claro: expresar lo que sientes no debería costarte días de silencio como castigo. La ley del hielo no es «necesitar espacio», es una forma de controlarte para que la próxima vez te calles. Quien te quiere bien conversa, no te congela. ✨ Comparte para que alguien deje de normalizar ese trato.",
     hashtags: "#limites #relacionestoxicas #manipulacion #saludmental #conciencia",
     prompt: "Persona hablando mientras la otra le da la espalda en silencio, luz fría, conceptual.",
     tecnicas: ["Reframe", "Revelación", "Brevedad"]
@@ -1357,7 +1357,7 @@ const LIBRARY = [
   {
     frase: "Cuidado con quien te pide paciencia para todo, pero no te ofrece cambio para nada.",
     emocion: "Sorpresa", nicho: "Manipulación", objetivo: "Comentarios",
-    descripcion: "Distingue la paciencia sana de la excusa indefinida. Genera respuestas.",
+    descripcion: "⏳ Bandera roja sutil: hay quien te pide paciencia una y otra vez, pero nunca te ofrece un solo cambio a cambio. La paciencia sana acompaña un esfuerzo real; la otra solo te mantiene esperando indefinidamente. Esperar eternamente no es amor, es estancamiento. 👇 ¿Te ha tocado esperar un cambio que nunca llegó? Cuéntalo abajo.",
     hashtags: "#limites #relaciones #paciencia #conciencia #verdades",
     prompt: "Reloj de arena que nunca termina de caer junto a una persona que espera, conceptual.",
     tecnicas: ["Antítesis", "Reframe", "Gancho de debate"]
@@ -1369,7 +1369,7 @@ const LIBRARY = [
   {
     frase: "Tu cerebro decide muchas cosas segundos antes de que 'tú' creas haberlo decidido. El libre albedrío es más lento de lo que sientes.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Curiosidad de neurociencia que invita a debatir sobre la decisión. Polémica sana.",
+    descripcion: "🧠 Dato que te dejará pensando: experimentos muestran que tu cerebro empieza a tomar ciertas decisiones segundos antes de que «tú» seas consciente de haberlas tomado. O sea, a veces decides y luego te cuentas la historia de que decidiste. 👇 ¿Crees que tenemos tanto libre albedrío como pensamos? Te leo en los comentarios.",
     hashtags: "#neurociencia #cerebro #ciencia #librealbedrio #datoscuriosos",
     prompt: "Cerebro con un destello de actividad anticipándose a una mano que actúa, estética científica.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Gancho de debate"]
@@ -1377,7 +1377,7 @@ const LIBRARY = [
   {
     frase: "No existe el 'multitasking': tu cerebro solo cambia de tarea muy rápido, y cada cambio te cuesta concentración.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Desmonta el mito de la multitarea con base científica. Útil y guardable.",
+    descripcion: "🧠 Te derribo un mito de productividad: el multitasking no existe. Tu cerebro no hace dos cosas a la vez, solo salta rapidísimo entre tareas, y cada salto te cuesta concentración y energía. Por eso terminas agotado habiendo «avanzado» en todo y nada. Haz una cosa a la vez. 🔖 Guárdalo, esto cambia cómo trabajas.",
     hashtags: "#ciencia #productividad #cerebro #enfoque #neurociencia",
     prompt: "Persona rodeada de varias pantallas con líneas de atención cruzándose y rompiéndose, conceptual.",
     tecnicas: ["Dato revelador", "Antítesis", "Reframe"]
@@ -1385,7 +1385,7 @@ const LIBRARY = [
   {
     frase: "Bostezar es contagioso incluso al leerlo. Tu cerebro está cableado para imitar a los demás sin que lo notes.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato curioso sobre neuronas espejo y empatía. Muy compartible por lo lúdico.",
+    descripcion: "🥱 Apuesto a que bostezaste al leer la frase, ¿o lo harás en un rato? Es real: el bostezo se contagia incluso leyéndolo, porque tu cerebro está cableado para imitar a los demás gracias a las neuronas espejo, la misma base de la empatía. 👇 ¿Bostezaste? Confiésalo en los comentarios 😄.",
     hashtags: "#ciencia #cerebro #empatia #datoscuriosos #neuronasespejo",
     prompt: "Varias siluetas bostezando en cadena bajo una luz suave, estética conceptual amigable.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Interacción"]
@@ -1393,7 +1393,7 @@ const LIBRARY = [
   {
     frase: "La música que te pone la piel de gallina libera el mismo químico del placer que la comida o el amor.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Conecta música y dopamina. Curioso y emocional a la vez.",
+    descripcion: "🎶 Dato que explica por qué cierta canción te eriza la piel: en esos momentos tu cerebro libera dopamina, el mismo químico del placer que activan la comida o el amor. No es exageración tuya, es química real. La música, literalmente, te recompensa. ✨ Comparte y etiqueta con qué canción te pasa.",
     hashtags: "#ciencia #musica #dopamina #cerebro #datoscuriosos",
     prompt: "Persona con los ojos cerrados sintiendo la música, ondas de luz suaves a su alrededor, conceptual.",
     tecnicas: ["Dato revelador", "Identificación", "Reframe"]
@@ -1401,7 +1401,7 @@ const LIBRARY = [
   {
     frase: "Tu memoria no guarda los hechos: guarda la última vez que los recordaste. Cada recuerdo es una copia de una copia.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Profundiza en cómo se reescribe la memoria. Fascinante y guardable.",
+    descripcion: "🧠 Esto te va a sorprender: cada vez que recuerdas algo, no abres el original, sino la última versión que recordaste… y la modificas un poco. Con los años, tus recuerdos son copias de copias, no fotos exactas. Por eso a veces «recuerdas» cosas que no pasaron tal cual. 🔖 Guárdalo, cambia cómo ves tu memoria.",
     hashtags: "#memoria #cerebro #ciencia #neurociencia #datoscuriosos",
     prompt: "Fotografía que se va difuminando en cada reimpresión sucesiva, estética conceptual.",
     tecnicas: ["Dato revelador", "Metáfora", "Curiosity Gap"]
@@ -1409,7 +1409,7 @@ const LIBRARY = [
   {
     frase: "Pasar tiempo en la naturaleza baja de verdad tus niveles de estrés. No es poético: es medible.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Respalda el efecto de la naturaleza con tono científico. Positivo y accionable.",
+    descripcion: "🌳 No es solo una frase bonita: pasar tiempo en la naturaleza baja de verdad el cortisol, la hormona del estrés, y se puede medir. Un rato entre árboles o cerca del mar le hace a tu cerebro lo que ninguna pantalla puede. Tu mente necesita verde, no solo descanso. ✨ Comparte con quien lleve mucho encerrado.",
     hashtags: "#ciencia #naturaleza #estres #bienestar #saludmental",
     prompt: "Persona caminando entre árboles altos con luz filtrándose, ambiente sereno y verde.",
     tecnicas: ["Dato revelador", "Reframe", "Llamado a la acción"]
@@ -1417,7 +1417,7 @@ const LIBRARY = [
   {
     frase: "Tu sentido del tiempo se acelera con la rutina y se alarga con lo nuevo. Por eso los veranos de niño parecían eternos.",
     emocion: "Nostalgia", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Explica la percepción del tiempo con un giro nostálgico. Muy compartible.",
+    descripcion: "⏳ ¿Por qué de niño los veranos eran eternos y ahora los años vuelan? Porque tu cerebro mide el tiempo por experiencias nuevas, y de niño todo era nuevo. La rutina acelera el tiempo; lo nuevo lo estira. Vivir cosas distintas, literalmente, te alarga la vida percibida. 🔖 Guárdalo y sal a vivir algo nuevo.",
     hashtags: "#ciencia #tiempo #cerebro #memoria #datoscuriosos",
     prompt: "Niño jugando en un verano dorado infinito frente a un adulto con un reloj veloz, conceptual.",
     tecnicas: ["Dato revelador", "Nostalgia", "Curiosity Gap"]
@@ -1425,7 +1425,7 @@ const LIBRARY = [
   {
     frase: "Sonríe y tu cerebro empieza a creerse un poco más feliz. El gesto no solo expresa la emoción: también la provoca.",
     emocion: "Esperanza", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Hipótesis de la retroalimentación facial, simple y accionable.",
+    descripcion: "😊 Dato que puedes probar ahora: sonreír, aunque sea a propósito, le manda a tu cerebro la señal de que algo bueno pasa, y mejora un poco tu ánimo. El gesto no solo expresa la emoción, también la provoca. El cuerpo a veces guía a la mente. ✨ Comparte este pequeño truco de bienestar.",
     hashtags: "#ciencia #cerebro #felicidad #bienestar #psicologia",
     prompt: "Persona sonriendo suavemente bajo luz cálida matutina, ambiente luminoso y sereno.",
     tecnicas: ["Dato revelador", "Reframe", "Llamado a la acción"]
@@ -1435,7 +1435,7 @@ const LIBRARY = [
   {
     frase: "Lo que callas para evitar un conflicto hoy, lo gritará tu cuerpo mañana.",
     emocion: "Sorpresa", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "Conecta represión emocional y salud. Reflexiva e impactante.",
+    descripcion: "😮‍💨 Verdad incómoda: eso que te tragas «para no pelear» no desaparece, se guarda. Y tarde o temprano tu cuerpo lo grita: tensión, insomnio, ansiedad, dolores sin causa. Lo no dicho se cobra factura. Hablar a tiempo, con respeto, también es cuidar tu salud. ✨ Comparte si crees que callar también enferma.",
     hashtags: "#emociones #saludmental #psicologia #cuerpo #bienestar",
     prompt: "Silueta con tensión acumulada en hombros y mandíbula, líneas suaves, estética conceptual.",
     tecnicas: ["Causa-efecto", "Reframe", "Metáfora"]
@@ -1443,7 +1443,7 @@ const LIBRARY = [
   {
     frase: "Compararte es injusto: ves el resumen editado de los demás y el documental completo de ti.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Metáfora memorable contra la comparación. Guardable.",
+    descripcion: "🎬 Por qué la comparación siempre te hace perder: ves el tráiler perfecto y editado de los demás, pero conoces el documental completo de tu vida, con todas las tomas malas. No es una pelea justa, es comparar su mejor momento con tu peor rato. 🔖 Guárdalo para cuando el feed te haga sentir menos.",
     hashtags: "#comparacion #saludmental #autoestima #psicologia #bienestar",
     prompt: "Pantalla con un tráiler brillante frente a una sala viendo metraje crudo, conceptual.",
     tecnicas: ["Metáfora", "Reframe", "Contraste"]
@@ -1453,7 +1453,7 @@ const LIBRARY = [
   {
     frase: "Una disculpa sin cambio es solo manipulación con buenos modales.",
     emocion: "Enojo", nicho: "Relaciones", objetivo: "Comentarios",
-    descripcion: "Frase corta y contundente que separa palabras de hechos. Genera debate.",
+    descripcion: "🚩 Frase para releer: «perdón» sin un cambio real es solo manipulación con buenos modales. Si la disculpa llega bonita pero la conducta se repite a la semana, no era arrepentimiento, era una pausa para que bajaras la guardia. Los hechos valen más que las palabras. 👇 ¿De acuerdo? Cuéntalo en los comentarios.",
     hashtags: "#relaciones #limites #disculpas #verdades #amorpropio",
     prompt: "Mano ofreciendo una nota de disculpa mientras la otra repite un gesto dañino, conceptual.",
     tecnicas: ["Antítesis", "Brevedad", "Gancho de debate"]
@@ -1461,7 +1461,7 @@ const LIBRARY = [
   {
     frase: "No necesitas a alguien que te complete. Necesitas a alguien que no te haga sentir incompleto.",
     emocion: "Esperanza", nicho: "Relaciones", objetivo: "Guardados",
-    descripcion: "Madura la idea del amor desde la suficiencia propia. Guardable.",
+    descripcion: "❤️ Madurez en el amor: no buscas a alguien que te «complete», porque no eres una pieza rota. Buscas a alguien que, estando a su lado, no te haga sentir menos, ni dudar de ti, ni mendigar atención. La persona correcta suma a una vida que ya estaba entera. 🔖 Guárdalo para recordar qué mereces.",
     hashtags: "#relaciones #amorpropio #parejas #autoestima #frases",
     prompt: "Dos personas caminando juntas pero completas, cada una con su propia luz, estética cálida.",
     tecnicas: ["Reframe", "Antítesis", "Cierre emocional"]
@@ -1471,7 +1471,7 @@ const LIBRARY = [
   {
     frase: "Te criticas creyendo que así mejoras. Pero nadie floreció en un lugar donde solo le señalaban lo seco.",
     emocion: "Calma", nicho: "Autoestima", objetivo: "Compartidos",
-    descripcion: "Metáfora sobre la autocrítica destructiva. Reflexiva y compartible.",
+    descripcion: "🌱 Reflexión que cambia tu diálogo interno: te castigas creyendo que la dureza te hará mejorar, pero nadie floreció en un lugar donde solo le señalaban lo marchito. Las plantas crecen con agua y luz, no con reproches. Tú tampoco eres la excepción. ✨ Comparte con quien es demasiado duro consigo mismo.",
     hashtags: "#autoestima #autocompasion #saludmental #amorpropio #bienestar",
     prompt: "Planta creciendo hacia la luz en tierra cuidada frente a otra en tierra seca, conceptual.",
     tecnicas: ["Metáfora", "Reframe", "Antítesis"]
@@ -1479,7 +1479,7 @@ const LIBRARY = [
   {
     frase: "Que no te elijan no te hace menos valioso. A nadie le gusta la misma canción y eso no le quita su valor a la canción.",
     emocion: "Esperanza", nicho: "Autoestima", objetivo: "Guardados",
-    descripcion: "Metáfora reconfortante sobre el rechazo. Guardable.",
+    descripcion: "🎵 Para cuando un rechazo te haga dudar de tu valor: que alguien no te elija no te hace menos valioso, igual que a una gran canción no la hace mala que a alguien no le guste. No eres para todos, y está perfecto. Tu valor no se vota. 🔖 Guárdalo para tu próximo «no».",
     hashtags: "#autoestima #rechazo #amorpropio #valor #frases",
     prompt: "Disco de vinilo girando bajo una luz cálida, estética nostálgica y serena.",
     tecnicas: ["Metáfora", "Reframe", "Cierre emocional"]
@@ -1489,7 +1489,7 @@ const LIBRARY = [
   {
     frase: "La libertad no es tener mucho dinero. Es no tener que decir que sí a todo por necesitarlo.",
     emocion: "Calma", nicho: "Dinero", objetivo: "Compartidos",
-    descripcion: "Redefine la libertad financiera desde la elección. Reflexiva.",
+    descripcion: "💸 Redefiniendo la riqueza: ser libre no es nadar en dinero, es poder decir «no» sin que tiemble tu economía. No aceptar cualquier trabajo, cualquier trato o cualquier relación por pura necesidad. Esa capacidad de elegir es el verdadero lujo. ✨ Comparte si para ti la libertad también es eso.",
     hashtags: "#libertadfinanciera #dinero #finanzas #mentalidad #vida",
     prompt: "Persona rechazando con calma una oferta, postura serena, luz cálida, estética conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
@@ -1499,7 +1499,7 @@ const LIBRARY = [
   {
     frase: "Junta un hábito nuevo a uno que ya tienes. Tu cerebro aprende más rápido por asociación que por fuerza.",
     emocion: "Esperanza", nicho: "Hábitos", objetivo: "Guardados",
-    descripcion: "Técnica de apilamiento de hábitos con base psicológica. Accionable.",
+    descripcion: "🧠 Truco de hábitos que sí funciona: en vez de pelear con la fuerza de voluntad, engancha el hábito nuevo a uno que ya haces sin pensar. «Después de mi café, leo una página». Tu cerebro aprende por asociación mucho más rápido que por disciplina pura. 🔖 Guárdalo y arma tu primera «cadena» hoy.",
     hashtags: "#habitos #productividad #disciplina #ciencia #mejora",
     prompt: "Dos engranajes encajando, uno viejo y uno nuevo, girando juntos, estética conceptual limpia.",
     tecnicas: ["Regla práctica", "Dato revelador", "Llamado a la acción"]
@@ -1509,7 +1509,7 @@ const LIBRARY = [
   {
     frase: "Te hicieron creer que su versión calmada era un premio. La paz no debería sentirse como una recompensa por portarte bien.",
     emocion: "Sorpresa", nicho: "Narcisismo", objetivo: "Guardados",
-    descripcion: "Revela cómo se normaliza el maltrato intermitente. Sanadora.",
+    descripcion: "💔 Detalle que pocos notan: en una relación tóxica te acostumbras a que la calma del otro se sienta como un premio que ganas portándote «bien». Pero la paz no debería ser una recompensa condicional, debería ser la base. Si la tranquilidad te la dan y te la quitan, eso es control. 🔖 Guárdalo, esto abre ojos.",
     hashtags: "#relacionestoxicas #narcisismo #pazmental #limites #conciencia",
     prompt: "Luz que se enciende como premio tras una sombra, persona dándose cuenta, conceptual.",
     tecnicas: ["Revelación", "Reframe", "Antítesis"]
@@ -1519,7 +1519,7 @@ const LIBRARY = [
   {
     frase: "Te hicieron sentir exagerado por sentir. Sentir nunca fue el problema; lo fue que no te quisieron escuchar.",
     emocion: "Enojo", nicho: "Manipulación", objetivo: "Compartidos",
-    descripcion: "Valida las emociones invalidadas por otros. Liberadora.",
+    descripcion: "🤍 Léelo si alguna vez te dijeron «exagerado»: sentir intensamente nunca fue tu problema. El problema fue que no te quisieron escuchar y te etiquetaron de dramático para no hacerse cargo. Tus emociones eran válidas, aunque a alguien le incomodara atenderlas. ✨ Comparte para validar a quien lo necesita.",
     hashtags: "#limites #emociones #saludmental #manipulacion #conciencia",
     prompt: "Persona expresándose mientras la otra minimiza con un gesto, luz contrastada, conceptual.",
     tecnicas: ["Validación emocional", "Reframe", "Cierre potente"]
@@ -1529,7 +1529,7 @@ const LIBRARY = [
   {
     frase: "La cafeína no te da energía: bloquea la señal de cansancio. Por eso luego llega de golpe la cuenta del sueño.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Explica el mecanismo real de la cafeína. Curioso y útil.",
+    descripcion: "☕ Dato que cambia cómo ves tu café: la cafeína no te «da» energía, solo bloquea la señal de cansancio en tu cerebro. El sueño sigue acumulándose por detrás y, cuando el efecto pasa, te cae de golpe la cuenta pendiente. No crea energía, la pospone. 🔖 Guárdalo, te explica esos bajones de la tarde.",
     hashtags: "#ciencia #cafe #cerebro #sueño #datoscuriosos",
     prompt: "Taza de café con engranajes de reloj alrededor, luz cálida, estética conceptual elegante.",
     tecnicas: ["Dato revelador", "Reframe", "Curiosity Gap"]
@@ -1537,7 +1537,7 @@ const LIBRARY = [
   {
     frase: "El ejercicio no solo cambia tu cuerpo: hace crecer conexiones en tu cerebro. Mover el cuerpo es cuidar la mente.",
     emocion: "Esperanza", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Conecta ejercicio y salud cerebral. Motivador y compartible.",
+    descripcion: "🧠 Razón extra para moverte hoy: el ejercicio no solo cambia tu cuerpo, también hace crecer conexiones nuevas en tu cerebro y mejora tu ánimo y memoria. Mover el cuerpo es, literalmente, cuidar la mente. No entrenas solo por verte bien, entrenas por sentirte y pensar mejor. ✨ Comparte para motivar a alguien.",
     hashtags: "#ciencia #ejercicio #cerebro #saludmental #bienestar",
     prompt: "Persona corriendo al amanecer con destellos de luz en la cabeza, estética científica luminosa.",
     tecnicas: ["Dato revelador", "Reframe", "Llamado a la acción"]
@@ -1545,7 +1545,7 @@ const LIBRARY = [
   {
     frase: "Los olores van directo a la zona de la memoria y la emoción. Por eso un perfume puede traerte a alguien de golpe.",
     emocion: "Nostalgia", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Curiosidad sobre olfato y memoria. Emotiva y muy compartible.",
+    descripcion: "👃 Dato que explica por qué un aroma te quiebra: el olfato es el único sentido que va casi directo a las zonas del cerebro de la memoria y la emoción. Por eso un perfume, un pan recién hecho o una colonia te traen a alguien de golpe, con todo y sentimiento. ✨ Comparte y cuéntame qué olor te transporta.",
     hashtags: "#ciencia #olfato #memoria #cerebro #datoscuriosos",
     prompt: "Frasco de perfume del que salen recuerdos en forma de luz suave, estética conceptual nostálgica.",
     tecnicas: ["Dato revelador", "Nostalgia", "Identificación"]
