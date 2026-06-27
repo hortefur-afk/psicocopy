@@ -701,7 +701,7 @@ const LIBRARY = [
   {
     frase: "Ahorrar sin un porqué es difícil. Ponle nombre a tu meta y verás cómo cambia todo.",
     emocion: "Esperanza", nicho: "Dinero", objetivo: "Guardados",
-    descripcion: "Consejo práctico de finanzas conductuales. Accionable y guardable.",
+    descripcion: "💸 Te resuelvo por qué nunca logras ahorrar: estás guardando dinero «por guardar», sin un para qué que te emocione. Tu cerebro necesita una meta con nombre y rostro: «un viaje en diciembre», «mi mudanza», «mi tranquilidad». Cuando el ahorro tiene propósito, dejar de gastar deja de sentirse como castigo. 🔖 Guárdalo y ponle nombre a tu meta hoy.",
     hashtags: "#ahorro #finanzas #metas #dinero #habitos",
     prompt: "Frasco de ahorros con una etiqueta escrita a mano, luz cálida, ambiente esperanzador.",
     tecnicas: ["Reframe", "Regla práctica", "Llamado a la acción"]
@@ -711,7 +711,7 @@ const LIBRARY = [
   {
     frase: "No bajes tu nivel para que otros no se sientan pequeños a tu lado.",
     emocion: "Orgullo", nicho: "Autoestima", objetivo: "Compartidos",
-    descripcion: "Empodera a no encogerse por la inseguridad ajena. Motivadora.",
+    descripcion: "🔥 Recordatorio incómodo pero necesario: no tienes que apagarte para que los inseguros se sientan cómodos. Pasaste años encogiéndote para no incomodar, y lo único que lograste fue traicionarte. Quien de verdad te quiere se alegra de tu luz, no se ofende por ella. ✨ Comparte si necesitas dejar de pedir disculpas por brillar.",
     hashtags: "#autoestima #empoderamiento #valor #confianza #frases",
     prompt: "Persona de pie segura bajo un haz de luz, postura firme, estética editorial poderosa.",
     tecnicas: ["Reframe", "Regla de oro", "Cierre potente"]
@@ -719,7 +719,7 @@ const LIBRARY = [
   {
     frase: "Hablarte bien no es vanidad. Es la base sobre la que construyes todo lo demás.",
     emocion: "Calma", nicho: "Autoestima", objetivo: "Guardados",
-    descripcion: "Defiende el diálogo interno amable como cimiento. Guardable.",
+    descripcion: "🫶 Que quede claro: tratarte con cariño no es ego ni vanidad, es el cimiento de todo lo que construyes. Si la voz que vive en tu cabeza te machaca todo el día, ninguna meta se siente suficiente. Cambia cómo te hablas y cambiarás desde dónde vives. 🔖 Guárdalo y empieza por una frase amable al despertar.",
     hashtags: "#amorpropio #autoestima #dialogointerno #bienestar #saludmental",
     prompt: "Persona sonriéndose con calma frente al espejo por la mañana, luz suave y cálida.",
     tecnicas: ["Reframe", "Metáfora", "Regla de oro"]
@@ -727,7 +727,7 @@ const LIBRARY = [
   {
     frase: "Te pasaste años pidiendo perdón por existir como eres. Ya basta.",
     emocion: "Enojo", nicho: "Autoestima", objetivo: "Comentarios",
-    descripcion: "Frase de ruptura con la autoexigencia. Provoca identificación intensa.",
+    descripcion: "😔 Léelo despacio: te pasaste años pidiendo perdón por ser intenso, sensible, demasiado o muy poco… por simplemente ser tú. Y hoy toca decir basta. No naciste para encajar en la comodidad de los demás a costa de desaparecer tú. 👇 ¿Te identificas con haber vivido disculpándote por existir? Cuéntalo en los comentarios.",
     hashtags: "#autoestima #autenticidad #amorpropio #liberacion #frases",
     prompt: "Persona quitándose un peso simbólico de los hombros, luz que entra por una ventana, alivio.",
     tecnicas: ["Espejo emocional", "Reframe", "Gancho de debate"]
@@ -737,7 +737,7 @@ const LIBRARY = [
   {
     frase: "Te pidió que cambiaras 'por amor'. El amor no te pide ser otra persona para merecerlo.",
     emocion: "Sorpresa", nicho: "Narcisismo", objetivo: "Compartidos",
-    descripcion: "Desenmascara el control disfrazado de amor. Reveladora.",
+    descripcion: "🚩 Atención a esta bandera roja disfrazada de romance: «si me amaras, cambiarías». El amor sano te invita a crecer, pero nunca te exige convertirte en alguien que no eres para merecer cariño. Eso no es amor, es control con una etiqueta bonita. ✨ Comparte para que alguien deje de confundir control con amor.",
     hashtags: "#relacionestoxicas #narcisismo #limites #amorpropio #conciencia",
     prompt: "Persona ante dos máscaras eligiendo no ponerse ninguna, luz teatral suave, estilo conceptual.",
     tecnicas: ["Revelación", "Antítesis", "Reframe"]
@@ -745,7 +745,7 @@ const LIBRARY = [
   {
     frase: "Cuando por fin pusiste el límite, lo llamaron exageración. Ahí supiste que el límite era necesario.",
     emocion: "Orgullo", nicho: "Narcisismo", objetivo: "Guardados",
-    descripcion: "Valida los límites frente al reproche manipulador. Empoderadora.",
+    descripcion: "🛑 Fíjate en el detalle: justo cuando pusiste un límite, te dijeron que «exagerabas», que eras «demasiado sensible». Esa reacción no era casualidad, era la prueba de que el límite molestaba porque les quitaba una ventaja. Quien te respeta no te llama exagerado por cuidarte. 🔖 Guárdalo para sostener tus límites sin dudar.",
     hashtags: "#limites #relacionestoxicas #narcisismo #saludmental #conciencia",
     prompt: "Persona sosteniendo una línea de luz entre ella y una sombra, estética conceptual firme.",
     tecnicas: ["Reframe", "Open Loop", "Cierre potente"]
@@ -755,7 +755,7 @@ const LIBRARY = [
   {
     frase: "No falles dos veces seguidas. Un tropiezo es humano; dos seguidos ya es el nuevo hábito.",
     emocion: "Esperanza", nicho: "Hábitos", objetivo: "Guardados",
-    descripcion: "Regla práctica y memorable para sostener hábitos. Muy guardable.",
+    descripcion: "🧠 Te doy la única regla de constancia que necesitas: nunca falles dos veces seguidas. Saltarte un día es humano, no pasa nada. El problema empieza cuando ese día se vuelve dos, y dos se vuelve «ya lo dejé». No busques ser perfecto, busca no abandonar. 🔖 Guárdalo, esta regla salva cualquier hábito.",
     hashtags: "#habitos #disciplina #constancia #productividad #mejora",
     prompt: "Calendario con marcas diarias y una sola casilla vacía retomada al día siguiente, estética limpia.",
     tecnicas: ["Regla práctica", "Reframe", "Brevedad"]
@@ -763,7 +763,7 @@ const LIBRARY = [
   {
     frase: "Tu entorno te empuja o te frena. Rodéate de lo que quieres llegar a ser.",
     emocion: "Esperanza", nicho: "Hábitos", objetivo: "Compartidos",
-    descripcion: "Resalta el poder del entorno en los hábitos. Inspiradora.",
+    descripcion: "🌱 Verdad que pocos quieren oír: te conviertes en el promedio de lo que te rodea. Tu entorno te empuja hacia arriba o te ancla, aunque no lo notes. Si quieres cambiar de vida, mira con quién pasas el tiempo y qué consumes todos los días. ✨ Comparte con quien necesita cuidar mejor su círculo.",
     hashtags: "#habitos #entorno #mentalidad #crecimiento #disciplina",
     prompt: "Persona caminando hacia un grupo activo y luminoso, dejando atrás la sombra, estética motivadora.",
     tecnicas: ["Reframe", "Causa-efecto", "Llamado a la acción"]
@@ -771,7 +771,7 @@ const LIBRARY = [
   {
     frase: "La disciplina es elegirte a ti del futuro por encima de lo que te apetece ahora.",
     emocion: "Orgullo", nicho: "Hábitos", objetivo: "Guardados",
-    descripcion: "Define la disciplina desde el autocuidado, no el castigo. Guardable.",
+    descripcion: "💪 Te redefino la disciplina para que deje de sonar a castigo: no es sufrir, es amor por tu yo del futuro. Cada vez que eliges lo que te conviene sobre lo que te apetece, le estás regalando una mejor vida a la persona que vas a ser mañana. Disciplina es autocuidado a largo plazo. 🔖 Guárdalo para tus días sin ganas.",
     hashtags: "#disciplina #habitos #futuro #mentalidad #autocuidado",
     prompt: "Persona eligiendo agua sobre comodidad, escena cotidiana con luz cálida, decisión consciente.",
     tecnicas: ["Reframe", "Perspectiva temporal", "Metáfora"]
@@ -781,7 +781,7 @@ const LIBRARY = [
   {
     frase: "Si tu silencio incomoda a quien siempre te interrumpe, vas por buen camino.",
     emocion: "Orgullo", nicho: "Manipulación", objetivo: "Comentarios",
-    descripcion: "Anima a recuperar la voz frente a quien la opaca. Genera respuestas.",
+    descripcion: "🔥 Dato curioso del poder: cuando empiezas a hablar menos y a poner límites, los que estaban acostumbrados a pasarte por encima se incomodan. No es que estés mal… es que dejaste de ser fácil de manejar. Esa incomodidad ajena suele ser la señal de que recuperaste tu lugar. 👇 ¿Te ha pasado? Cuéntalo en los comentarios.",
     hashtags: "#limites #inteligenciaemocional #saludmental #conciencia #verdades",
     prompt: "Persona en calma rodeada de ruido visual que se desvanece, foco nítido en ella, conceptual.",
     tecnicas: ["Reframe", "Gancho de debate", "Brevedad"]
@@ -789,7 +789,7 @@ const LIBRARY = [
   {
     frase: "Que se enojen cuando dejas de complacer no significa que hagas algo mal. Significa que perdieron una ventaja.",
     emocion: "Sorpresa", nicho: "Manipulación", objetivo: "Guardados",
-    descripcion: "Reencuadra el enojo ajeno al poner límites. Liberadora.",
+    descripcion: "🛑 Quítate esta culpa: si alguien se enoja porque dejaste de complacerlo, no hiciste nada malo… simplemente perdieron el beneficio de tu «sí» automático. La gente que solo te valoraba por lo que les dabas siempre va a protestar cuando empieces a darte a ti. 🔖 Guárdalo y deja de confundir su enojo con tu error.",
     hashtags: "#limites #relacionestoxicas #manipulacion #saludmental #conciencia",
     prompt: "Persona soltando hilos de marioneta de sus manos, luz de liberación, estilo conceptual.",
     tecnicas: ["Reframe", "Revelación", "Antítesis"]
@@ -799,7 +799,7 @@ const LIBRARY = [
   {
     frase: "Compártelo si crees que sanar también es un acto de valentía.",
     emocion: "Esperanza", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "CTA directo que dignifica el proceso de sanar. Multiplica alcance.",
+    descripcion: "🤍 A sanar no se le aplaude como debería. Mientras unos celebran logros visibles, hay personas reconstruyéndose en silencio, eligiendo cada día no rendirse. Eso también es valentía: levantarte cuando nadie te ve y seguir, aunque duela. Si estás en ese proceso, estás siendo más fuerte de lo que crees. ✨ Compártelo si crees que sanar también es de valientes.",
     hashtags: "#sanar #valentia #saludmental #bienestar #frases",
     prompt: "Persona de pie frente al amanecer con expresión serena y firme, luz dorada esperanzadora.",
     tecnicas: ["CTA invisible", "Reframe", "Brevedad"]
@@ -807,7 +807,7 @@ const LIBRARY = [
   {
     frase: "Aprende a estar bien solo. No para alejar a nadie, sino para no quedarte por miedo.",
     emocion: "Calma", nicho: "Autoestima", objetivo: "Guardados",
-    descripcion: "Enseña la independencia emocional como libertad, no aislamiento. Guardable.",
+    descripcion: "🧘 Te explico por qué aprender a estar bien solo lo cambia todo: cuando no le temes a tu propia compañía, dejas de aceptar cualquier cosa por miedo al vacío. Ya no te quedas por costumbre ni por terror a la soledad, sino porque de verdad quieres. La independencia emocional es la base de relaciones sanas. 🔖 Guárdalo y trabaja en tu paz.",
     hashtags: "#amorpropio #soledad #independencia #autoestima #bienestar",
     prompt: "Persona disfrutando un café sola junto a una ventana luminosa, ambiente tranquilo y pleno.",
     tecnicas: ["Reframe", "Antítesis", "Cierre emocional"]
@@ -819,7 +819,7 @@ const LIBRARY = [
   {
     frase: "Tu cerebro no distingue del todo entre un peligro real y un pensamiento. Por eso una idea puede acelerarte el corazón.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato de neurociencia explicado simple. Despierta curiosidad e identificación.",
+    descripcion: "🧠 Dato de neurociencia que explica tu ansiedad: tu cerebro reacciona casi igual ante un peligro real que ante un pensamiento. Por eso solo imaginar algo malo ya te acelera el corazón y te suda la mano, aunque no esté pasando nada. No estás exagerando: tu cuerpo se lo cree. ✨ Comparte con quien lucha con la ansiedad.",
     hashtags: "#neurociencia #ansiedad #psicologia #mente #saludmental",
     prompt: "Ilustración conceptual de un cerebro con conexiones de luz activándose, fondo oscuro, estética científica elegante.",
     tecnicas: ["Curiosity Gap", "Dato revelador", "Reframe"]
@@ -827,7 +827,7 @@ const LIBRARY = [
   {
     frase: "Recordar algo no es como abrir un archivo: tu mente lo reconstruye cada vez. Por eso dos personas 'recuerdan' lo mismo distinto.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Curiosidad científica sobre la memoria. Invita a debatir experiencias propias.",
+    descripcion: "🤯 Esto te va a volar la cabeza: tu memoria no funciona como una foto guardada, sino que reconstruye el recuerdo cada vez que lo evocas… y lo modifica un poco. Por eso dos personas viven lo mismo y lo recuerdan distinto, sin que ninguna mienta. 👇 ¿Te ha pasado discutir por «recordar» algo diferente? Cuéntalo abajo.",
     hashtags: "#memoria #cerebro #psicologia #neurociencia #datos",
     prompt: "Fragmentos de fotografías reensamblándose en el aire, luz suave, estética conceptual sobre la memoria.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Gancho de debate"]
@@ -835,7 +835,7 @@ const LIBRARY = [
   {
     frase: "La dopamina no es la molécula del placer. Es la del 'quiero más'. Por eso conseguir algo emociona menos que perseguirlo.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Desmonta un mito popular sobre la dopamina. Educativo y muy guardable.",
+    descripcion: "🧠 Te derribo un mito: la dopamina no es la química del placer, es la del «quiero más». Por eso la emoción está en perseguir, no en conseguir; logras algo y a los días ya quieres lo siguiente. Entender esto explica por qué nada llena del todo… y cómo dejar de vivir corriendo. 🔖 Guárdalo, cambia cómo ves tus metas.",
     hashtags: "#dopamina #neurociencia #motivacion #cerebro #psicologia",
     prompt: "Persona persiguiendo un punto de luz que siempre está un paso adelante, estética conceptual minimalista.",
     tecnicas: ["Dato revelador", "Antítesis", "Reframe"]
@@ -843,7 +843,7 @@ const LIBRARY = [
   {
     frase: "Llorar no es debilidad: libera hormonas del estrés. Tu cuerpo lo diseñó para sanarte, no para avergonzarte.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Une ciencia y emoción para validar el llanto. Conecta y reconforta.",
+    descripcion: "😢 Que nadie te haga sentir débil por llorar: la ciencia dice que las lágrimas emocionales liberan hormonas del estrés y literalmente te ayudan a regular el dolor. Tu cuerpo diseñó el llanto para sanarte, no para avergonzarte. Aguantarte no te hace fuerte, te hace cargar de más. ✨ Comparte y normalicemos llorar.",
     hashtags: "#emociones #saludmental #llorar #ciencia #bienestar",
     prompt: "Primer plano sereno de una lágrima atrapando la luz, fondo suave, estética íntima y delicada.",
     tecnicas: ["Dato revelador", "Reframe", "Validación emocional"]
@@ -853,7 +853,7 @@ const LIBRARY = [
   {
     frase: "El enamoramiento intenso dura, en promedio, lo que tarda tu cerebro en bajar la euforia química. Lo que queda después se llama elegir.",
     emocion: "Calma", nicho: "Relaciones", objetivo: "Guardados",
-    descripcion: "Ciencia del amor aplicada a las relaciones. Reflexiva y diferente.",
+    descripcion: "❤️ Dato que salva relaciones: esa euforia de mariposas del inicio tiene fecha de caducidad química; el cerebro no puede sostenerla para siempre. Lo que viene después no es que «se acabó el amor», es donde empieza el amor de verdad: el que se elige cada día, sin fuegos artificiales. 🔖 Guárdalo para cuando la intensidad baje.",
     hashtags: "#amor #relaciones #ciencia #parejas #neurociencia",
     prompt: "Pareja mayor caminando tomada de la mano en un parque otoñal, luz cálida, ternura serena.",
     tecnicas: ["Dato revelador", "Reframe", "Cierre emocional"]
@@ -861,7 +861,7 @@ const LIBRARY = [
   {
     frase: "Te aferras no por amor, sino porque tu cerebro odia las pérdidas más de lo que disfruta las ganancias.",
     emocion: "Sorpresa", nicho: "Relaciones", objetivo: "Compartidos",
-    descripcion: "Aplica la aversión a la pérdida al desamor. Revelador y compartible.",
+    descripcion: "🧠 Te explico por qué cuesta tanto soltar lo que ya no te hace bien: tu cerebro siente la pérdida con mucha más fuerza de la que disfruta lo que gana. Por eso te aferras a lo conocido aunque duela: no es amor, es aversión a perder. Saberlo te ayuda a no confundir miedo con cariño. ✨ Comparte con quien no logra soltar.",
     hashtags: "#desamor #relaciones #psicologia #soltar #neurociencia",
     prompt: "Mano sosteniendo con fuerza un hilo que ya está suelto, luz dramática, estilo conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Curiosity Gap"]
@@ -869,7 +869,7 @@ const LIBRARY = [
   {
     frase: "Quien te quiere bien no te deja en la incertidumbre. La calma también es una forma de amor.",
     emocion: "Calma", nicho: "Relaciones", objetivo: "Guardados",
-    descripcion: "Define el amor sano por la tranquilidad que da. Guardable.",
+    descripcion: "🕊️ Recordatorio para quien vive ansiosa en el amor: la persona correcta no te deja adivinando dónde estás parada. La incertidumbre constante no es «misterio» ni «pasión», es ansiedad. La calma, esa que no te hace dudar cada día, también es una forma profunda de amor. 🔖 Guárdalo y elige paz, no montañas rusas.",
     hashtags: "#relaciones #amor #pazmental #parejas #amorpropio",
     prompt: "Dos personas leyendo juntas en silencio en un sofá, luz cálida de tarde, ambiente apacible.",
     tecnicas: ["Reframe", "Regla de oro", "Brevedad"]
@@ -879,7 +879,7 @@ const LIBRARY = [
   {
     frase: "Tu autoestima no se construye con halagos de afuera. Se construye con las promesas que te cumples a ti mismo.",
     emocion: "Orgullo", nicho: "Autoestima", objetivo: "Guardados",
-    descripcion: "Reenfoca la autoestima hacia el autocompromiso. Accionable y guardable.",
+    descripcion: "💪 Te explico por qué los cumplidos no te llenan: la autoestima real no se construye con halagos ajenos, se construye con autoconfianza. Y la autoconfianza nace de cumplirte lo que te prometes. Cada vez que haces lo que dijiste que harías, tu cerebro aprende a confiar en ti. 🔖 Guárdalo, ahí está la clave.",
     hashtags: "#autoestima #amorpropio #disciplina #confianza #habitos",
     prompt: "Persona marcando una tarea cumplida en una libreta con satisfacción, luz cálida, ambiente íntimo.",
     tecnicas: ["Reframe", "Causa-efecto", "Regla de oro"]
@@ -887,7 +887,7 @@ const LIBRARY = [
   {
     frase: "El cerebro recuerda más las críticas que los elogios. No es que valgas poco: es un sesgo de supervivencia. Reescríbelo a propósito.",
     emocion: "Esperanza", nicho: "Autoestima", objetivo: "Compartidos",
-    descripcion: "Explica el sesgo de negatividad y da una salida. Ciencia + empoderamiento.",
+    descripcion: "🧠 Te libero de una culpa: si te quedas pegado a una crítica e ignoras diez elogios, no es que valgas poco, es biología. Tu cerebro guarda lo negativo para sobrevivir, es un sesgo ancestral. Pero lo puedes reentrenar a propósito, eligiendo dónde pones el foco. ✨ Comparte con quien se castiga por una sola crítica.",
     hashtags: "#autoestima #psicologia #sesgos #saludmental #mentalidad",
     prompt: "Balanza donde un lado pesado de sombra empieza a equilibrarse con luz, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Llamado a la acción"]
@@ -895,7 +895,7 @@ const LIBRARY = [
   {
     frase: "Dejaste de brillar por miedo a incomodar. Pero apagarte nunca hizo más feliz a nadie.",
     emocion: "Enojo", nicho: "Autoestima", objetivo: "Comentarios",
-    descripcion: "Frase de empoderamiento contra el autoboicot social. Provoca respuestas.",
+    descripcion: "💡 Pregunta honesta: ¿cuánto te has apagado para no incomodar a otros? Te hiciste pequeño, callaste tus logros, escondiste tu alegría… ¿y de qué sirvió? Apagarte nunca hizo más feliz a nadie, solo te dejó a ti con menos vida. 👇 ¿Te ha pasado encogerte para que otros estén cómodos? Te leo en los comentarios.",
     hashtags: "#autoestima #autenticidad #empoderamiento #valor #frases",
     prompt: "Persona quitando un velo de sombra de sí misma y dejando salir la luz, estética conceptual.",
     tecnicas: ["Espejo emocional", "Antítesis", "Gancho de debate"]
@@ -905,7 +905,7 @@ const LIBRARY = [
   {
     frase: "Tu cerebro siente el gasto con tarjeta menos que con efectivo. Por eso 'no sientes' cuándo te pasaste.",
     emocion: "Sorpresa", nicho: "Dinero", objetivo: "Guardados",
-    descripcion: "Dato de psicología del consumo, muy útil y guardable.",
+    descripcion: "💳 Truco psicológico que te están aplicando sin que lo sepas: pagar con tarjeta «duele» menos que entregar billetes, porque no ves el dinero salir. Por eso gastas más sin sentirlo y a fin de mes no sabes en qué se fue. Prueba pagar en efectivo lo que quieres controlar y lo vas a notar. 🔖 Guárdalo, este dato cuida tu bolsillo.",
     hashtags: "#finanzas #dinero #psicologia #consumo #habitos",
     prompt: "Tarjeta y billetes lado a lado bajo una luz que ilumina más los billetes, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Causa-efecto"]
