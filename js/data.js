@@ -2045,6 +2045,284 @@ const LIBRARY = [
     hashtags: "#relacionestoxicas #manipulacion #limites #saludmental #conciencia",
     prompt: "Persona caminando con cuidado extremo sobre un suelo frágil, luz tensa, conceptual.",
     tecnicas: ["Metáfora", "Reframe", "Espejo emocional"]
+  },
+
+  /* ========== LOTE 14 (Ciencia / curiosidades) ========== */
+  {
+    frase: "El rechazo activa las mismas zonas del cerebro que el dolor físico. Por eso 'me rompió el corazón' no es solo una metáfora.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Dato sobre el dolor del rechazo. Valida y conecta.",
+    hashtags: "#ciencia #cerebro #rechazo #emociones #datoscuriosos",
+    prompt: "Cerebro con una zona iluminada igual que una herida física, estética conceptual elegante.",
+    tecnicas: ["Dato revelador", "Reframe", "Validación emocional"]
+  },
+  {
+    frase: "Valoramos más lo que ayudamos a construir, aunque sea imperfecto. Se llama efecto Ikea: el esfuerzo crea cariño.",
+    emocion: "Esperanza", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Explica el efecto Ikea. Curioso y aplicable a la vida.",
+    hashtags: "#ciencia #psicologia #esfuerzo #cerebro #datoscuriosos",
+    prompt: "Persona admirando algo hecho por sus propias manos con orgullo, luz cálida, conceptual.",
+    tecnicas: ["Dato revelador", "Reframe", "Curiosity Gap"]
+  },
+  {
+    frase: "Cuanto más ves algo, más te gusta, aunque al principio te fuera indiferente. La familiaridad es media conquista.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
+    descripcion: "Explica el efecto de mera exposición. Genera reflexión y debate.",
+    hashtags: "#ciencia #psicologia #cerebro #familiaridad #datoscuriosos",
+    prompt: "Rostro que pasa de neutro a familiar y agradable en repeticiones, estética conceptual.",
+    tecnicas: ["Dato revelador", "Reframe", "Gancho de debate"]
+  },
+  {
+    frase: "Hacerle un favor a alguien hace que te caiga mejor a ti. Tu mente justifica el esfuerzo decidiendo que vale la pena.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Explica el efecto Benjamin Franklin. Curioso y guardable.",
+    hashtags: "#ciencia #psicologia #cerebro #relaciones #datoscuriosos",
+    prompt: "Dos personas, una entregando ayuda y sintiendo cercanía, luz cálida, estética conceptual.",
+    tecnicas: ["Dato revelador", "Reframe", "Curiosity Gap"]
+  },
+  {
+    frase: "Tus pupilas se dilatan cuando algo te gusta de verdad. El cuerpo confiesa lo que la boca calla.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Dato curioso sobre el lenguaje corporal involuntario. Compartible.",
+    hashtags: "#ciencia #cerebro #lenguajecorporal #datoscuriosos #psicologia",
+    prompt: "Primer plano de un ojo con la pupila dilatada bajo luz suave, estética conceptual.",
+    tecnicas: ["Dato revelador", "Metáfora", "Curiosity Gap"]
+  },
+  {
+    frase: "Olvidamos lo que sabemos que podemos buscar después. Se llama efecto Google: tu mente delega para liberar espacio.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
+    descripcion: "Explica el efecto Google sobre la memoria. Actual y debatible.",
+    hashtags: "#ciencia #memoria #tecnologia #cerebro #datoscuriosos",
+    prompt: "Mente delegando recuerdos a una nube de datos luminosa, estética conceptual moderna.",
+    tecnicas: ["Dato revelador", "Reframe", "Gancho de debate"]
+  },
+  {
+    frase: "El asombro, mirar algo enorme como el cielo o el mar, reduce la obsesión por tus problemas. La grandeza te recuerda tu tamaño.",
+    emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Dato sobre el efecto del asombro en la mente. Profundo y guardable.",
+    hashtags: "#ciencia #asombro #bienestar #cerebro #saludmental",
+    prompt: "Persona pequeña frente a un cielo estrellado inmenso, estética conceptual de asombro.",
+    tecnicas: ["Dato revelador", "Reframe", "Cierre emocional"]
+  },
+  {
+    frase: "Mantenemos estables solo a unas 150 personas en nuestro círculo. Tu energía social es finita: elige bien a quién se la das.",
+    emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Explica el número de Dunbar aplicado a la vida. Reflexivo.",
+    hashtags: "#ciencia #relaciones #cerebro #energia #datoscuriosos",
+    prompt: "Persona en el centro de círculos concéntricos de personas que se alejan, conceptual.",
+    tecnicas: ["Dato revelador", "Reframe", "Regla de oro"]
+  },
+  {
+    frase: "Cuando algo te estresa mucho, tu visión mental se hace túnel y solo ves la amenaza. Respirar vuelve a abrir el campo.",
+    emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Explica la visión de túnel del estrés. Accionable.",
+    hashtags: "#ciencia #estres #cerebro #ansiedad #bienestar",
+    prompt: "Campo visual que se estrecha y luego se abre al respirar, estética conceptual.",
+    tecnicas: ["Dato revelador", "Reframe", "Llamado a la acción"]
+  },
+  {
+    frase: "Escribir a mano fija mejor lo que aprendes que teclear. La lentitud obliga a tu cerebro a procesar, no solo a copiar.",
+    emocion: "Esperanza", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Dato sobre escritura a mano y memoria. Útil para estudiantes.",
+    hashtags: "#ciencia #aprendizaje #memoria #cerebro #estudio",
+    prompt: "Mano escribiendo en un cuaderno con luz cálida, letras que se graban en luz, conceptual.",
+    tecnicas: ["Dato revelador", "Antítesis", "Reframe"]
+  },
+  {
+    frase: "Esa canción que se te pega no es casualidad: tu cerebro deja el bucle abierto buscando un final que no llega.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
+    descripcion: "Explica los 'earworms'. Lúdico y debatible.",
+    hashtags: "#ciencia #musica #cerebro #datoscuriosos #memoria",
+    prompt: "Nota musical girando en bucle dentro de una cabeza ilustrada, estética conceptual amigable.",
+    tecnicas: ["Dato revelador", "Open Loop", "Gancho de debate"]
+  },
+  {
+    frase: "Tu nivel de cortisol sube de forma natural al despertar para activarte. Por eso revisar el móvil recién levantado te dispara la ansiedad.",
+    emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Dato sobre el cortisol matutino y el móvil. Accionable.",
+    hashtags: "#ciencia #cortisol #ansiedad #habitos #bienestar",
+    prompt: "Persona despertando con luz natural sin tocar el móvil, ambiente sereno, conceptual.",
+    tecnicas: ["Dato revelador", "Causa-efecto", "Llamado a la acción"]
+  },
+
+  /* ========== LOTE 15 (Psicología / Relaciones / Autoestima) ========== */
+  {
+    frase: "Tu cerebro odia la contradicción: si actúas distinto a lo que crees, cambiará lo que crees para no sentirse mal. Cuida tus actos.",
+    emocion: "Sorpresa", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Explica la disonancia cognitiva. Profundo y guardable.",
+    hashtags: "#psicologia #disonancia #mente #crecimientopersonal #valores",
+    prompt: "Persona ante un espejo donde acto y creencia intentan alinearse, estética conceptual.",
+    tecnicas: ["Dato revelador", "Causa-efecto", "Reframe"]
+  },
+  {
+    frase: "Imaginar el peor escenario no te prepara: te hace sufrir dos veces si pasa y una de más si no pasa.",
+    emocion: "Calma", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "Confronta el catastrofismo. Reflexiva y compartible.",
+    hashtags: "#psicologia #ansiedad #catastrofismo #saludmental #mente",
+    prompt: "Persona rodeada de escenarios sombríos imaginarios que se desvanecen, conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Brevedad"]
+  },
+  {
+    frase: "Cámbiate los 'debería' por 'elijo'. Una palabra te llena de culpa; la otra, de poder.",
+    emocion: "Esperanza", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Técnica de reencuadre del lenguaje interno. Accionable.",
+    hashtags: "#psicologia #lenguajeinterno #mentalidad #saludmental #bienestar",
+    prompt: "Dos palabras flotando, una pesada y gris, otra ligera y luminosa, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Regla práctica"]
+  },
+  {
+    frase: "Las emociones no son hechos. Sentir que vas a fracasar no significa que vayas a hacerlo.",
+    emocion: "Esperanza", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "Separa emoción de realidad. Liberadora y compartible.",
+    hashtags: "#psicologia #emociones #ansiedad #saludmental #mentalidad",
+    prompt: "Nube de emoción pasajera sobre un suelo firme de hechos, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
+  },
+  {
+    frase: "Buscar validación afuera es como llenar un vaso roto: por más que te elogien, si no te lo crees tú, se vacía.",
+    emocion: "Sorpresa", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Metáfora sobre la validación externa. Guardable.",
+    hashtags: "#psicologia #validacion #autoestima #amorpropio #saludmental",
+    prompt: "Vaso agrietado que no retiene el agua de cumplidos, luz suave, estética conceptual.",
+    tecnicas: ["Metáfora", "Reframe", "Causa-efecto"]
+  },
+  {
+    frase: "El perfeccionismo no es buscar lo mejor. Es miedo a ser juzgado disfrazado de exigencia.",
+    emocion: "Sorpresa", nicho: "Psicología", objetivo: "Comentarios",
+    descripcion: "Reencuadra el perfeccionismo como miedo. Genera debate.",
+    hashtags: "#psicologia #perfeccionismo #miedo #saludmental #mentalidad",
+    prompt: "Persona puliendo eternamente un objeto ya impecable, sombra de juicio detrás, conceptual.",
+    tecnicas: ["Reframe", "Revelación", "Gancho de debate"]
+  },
+  {
+    frase: "Una buena relación no es la que nunca choca. Es la que sabe repararse rápido después de chocar.",
+    emocion: "Esperanza", nicho: "Relaciones", objetivo: "Guardados",
+    descripcion: "Resalta la reparación sobre la ausencia de conflicto. Madura.",
+    hashtags: "#relaciones #parejas #comunicacion #amor #reflexion",
+    prompt: "Dos personas reconciliándose con calma tras una discusión, luz cálida, ambiente sereno.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre emocional"]
+  },
+  {
+    frase: "Elegir no es lo mismo que conformarse. Conformarse es quedarte por miedo; elegir es quedarte aun viendo otras puertas.",
+    emocion: "Calma", nicho: "Relaciones", objetivo: "Compartidos",
+    descripcion: "Distingue elegir de conformarse. Reflexiva y compartible.",
+    hashtags: "#relaciones #amor #parejas #decisiones #frases",
+    prompt: "Persona eligiendo con calma una puerta entre varias abiertas, luz cálida, conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Brevedad"]
+  },
+  {
+    frase: "La seguridad emocional es saber que puedes mostrarte como eres sin que lo usen en tu contra después.",
+    emocion: "Calma", nicho: "Relaciones", objetivo: "Guardados",
+    descripcion: "Define la seguridad emocional de forma concreta. Guardable.",
+    hashtags: "#relaciones #seguridademocional #confianza #parejas #vinculos",
+    prompt: "Dos personas conversando con apertura y calma, luz cálida, ambiente de confianza.",
+    tecnicas: ["Reframe", "Identificación", "Regla de oro"]
+  },
+  {
+    frase: "No estás atrasado en la vida. Hay flores que abren en primavera y otras que florecen en pleno invierno.",
+    emocion: "Esperanza", nicho: "Autoestima", objetivo: "Compartidos",
+    descripcion: "Consuela a quien siente que va tarde. Metáfora cálida y compartible.",
+    hashtags: "#autoestima #ritmopropio #crecimiento #esperanza #frases",
+    prompt: "Flor abriendo entre la nieve bajo un rayo de sol, estética conceptual esperanzadora.",
+    tecnicas: ["Metáfora", "Reframe", "Cierre emocional"]
+  },
+  {
+    frase: "Confiar en ti no es no tener miedo. Es saber que aun con miedo, no te vas a abandonar.",
+    emocion: "Orgullo", nicho: "Autoestima", objetivo: "Guardados",
+    descripcion: "Redefine la autoconfianza desde el autocompromiso. Guardable.",
+    hashtags: "#autoestima #confianza #miedo #amorpropio #fortaleza",
+    prompt: "Persona avanzando con paso firme pese a la sombra del miedo, luz adelante, conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
+  },
+  {
+    frase: "Deja de pedirte que todo te salga bien a la primera. Nadie aplaude al bebé por caerse al aprender a caminar.",
+    emocion: "Calma", nicho: "Autoestima", objetivo: "Compartidos",
+    descripcion: "Normaliza el error en el aprendizaje. Compasiva y compartible.",
+    hashtags: "#autoestima #autocompasion #aprendizaje #saludmental #mentalidad",
+    prompt: "Bebé dando sus primeros pasos con ternura bajo luz cálida, estética conceptual.",
+    tecnicas: ["Reframe", "Metáfora", "Regla de oro"]
+  },
+
+  /* ========== LOTE 16 (Dinero / Hábitos / Narcisismo / Manipulación) ========== */
+  {
+    frase: "Hay quien es rico y quien aparenta serlo. El primero tiene activos; el segundo, deudas con buena vista.",
+    emocion: "Sorpresa", nicho: "Dinero", objetivo: "Comentarios",
+    descripcion: "Distingue riqueza real de aparente. Genera debate.",
+    hashtags: "#dinero #finanzas #riqueza #apariencias #mentalidad",
+    prompt: "Dos casas iguales por fuera, una con cimientos sólidos y otra hueca, estética conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Gancho de debate"]
+  },
+  {
+    frase: "Gasta en experiencias más que en cosas. Las cosas se vuelven costumbre; los recuerdos se vuelven tú.",
+    emocion: "Calma", nicho: "Dinero", objetivo: "Compartidos",
+    descripcion: "Respaldo psicológico para gastar en experiencias. Compartible.",
+    hashtags: "#dinero #finanzas #experiencias #felicidad #mentalidad",
+    prompt: "Persona contemplando un atardecer recordado frente a objetos olvidados, conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Cierre emocional"]
+  },
+  {
+    frase: "Invertir temprano poco vale más que invertir tarde mucho. El tiempo hace el trabajo que el dinero solo no puede.",
+    emocion: "Esperanza", nicho: "Dinero", objetivo: "Guardados",
+    descripcion: "Enseña el poder del tiempo en la inversión. Accionable.",
+    hashtags: "#finanzas #inversion #tiempo #dinero #educacionfinanciera",
+    prompt: "Pequeña semilla plantada temprano que se vuelve un gran árbol, estética conceptual.",
+    tecnicas: ["Antítesis", "Dato revelador", "Metáfora"]
+  },
+  {
+    frase: "Une lo que debes hacer con algo que disfrutas. Tu serie favorita solo mientras caminas: tu cerebro dirá que sí.",
+    emocion: "Esperanza", nicho: "Hábitos", objetivo: "Guardados",
+    descripcion: "Técnica de 'temptation bundling'. Accionable y guardable.",
+    hashtags: "#habitos #productividad #disciplina #mejora #rutina",
+    prompt: "Persona caminando en cinta mientras ve algo que disfruta, luz cálida, ambiente positivo.",
+    tecnicas: ["Regla práctica", "Reframe", "Llamado a la acción"]
+  },
+  {
+    frase: "Quieres más de un hábito bueno: hazlo fácil. Quieres menos de uno malo: ponle fricción. Diseña, no pelees.",
+    emocion: "Esperanza", nicho: "Hábitos", objetivo: "Compartidos",
+    descripcion: "Resume el diseño de hábitos por fricción. Compartible.",
+    hashtags: "#habitos #disciplina #productividad #sistemas #mejora",
+    prompt: "Dos caminos: uno despejado y fácil, otro con obstáculos a propósito, estética conceptual.",
+    tecnicas: ["Antítesis", "Regla práctica", "Reframe"]
+  },
+  {
+    frase: "No necesitas motivación todos los días. Necesitas hacerlo tan pequeño que la falta de ganas deje de ser excusa.",
+    emocion: "Calma", nicho: "Hábitos", objetivo: "Guardados",
+    descripcion: "Refuerza reducir la barrera de entrada. Guardable.",
+    hashtags: "#habitos #disciplina #constancia #productividad #mejora",
+    prompt: "Tarea diminuta y fácil de iniciar al pie de una rutina, luz limpia, minimalista.",
+    tecnicas: ["Reframe", "Regla práctica", "Antítesis"]
+  },
+  {
+    frase: "Cuando hablaste con otros de lo que vivías, de repente eras tú quien quedaba como el problema. Eso tiene un patrón, no es casualidad.",
+    emocion: "Sorpresa", nicho: "Narcisismo", objetivo: "Comentarios",
+    descripcion: "Describe la campaña de desprestigio. Revelador y debatible.",
+    hashtags: "#narcisismo #relacionestoxicas #manipulacion #saludmental #conciencia",
+    prompt: "Persona señalada injustamente mientras otra controla el relato, luz fría, conceptual.",
+    tecnicas: ["Revelación", "Open Loop", "Gancho de debate"]
+  },
+  {
+    frase: "Te comparaba con otros para que compitieras por su afecto. El amor no es un concurso que debas ganar cada día.",
+    emocion: "Enojo", nicho: "Narcisismo", objetivo: "Compartidos",
+    descripcion: "Describe la triangulación. Revelador y compartible.",
+    hashtags: "#narcisismo #relacionestoxicas #triangulacion #limites #conciencia",
+    prompt: "Persona corriendo en una carrera de afecto contra rivales invisibles, estética conceptual.",
+    tecnicas: ["Revelación", "Reframe", "Antítesis"]
+  },
+  {
+    frase: "Lo que sienten por ti se mide en cómo te tratan cuando no les conviene fingir.",
+    emocion: "Calma", nicho: "Manipulación", objetivo: "Guardados",
+    descripcion: "Regla clara para leer la intención real. Guardable.",
+    hashtags: "#limites #relaciones #verdades #conciencia #inteligenciaemocional",
+    prompt: "Dos versiones de una misma persona, una actuando y otra real, estética conceptual.",
+    tecnicas: ["Reframe", "Regla de oro", "Brevedad"]
+  },
+  {
+    frase: "Confundir lástima con amor te ata a quien deberías soltar. Quedarte por pena no salva a nadie: los hunde a los dos.",
+    emocion: "Sorpresa", nicho: "Manipulación", objetivo: "Compartidos",
+    descripcion: "Distingue la culpa-lástima del amor. Revelador y compartible.",
+    hashtags: "#relaciones #limites #culpa #saludmental #conciencia",
+    prompt: "Dos personas hundiéndose juntas mientras una podría nadar, estética conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Metáfora"]
   }
 ];
 
