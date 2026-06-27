@@ -8235,6 +8235,88 @@ const LIBRARY = [
     hashtags: "#manipulacion #sanar #pazmental #saludmental #conciencia",
     prompt: "Persona en paz sin necesidad de explicar lo que ya superó, conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Cierre emocional"]
+  },
+
+  /* ========== CIERRE FINAL · las 10 para llegar a 1.000 ========== */
+  {
+    frase: "Un relámpago calienta el aire a su alrededor a temperaturas varias veces mayores que la superficie del Sol. La furia de un instante puede arder más que una estrella.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Dato físico impactante con metáfora. Compartible.",
+    hashtags: "#ciencia #rayos #fisica #naturaleza #datoscuriosos",
+    prompt: "Relámpago descargando energía intensa en el cielo nocturno, estética conceptual.",
+    tecnicas: ["Dato revelador", "Metáfora", "Curiosity Gap"]
+  },
+  {
+    frase: "Tu sentido del equilibrio vive en el oído, no en los ojos. Por eso, cuando todo gira por dentro, ningún paisaje exterior te sostiene.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Dato corporal con metáfora. Guardable.",
+    hashtags: "#ciencia #cuerpo #equilibrio #oido #datoscuriosos",
+    prompt: "Oído interno representando el centro del equilibrio, estética conceptual.",
+    tecnicas: ["Dato revelador", "Metáfora", "Reframe"]
+  },
+  {
+    frase: "La Luna se aleja de la Tierra unos pocos centímetros cada año. Incluso lo que parece fijo en el cielo, en silencio, también se está yendo.",
+    emocion: "Nostalgia", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Dato astronómico con metáfora. Compartible.",
+    hashtags: "#ciencia #luna #astronomia #universo #datoscuriosos",
+    prompt: "La Luna alejándose lentamente de la Tierra, estética conceptual cósmica.",
+    tecnicas: ["Dato revelador", "Metáfora", "Cierre emocional"]
+  },
+  {
+    frase: "No tienes que apagarte para que otros brillen. El sol no se disculpa por salir, y tú tampoco deberías por existir plenamente.",
+    emocion: "Orgullo", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "Empodera a no encogerse. Compartible.",
+    hashtags: "#psicologia #autoestima #empoderamiento #amorpropio #frases",
+    prompt: "Persona brillando con luz propia sin disculparse, estética conceptual.",
+    tecnicas: ["Metáfora", "Reframe", "Cierre potente"]
+  },
+  {
+    frase: "Tu valor no se mide por lo que perdiste, sino por lo que sigues construyendo. El pasado fue una etapa, no tu techo.",
+    emocion: "Esperanza", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Reencuadra las pérdidas frente al futuro. Guardable.",
+    hashtags: "#psicologia #superacion #crecimientopersonal #saludmental #esperanza",
+    prompt: "Persona construyendo su futuro tras las pérdidas, estética conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Cierre potente"]
+  },
+  {
+    frase: "El amor no debería sentirse como esperar a que suene el teléfono. Mereces certeza, no la ansiedad de adivinar dónde estás parado.",
+    emocion: "Enojo", nicho: "Relaciones", objetivo: "Comentarios",
+    descripcion: "Confronta la incertidumbre en el amor. Genera debate.",
+    hashtags: "#relaciones #amorpropio #ansiedad #limites #frases",
+    prompt: "Persona soltando la ansiedad de esperar señales claras, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Gancho de debate"]
+  },
+  {
+    frase: "La persona correcta no te hará dudar de tu lugar en su vida. Donde hay amor real, no hace falta interpretar señales.",
+    emocion: "Calma", nicho: "Relaciones", objetivo: "Guardados",
+    descripcion: "Define la claridad del amor sano. Guardable.",
+    hashtags: "#relaciones #amor #pazmental #parejas #frases",
+    prompt: "Persona segura de su lugar junto a alguien que lo deja claro, conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre emocional"]
+  },
+  {
+    frase: "Eres tu hogar antes que el refugio de cualquiera. Aprende a habitarte en paz y dejarás de mendigar techo en gente sin espacio.",
+    emocion: "Esperanza", nicho: "Autoestima", objetivo: "Compartidos",
+    descripcion: "Promueve ser el propio refugio. Compartible.",
+    hashtags: "#autoestima #amorpropio #autocuidado #saludmental #frases",
+    prompt: "Persona encontrando hogar dentro de sí misma, luz cálida, estética conceptual.",
+    tecnicas: ["Metáfora", "Reframe", "Cierre potente"]
+  },
+  {
+    frase: "La libertad financiera no es nadar en lujos: es poder decir 'no' sin que tiemble tu economía. Esa es la verdadera riqueza.",
+    emocion: "Calma", nicho: "Dinero", objetivo: "Guardados",
+    descripcion: "Redefine la libertad financiera. Guardable.",
+    hashtags: "#dinero #libertadfinanciera #finanzas #ahorro #mentalidad",
+    prompt: "Persona con la libertad de rechazar lo que no quiere gracias a su estabilidad, conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
+  },
+  {
+    frase: "No te vuelves quien quieres ser en un día épico, sino en mil días normales. La grandeza es la suma silenciosa de lo cotidiano.",
+    emocion: "Orgullo", nicho: "Hábitos", objetivo: "Compartidos",
+    descripcion: "Cierra con la fuerza de lo cotidiano. Compartible.",
+    hashtags: "#habitos #constancia #disciplina #mentalidad #crecimiento",
+    prompt: "Persona construyéndose en mil días normales y constantes, estética conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Cierre potente"]
   }
 ];
 
