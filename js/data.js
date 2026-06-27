@@ -3123,7 +3123,7 @@ const LIBRARY = [
   {
     frase: "Automatiza tu ahorro y deja de depender de tu fuerza de voluntad. Lo que no ves, no lo gastas.",
     emocion: "Esperanza", nicho: "Dinero", objetivo: "Guardados",
-    descripcion: "Consejo práctico de automatización del ahorro. Accionable.",
+    descripcion: "💸 El truco de ahorro más efectivo no requiere disciplina: automatízalo. Programa una transferencia el mismo día que te pagan, antes de que el dinero te tiente. Lo que no ves en tu cuenta, no lo gastas. Así ahorras sin pelear contigo cada mes. 🔖 Guárdalo y configura tu transferencia automática hoy.",
     hashtags: "#finanzas #ahorro #automatizacion #dinero #habitos",
     prompt: "Transferencia automática moviendo una parte del sueldo a ahorro, estética limpia.",
     tecnicas: ["Regla práctica", "Reframe", "Llamado a la acción"]
@@ -3131,7 +3131,7 @@ const LIBRARY = [
   {
     frase: "Antes de comprar algo, calcula cuántas horas de tu vida cuesta. A veces el precio real no está en pesos, sino en tiempo tuyo.",
     emocion: "Sorpresa", nicho: "Dinero", objetivo: "Compartidos",
-    descripcion: "Reencuadra el gasto en horas de vida. Reflexivo y compartible.",
+    descripcion: "⏳ Truco que frena las compras impulsivas: antes de pagar, divide el precio entre lo que ganas por hora. Ese capricho no cuesta «$500», cuesta, por ejemplo, 5 horas de tu vida trabajando. Cuando lo ves en tiempo y no en pesos, muchas compras dejan de valer la pena. 🔖 Guárdalo y aplícalo en tu próxima compra.",
     hashtags: "#dinero #finanzas #tiempo #consumo #mentalidad",
     prompt: "Etiqueta de precio que muestra horas en vez de dinero, estética conceptual.",
     tecnicas: ["Reframe", "Dato revelador", "Llamado a la acción"]
@@ -3139,7 +3139,7 @@ const LIBRARY = [
   {
     frase: "No confíes en la memoria para tus hábitos: confía en señales. Deja la guitarra a la vista y la tocarás; guárdala y la olvidarás.",
     emocion: "Esperanza", nicho: "Hábitos", objetivo: "Guardados",
-    descripcion: "Aplica el diseño de señales visibles. Accionable.",
+    descripcion: "🧠 Truco de hábitos que sí funciona: no confíes en «acordarte», confía en señales visibles. Deja la guitarra a la vista y la tocarás; guárdala en el clóset y la olvidarás. Deja la fruta en la mesa y el libro en la almohada. Tu entorno recuerda por ti. 🔖 Guárdalo y diseña tus señales hoy.",
     hashtags: "#habitos #productividad #entorno #disciplina #mejora",
     prompt: "Objeto de un hábito a la vista invitando a usarlo, ambiente ordenado, luz cálida.",
     tecnicas: ["Regla práctica", "Reframe", "Causa-efecto"]
@@ -3147,7 +3147,7 @@ const LIBRARY = [
   {
     frase: "No necesitas empezar el lunes. El mejor día para construir quien quieres ser siempre fue hoy.",
     emocion: "Esperanza", nicho: "Hábitos", objetivo: "Compartidos",
-    descripcion: "Rompe la excusa del 'lunes empiezo'. Motivador y compartible.",
+    descripcion: "🔥 Deja de esperar el lunes, el mes que viene o el «momento perfecto». Esa espera es solo una excusa elegante para no empezar. El mejor día para construir quien quieres ser nunca fue mañana: siempre fue hoy, aunque sea con un paso pequeño. ✨ Comparte con quien lleva mil lunes esperando.",
     hashtags: "#habitos #disciplina #accion #hoy #mentalidad",
     prompt: "Calendario donde 'hoy' brilla más que cualquier lunes futuro, estética conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Llamado a la acción"]
@@ -3155,7 +3155,7 @@ const LIBRARY = [
   {
     frase: "Celebra los avances pequeños. Tu cerebro repite lo que premia, así que felicitarte también es entrenar la constancia.",
     emocion: "Orgullo", nicho: "Hábitos", objetivo: "Guardados",
-    descripcion: "Conecta recompensa y hábitos. Accionable y guardable.",
+    descripcion: "🧠 Dato que vuelve la constancia más fácil: tu cerebro repite lo que premia. Por eso celebrar los avances pequeños (un día cumplido, un paso dado) no es cursi, es entrenamiento. Si solo te exiges y nunca te felicitas, tu mente asocia el hábito con castigo. Date crédito y dura más. 🔖 Guárdalo y celebra tu próximo logro.",
     hashtags: "#habitos #constancia #recompensa #disciplina #mentalidad",
     prompt: "Persona celebrando con calma un pequeño logro en su rutina, luz cálida, conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Llamado a la acción"]
@@ -3163,7 +3163,7 @@ const LIBRARY = [
   {
     frase: "Cuando lo cuestionabas, hacía que parecieras el dramático. Quien siempre invierte los papeles rara vez se mira al espejo.",
     emocion: "Enojo", nicho: "Narcisismo", objetivo: "Comentarios",
-    descripcion: "Describe la inversión de roles. Genera identificación y debate.",
+    descripcion: "🚩 Patrón que confunde a cualquiera: cada vez que cuestionabas algo, terminaban haciéndote ver como el dramático, el exagerado o el problema. Quien siempre voltea los papeles para no responsabilizarse rara vez se mira al espejo. No estás loco: te están desviando la atención. 👇 ¿Te ha pasado quedar como el villano por solo reclamar? Cuéntalo.",
     hashtags: "#narcisismo #relacionestoxicas #manipulacion #limites #conciencia",
     prompt: "Figura señalando a otra para desviar la atención de sí misma, luz fría, conceptual.",
     tecnicas: ["Revelación", "Reframe", "Gancho de debate"]
@@ -3171,7 +3171,7 @@ const LIBRARY = [
   {
     frase: "Salir de ahí no te hace débil por haber aguantado tanto. Te hace fuerte por haberte elegido al fin.",
     emocion: "Esperanza", nicho: "Narcisismo", objetivo: "Compartidos",
-    descripcion: "Valida y empodera a quien dejó una relación tóxica. Compartible.",
+    descripcion: "💪 Para quien por fin se fue de algo que dolía: que hayas aguantado tanto no te hace débil ni tonto, y haberte ido no llega «tarde». Te hace fuerte por haberte elegido al fin, después de tanto elegir a todos menos a ti. Salir también es un acto de valentía. ✨ Comparte con quien necesita escucharlo.",
     hashtags: "#relacionestoxicas #superacion #amorpropio #saludmental #conciencia",
     prompt: "Persona saliendo de una puerta oscura hacia un amanecer luminoso, estética conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
@@ -3179,7 +3179,7 @@ const LIBRARY = [
   {
     frase: "La culpa que sientes por priorizarte fue plantada por alguien a quien le servía que no lo hicieras.",
     emocion: "Sorpresa", nicho: "Manipulación", objetivo: "Guardados",
-    descripcion: "Revela el origen de la culpa inducida. Liberadora y guardable.",
+    descripcion: "🧠 Verdad que libera: esa culpa que te aplasta cada vez que te pones primero no nació contigo. Te la sembró alguien a quien le convenía que siempre cedieras. Priorizarte no te hace egoísta; sentir culpa por hacerlo es la huella de quien te enseñó a quedar siempre al final. 🔖 Guárdalo y empieza a soltar esa culpa.",
     hashtags: "#manipulacion #culpa #limites #saludmental #conciencia",
     prompt: "Semilla de culpa plantada en la mente que una persona arranca con calma, conceptual.",
     tecnicas: ["Revelación", "Reframe", "Causa-efecto"]
@@ -3187,7 +3187,7 @@ const LIBRARY = [
   {
     frase: "No tienes que demostrar con pruebas que algo te lastimó. Tu malestar ya es razón suficiente para poner un límite.",
     emocion: "Orgullo", nicho: "Manipulación", objetivo: "Compartidos",
-    descripcion: "Empodera a validar el propio malestar sin justificarlo. Compartible.",
+    descripcion: "🛑 Recordatorio importante: no necesitas un expediente con pruebas para validar que algo te dolió. Tu malestar ya es razón suficiente para poner un límite. No tienes que «justificar» tu incomodidad ante nadie ni esperar a que sea «lo bastante grave». Sentirlo basta. ✨ Comparte con quien siempre duda de su propio dolor.",
     hashtags: "#limites #manipulacion #emociones #saludmental #conciencia",
     prompt: "Persona poniendo un límite con calma y firmeza, luz cálida, estética conceptual.",
     tecnicas: ["Reframe", "Validación emocional", "Cierre potente"]
@@ -3197,7 +3197,7 @@ const LIBRARY = [
   {
     frase: "La Antártida es el desierto más grande del planeta. Un desierto no es arena: es un lugar donde casi no llueve.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Dato geográfico que rompe la intuición. Genera debate.",
+    descripcion: "🧊 Dato que rompe lo que creías: el desierto más grande del mundo no es el Sáhara, es la Antártida. Un desierto no se define por la arena ni el calor, sino por la falta de lluvia, y allá casi no nieva ni llueve. La ciencia siempre tiene un dato para desarmar lo «obvio». 👇 ¿Sabías que el desierto más grande es helado? Cuéntalo abajo.",
     hashtags: "#ciencia #geografia #antartida #datoscuriosos #planeta",
     prompt: "Vasto paisaje helado de la Antártida bajo cielo despejado, estética conceptual.",
     tecnicas: ["Dato revelador", "Mito vs verdad", "Gancho de debate"]
@@ -3205,7 +3205,7 @@ const LIBRARY = [
   {
     frase: "El Sáhara fue verde y lleno de lagos hace miles de años. Nada es para siempre, ni siquiera un desierto.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Dato con metáfora del cambio. Reflexivo y guardable.",
+    descripcion: "🌍 Dato con lección incluida: hace miles de años el Sáhara fue verde, lleno de lagos, ríos y vida. El desierto más árido del mundo alguna vez fue un vergel. Nada es para siempre, ni lo bueno ni lo malo; todo, hasta un desierto, está en constante cambio. 🔖 Guárdalo, da esperanza en las épocas secas de la vida.",
     hashtags: "#ciencia #sahara #planeta #cambio #datoscuriosos",
     prompt: "Desierto con una visión fantasma de lagos y vegetación antiguos, estética conceptual.",
     tecnicas: ["Dato revelador", "Metáfora", "Reframe"]
@@ -3213,7 +3213,7 @@ const LIBRARY = [
   {
     frase: "Saturno es tan poco denso que, si existiera una bañera lo bastante grande, flotaría en el agua.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato astronómico lúdico y compartible.",
+    descripcion: "🪐 Dato curioso y divertido: Saturno es tan poco denso que, si existiera una bañera lo bastante grande, flotaría en el agua. A pesar de su enorme tamaño, está hecho principalmente de gas. El universo está lleno de cosas que desafían lo que creemos posible. ✨ Comparte, es de los datos que más sorprenden.",
     hashtags: "#ciencia #saturno #astronomia #universo #datoscuriosos",
     prompt: "Planeta Saturno flotando como un corcho en agua, estética conceptual divertida.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Reframe"]
@@ -3221,7 +3221,7 @@ const LIBRARY = [
   {
     frase: "Tu cuerpo crea millones de células nuevas cada segundo. Mientras lees esto, ya eres un poco distinto a hace un minuto.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato corporal con metáfora de renovación. Compartible.",
+    descripcion: "🧬 Dato que da esperanza: tu cuerpo crea millones de células nuevas cada segundo. Literalmente te estás renovando todo el tiempo; mientras lees esto, ya eres un poco distinto a quien eras hace un minuto. Si tu cuerpo se reinventa sin parar, tú también puedes cambiar. ✨ Comparte con quien cree que «ya no puede cambiar».",
     hashtags: "#ciencia #cuerpo #celulas #biologia #datoscuriosos",
     prompt: "Células regenerándose con destellos de luz dentro del cuerpo, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Cierre emocional"]
@@ -3229,7 +3229,7 @@ const LIBRARY = [
   {
     frase: "Los bebés nacen con cerca de 300 huesos; los adultos tenemos 206. Crecer también es fusionar piezas.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Dato anatómico curioso. Genera respuestas.",
+    descripcion: "🦴 Dato curioso con metáfora bonita: los bebés nacen con cerca de 300 huesos, y al crecer muchos se fusionan hasta quedar en 206. Crecer no siempre es sumar; a veces es integrar piezas sueltas en algo más firme. También por dentro maduramos uniendo lo que estaba disperso. 👇 ¿Sabías que perdemos huesos al crecer? Cuéntalo abajo.",
     hashtags: "#ciencia #cuerpo #huesos #biologia #datoscuriosos",
     prompt: "Ilustración de huesos de bebé que se fusionan al crecer, estética conceptual suave.",
     tecnicas: ["Dato revelador", "Metáfora", "Gancho de debate"]
@@ -3237,7 +3237,7 @@ const LIBRARY = [
   {
     frase: "Lo que llamas 'sabor' es casi todo olfato. Tápate la nariz y una manzana sabrá casi igual que una cebolla.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Dato sensorial sorprendente. Curioso y guardable.",
+    descripcion: "👃 Dato que puedes comprobar ahora: lo que llamas «sabor» es en gran parte olfato. Tápate la nariz al comer y una manzana sabrá casi igual que una cebolla. Por eso, cuando estás resfriado, la comida pierde gracia. Sentimos con la nariz mucho más de lo que creemos. ✨ Comparte y rétalos a probarlo.",
     hashtags: "#ciencia #sabor #olfato #cuerpo #datoscuriosos",
     prompt: "Nariz y lengua conectadas por líneas de luz al percibir un sabor, estética conceptual.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Reframe"]
@@ -3245,7 +3245,7 @@ const LIBRARY = [
   {
     frase: "Los árboles se comunican bajo tierra a través de redes de hongos. Un bosque no es un grupo de árboles: es una sola familia conectada.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato de biología con metáfora de comunidad. Compartible.",
+    descripcion: "🌳 Dato precioso de la naturaleza: los árboles se comunican y comparten nutrientes bajo tierra a través de redes de hongos, una especie de «internet» natural. Un bosque no es un montón de árboles separados: es una sola comunidad conectada que se cuida entre sí. La naturaleza también colabora. 🔖 Guárdalo, da para reflexionar.",
     hashtags: "#ciencia #naturaleza #arboles #biologia #datoscuriosos",
     prompt: "Raíces de árboles conectadas por hilos luminosos bajo tierra, estética conceptual.",
     tecnicas: ["Dato revelador", "Metáfora", "Cierre emocional"]
@@ -3253,7 +3253,7 @@ const LIBRARY = [
   {
     frase: "Una nube puede pesar cientos de toneladas. Lo que parece ligero a veces carga un peso enorme: igual que las personas.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Dato meteorológico con giro humano. Guardable.",
+    descripcion: "☁️ Dato con metáfora que llega: una nube puede pesar cientos de toneladas, aunque la veas flotar ligera en el cielo. Igual que las personas: las que parecen más livianas y sonrientes a veces cargan el peso más grande. Nunca sabes lo que sostiene quien se ve tranquilo. ✨ Comparte y sé más amable, no sabes qué carga el otro.",
     hashtags: "#ciencia #nubes #clima #datoscuriosos #reflexion",
     prompt: "Nube imponente sobre un cielo claro con sensación de peso, estética conceptual.",
     tecnicas: ["Dato revelador", "Metáfora", "Reframe"]
@@ -3261,7 +3261,7 @@ const LIBRARY = [
   {
     frase: "La fosa más profunda del océano es más honda que el Everest es alto. Lo que no vemos suele ser más vasto que lo que admiramos.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato geográfico con metáfora de lo invisible. Compartible.",
+    descripcion: "🌊 Dato que da perspectiva: la fosa de las Marianas, en el océano, es más profunda que alto es el Everest. Si metieras la montaña más alta del mundo ahí dentro, aún sobraría agua encima. Lo que no vemos suele ser más vasto que lo que admiramos a simple vista. ✨ Comparte este dato que pone todo en escala.",
     hashtags: "#ciencia #oceano #naturaleza #datoscuriosos #planeta",
     prompt: "Comparación visual entre la fosa de las Marianas y el Everest, estética conceptual.",
     tecnicas: ["Dato revelador", "Metáfora", "Curiosity Gap"]
@@ -3269,7 +3269,7 @@ const LIBRARY = [
   {
     frase: "Cleopatra vivió más cerca en el tiempo del primer iPhone que de la construcción de las grandes pirámides. La historia es más larga de lo que crees.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Dato histórico que descoloca la intuición del tiempo. Debatible.",
+    descripcion: "🤯 Dato que rompe tu noción del tiempo: Cleopatra vivió más cerca de la invención del iPhone que de la construcción de las grandes pirámides de Egipto. Las pirámides ya eran «antiguas» para ella. La historia es muchísimo más larga y profunda de lo que solemos imaginar. 👇 ¿Te explotó la cabeza con este dato? Cuéntalo abajo.",
     hashtags: "#ciencia #historia #datoscuriosos #tiempo #curiosidades",
     prompt: "Línea de tiempo sorprendente con pirámides, Cleopatra y tecnología moderna, conceptual.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Gancho de debate"]
@@ -3277,7 +3277,7 @@ const LIBRARY = [
   {
     frase: "El día en la Tierra se alarga muy poco a poco: la Luna se aleja y nos frena. El tiempo, literalmente, cambia de ritmo.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Dato astronómico fascinante. Guardable.",
+    descripcion: "🌙 Dato fascinante: el día en la Tierra se alarga poquísimo cada año, porque la Luna se aleja lentamente y va frenando nuestra rotación. Hace millones de años los días duraban menos horas. El tiempo, literalmente, cambia de ritmo a escala cósmica. 🔖 Guárdalo, es de esos datos que te hacen sentir parte de algo enorme.",
     hashtags: "#ciencia #luna #tierra #astronomia #datoscuriosos",
     prompt: "Tierra y Luna con la órbita alejándose lentamente, estética conceptual cósmica.",
     tecnicas: ["Dato revelador", "Reframe", "Curiosity Gap"]
@@ -3285,7 +3285,7 @@ const LIBRARY = [
   {
     frase: "Solo entendemos una pequeña parte del universo; el resto es materia y energía que ni siquiera podemos ver. La ciencia también es aprender a decir 'no lo sé'.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato cosmológico con humildad científica. Reflexivo y compartible.",
+    descripcion: "🌌 Dato que da humildad: todo lo que vemos (estrellas, galaxias, planetas) es apenas una pequeña parte del universo. El resto es materia y energía oscura que ni siquiera podemos observar todavía. La verdadera ciencia no es saberlo todo, es tener la honestidad de decir «aún no lo sé». 👇 ¿Te inspira o te inquieta este dato? Te leo abajo.",
     hashtags: "#ciencia #universo #cosmos #astronomia #datoscuriosos",
     prompt: "Vasto universo oscuro con una pequeña porción iluminada, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Cierre emocional"]
@@ -3295,7 +3295,7 @@ const LIBRARY = [
   {
     frase: "La ansiedad y la emoción se sienten casi igual en el cuerpo. La diferencia muchas veces está en la historia que les pones.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Reencuadra la ansiedad como activación. Accionable y guardable.",
+    descripcion: "🧠 Dato que puede cambiar cómo enfrentas tus nervios: la ansiedad y la emoción producen casi las mismas señales en el cuerpo (corazón acelerado, mariposas, alerta). La diferencia muchas veces está en la historia que tú les cuentas. Por eso decir «estoy emocionado» en vez de «estoy nervioso» a veces ayuda de verdad. 🔖 Guárdalo y pruébalo.",
     hashtags: "#psicologia #ansiedad #emociones #saludmental #mente",
     prompt: "Misma sensación corporal con dos etiquetas, miedo y emoción, estética conceptual.",
     tecnicas: ["Reframe", "Dato revelador", "Antítesis"]
@@ -3303,7 +3303,7 @@ const LIBRARY = [
   {
     frase: "El duelo es amor que se quedó sin lugar a dónde ir. No buscas dejar de sentirlo: aprendes a llevarlo con más calma.",
     emocion: "Tristeza", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "Reencuadra el duelo con ternura. Muy compartible.",
+    descripcion: "🤍 La definición de duelo más bella que leerás: el duelo es amor que se quedó sin lugar a dónde ir. No duele porque hagas algo mal, duele porque amaste. No se trata de dejar de sentirlo, sino de aprender a llevarlo con más calma, dándole un nuevo lugar dentro de ti. ✨ Comparte con quien está atravesando una pérdida.",
     hashtags: "#duelo #saludmental #amor #sanar #emociones",
     prompt: "Persona sosteniendo una luz cálida en el pecho frente al mar, estética conceptual.",
     tecnicas: ["Metáfora", "Reframe", "Cierre emocional"]
@@ -3311,7 +3311,7 @@ const LIBRARY = [
   {
     frase: "Lo que los demás piensan de ti dice más de ellos que de ti. No puedes controlar el espejo en el que otros te miran.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Libera del juicio ajeno. Guardable.",
+    descripcion: "🪞 Recordatorio que te quita un peso: lo que los demás piensan de ti habla de sus miedos, su historia y sus heridas, más que de quién eres tú realmente. Cada persona te ve a través de su propio espejo, y ese espejo no lo controlas. Suelta lo que no depende de ti. 🔖 Guárdalo para cuando te importe de más la opinión ajena.",
     hashtags: "#psicologia #opiniones #amorpropio #saludmental #limites",
     prompt: "Persona serena rodeada de espejos que la distorsionan distinto, estética conceptual.",
     tecnicas: ["Reframe", "Metáfora", "Regla de oro"]
