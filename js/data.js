@@ -372,6 +372,216 @@ const LIBRARY = [
     hashtags: "#saludmental #emociones #vulnerabilidad #bienestar #frases",
     prompt: "Persona con una sonrisa cansada frente a un espejo que refleja una expresión triste, luz tenue.",
     tecnicas: ["CTA invisible", "Espejo emocional", "Vulnerabilidad"]
+  },
+
+  /* ========== LOTE 2 ========== */
+
+  /* ----- RELACIONES ----- */
+  {
+    frase: "Lo contrario del amor no es el odio. Es la indiferencia de quien antes te escribía todos los días.",
+    emocion: "Tristeza", nicho: "Relaciones", objetivo: "Compartidos",
+    descripcion: "Pone palabras al dolor silencioso del distanciamiento. Conecta de inmediato.",
+    hashtags: "#desamor #relaciones #indiferencia #frases #reflexiones",
+    prompt: "Pantalla de chat con el último mensaje sin respuesta, luz azulada de la noche, ambiente melancólico.",
+    tecnicas: ["Antítesis", "Espejo emocional", "Cierre emocional"]
+  },
+  {
+    frase: "Te eligieron a medias y aun así diste todo. Imagina lo que harás cuando alguien te elija completo.",
+    emocion: "Esperanza", nicho: "Relaciones", objetivo: "Guardados",
+    descripcion: "Convierte una herida en promesa. Da esperanza sin negar el dolor.",
+    hashtags: "#amorpropio #relaciones #esperanza #merecer #frases",
+    prompt: "Amanecer sobre un campo abierto, una persona de pie mirando al horizonte, luz cálida y prometedora.",
+    tecnicas: ["Reframe", "Contraste", "Cierre potente"]
+  },
+  {
+    frase: "Madurar en pareja es dejar de querer ganar la discusión y empezar a querer entender a la persona.",
+    emocion: "Calma", nicho: "Relaciones", objetivo: "Comentarios",
+    descripcion: "Invita a reflexionar sobre el ego en las relaciones. Genera respuestas.",
+    hashtags: "#parejas #relaciones #madurez #comunicacion #amor",
+    prompt: "Pareja sentada frente a frente tomados de las manos en una conversación tranquila, luz suave de tarde.",
+    tecnicas: ["Reframe", "Antítesis", "Gancho de debate"]
+  },
+  {
+    frase: "No era amor. Era miedo a quedarte solo disfrazado de cariño.",
+    emocion: "Sorpresa", nicho: "Relaciones", objetivo: "Compartidos",
+    descripcion: "Una verdad incómoda que muchos reconocen al releerla. Alto poder de identificación.",
+    hashtags: "#relaciones #soledad #amorpropio #verdades #reflexion",
+    prompt: "Persona sola en un cuarto con una sola luz encendida, sombras suaves, atmósfera introspectiva.",
+    tecnicas: ["Revelación", "Reframe", "Brevedad"]
+  },
+
+  /* ----- PSICOLOGÍA ----- */
+  {
+    frase: "Descansar no es premio por terminar todo. Es requisito para poder seguir.",
+    emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Reescribe la culpa del descanso. Ideal para perfiles de bienestar.",
+    hashtags: "#descanso #saludmental #autocuidado #bienestar #burnout",
+    prompt: "Persona recostada leyendo junto a una ventana con luz natural, ambiente sereno y acogedor.",
+    tecnicas: ["Reframe", "Antítesis", "Regla de oro"]
+  },
+  {
+    frase: "Estás comparando tu detrás de cámaras con el estreno editado de los demás. No es una pelea justa.",
+    emocion: "Sorpresa", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "Desarma la comparación en redes con una metáfora clara y memorable.",
+    hashtags: "#comparacion #saludmental #redessociales #autoestima #mentalidad",
+    prompt: "Detrás de cámaras de una producción frente a una pantalla pulida, contraste visual, estilo conceptual.",
+    tecnicas: ["Metáfora", "Reframe", "Identificación"]
+  },
+  {
+    frase: "Algunas heridas no necesitan que alguien las entienda. Solo necesitan que tú dejes de fingir que no existen.",
+    emocion: "Tristeza", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Invita a la honestidad emocional con uno mismo. Profundo y guardable.",
+    hashtags: "#sanar #saludmental #emociones #honestidad #bienestar",
+    prompt: "Persona con la mano sobre el pecho, ojos cerrados, luz tenue y cálida, atmósfera introspectiva.",
+    tecnicas: ["Reframe", "Validación emocional", "Cierre emocional"]
+  },
+  {
+    frase: "La procrastinación no es pereza. Casi siempre es miedo a hacerlo mal disfrazado de 'mañana'.",
+    emocion: "Sorpresa", nicho: "Psicología", objetivo: "Comentarios",
+    descripcion: "Reencuadra la procrastinación desde el miedo, no la flojera. Abre conversación.",
+    hashtags: "#procrastinacion #productividad #psicologia #miedo #habitos",
+    prompt: "Escritorio con tareas pendientes y un reloj, persona mirando la ventana distraída, luz neutra.",
+    tecnicas: ["Reframe", "Revelación", "Gancho de debate"]
+  },
+
+  /* ----- DINERO ----- */
+  {
+    frase: "No necesitas ganar más para empezar. Necesitas dejar de huir de tus números.",
+    emocion: "Miedo", nicho: "Dinero", objetivo: "Guardados",
+    descripcion: "Confronta el miedo a mirar las finanzas propias. Accionable.",
+    hashtags: "#finanzas #dinero #educacionfinanciera #habitos #mentalidad",
+    prompt: "Persona abriendo un sobre con cuentas sobre una mesa de madera, luz cálida, ambiente honesto.",
+    tecnicas: ["Reframe", "Antítesis", "Llamado a la acción"]
+  },
+  {
+    frase: "Comprar barato lo que no necesitas sigue siendo caro.",
+    emocion: "Sorpresa", nicho: "Dinero", objetivo: "Compartidos",
+    descripcion: "Frase corta y contundente sobre consumo. Muy compartible por lo memorable.",
+    hashtags: "#dinero #ahorro #finanzas #consumo #mentalidad",
+    prompt: "Bolsas de compras acumuladas en una esquina con etiquetas de oferta, luz dura, estilo conceptual.",
+    tecnicas: ["Antítesis", "Brevedad", "Paradoja"]
+  },
+  {
+    frase: "Invertir en ti no siempre se ve en la cuenta hoy. Se ve en las puertas que se abren mañana.",
+    emocion: "Esperanza", nicho: "Dinero", objetivo: "Guardados",
+    descripcion: "Conecta el dinero con el crecimiento personal a largo plazo. Inspirador.",
+    hashtags: "#inversion #crecimiento #dinero #mentalidad #futuro",
+    prompt: "Persona estudiando de noche con una lámpara cálida, libros y laptop, ambiente de esfuerzo y esperanza.",
+    tecnicas: ["Reframe", "Perspectiva temporal", "Metáfora"]
+  },
+
+  /* ----- AUTOESTIMA ----- */
+  {
+    frase: "Tú no eres difícil de amar. Solo estuviste con quien no sabía hacerlo.",
+    emocion: "Esperanza", nicho: "Autoestima", objetivo: "Compartidos",
+    descripcion: "Devuelve el valor a quien se culpó por relaciones que fallaron. Muy poderosa.",
+    hashtags: "#amorpropio #autoestima #relaciones #merecer #frases",
+    prompt: "Retrato cálido de una persona sonriendo con calma a la cámara, luz dorada, estética íntima.",
+    tecnicas: ["Reframe", "Validación emocional", "Cierre potente"]
+  },
+  {
+    frase: "Deja de pedir permiso para ocupar el espacio que ya te ganaste.",
+    emocion: "Orgullo", nicho: "Autoestima", objetivo: "Seguidores",
+    descripcion: "Frase de empoderamiento que atrae a quienes buscan afirmación. Buen gancho de seguidores.",
+    hashtags: "#empoderamiento #autoestima #confianza #valor #mujeres",
+    prompt: "Persona entrando segura a una sala iluminada, postura firme, estética editorial poderosa.",
+    tecnicas: ["Reframe", "Llamado a la acción", "Brevedad"]
+  },
+  {
+    frase: "Cuídate como cuidas a quien amas. Esa persona también te necesita.",
+    emocion: "Calma", nicho: "Autoestima", objetivo: "Guardados",
+    descripcion: "Recordatorio de autocuidado con un giro tierno hacia el final.",
+    hashtags: "#autocuidado #amorpropio #autoestima #bienestar #saludmental",
+    prompt: "Manos sosteniendo una taza con cariño junto a una manta y una vela, ambiente cálido y tierno.",
+    tecnicas: ["Reframe", "Espejo emocional", "Cierre emocional"]
+  },
+
+  /* ----- NARCISISMO / RELACIONES TÓXICAS ----- */
+  {
+    frase: "Si necesitas grabar las conversaciones para saber qué pasó realmente… ya sabes qué pasó.",
+    emocion: "Sorpresa", nicho: "Narcisismo", objetivo: "Comentarios",
+    descripcion: "Señala la distorsión de la realidad (gaslighting) sin tecnicismos. Genera identificación y debate.",
+    hashtags: "#narcisismo #gaslighting #relacionestoxicas #saludmental #limites",
+    prompt: "Reflejo distorsionado en un espejo roto, luz fría, estilo conceptual sobre la confusión.",
+    tecnicas: ["Revelación", "Open Loop", "Gancho de debate"]
+  },
+  {
+    frase: "No estabas loca. Solo te hicieron sentir así para que no confiaras en lo que veías.",
+    emocion: "Enojo", nicho: "Narcisismo", objetivo: "Compartidos",
+    descripcion: "Valida a quien fue manipulado para dudar de su percepción. Muy liberador.",
+    hashtags: "#gaslighting #narcisismo #relacionestoxicas #saludmental #conciencia",
+    prompt: "Persona saliendo de la sombra hacia la luz con expresión de claridad, estética de liberación.",
+    tecnicas: ["Validación emocional", "Reframe", "Cierre potente"]
+  },
+
+  /* ----- HÁBITOS ----- */
+  {
+    frase: "La motivación te hace empezar. El sistema te hace continuar cuando la motivación se va.",
+    emocion: "Esperanza", nicho: "Hábitos", objetivo: "Guardados",
+    descripcion: "Enseña a depender de sistemas, no de ganas. Muy práctico y guardable.",
+    hashtags: "#habitos #disciplina #sistemas #productividad #constancia",
+    prompt: "Tablero de hábitos con marcas diarias y un café, luz limpia, estética organizada y motivadora.",
+    tecnicas: ["Antítesis", "Reframe", "Regla práctica"]
+  },
+  {
+    frase: "No subestimes lo que puedes construir con 30 minutos al día repetidos durante un año.",
+    emocion: "Orgullo", nicho: "Hábitos", objetivo: "Compartidos",
+    descripcion: "Resalta el poder del interés compuesto del tiempo. Inspirador y compartible.",
+    hashtags: "#constancia #disciplina #habitos #mejora #productividad",
+    prompt: "Línea de tiempo visual de pequeños progresos que culminan en un gran resultado, estilo infográfico cálido.",
+    tecnicas: ["Perspectiva temporal", "Reframe", "Prueba implícita"]
+  },
+
+  /* ----- MANIPULACIÓN (límites) ----- */
+  {
+    frase: "'No' es una oración completa. No le debes a nadie un párrafo de justificaciones.",
+    emocion: "Orgullo", nicho: "Manipulación", objetivo: "Guardados",
+    descripcion: "Empodera a poner límites sin culpa ni explicaciones interminables.",
+    hashtags: "#limites #amorpropio #inteligenciaemocional #saludmental #conciencia",
+    prompt: "Mano levantada en gesto sereno de 'alto', fondo neutro, luz limpia, estética minimalista firme.",
+    tecnicas: ["Reframe", "Brevedad", "Regla de oro"]
+  },
+  {
+    frase: "Cuidado con quien solo aparece cuando necesita algo. La cercanía con condiciones no es cariño.",
+    emocion: "Enojo", nicho: "Manipulación", objetivo: "Comentarios",
+    descripcion: "Ayuda a reconocer relaciones interesadas. Provoca identificación y respuestas.",
+    hashtags: "#limites #relacionestoxicas #amistad #conciencia #verdades",
+    prompt: "Dos figuras donde una se acerca solo con la mano extendida pidiendo, luz contrastada, conceptual.",
+    tecnicas: ["Reframe", "Gancho de debate", "Contraste"]
+  },
+
+  /* ----- VARIADAS (cierre del lote) ----- */
+  {
+    frase: "Crecer duele porque significa dejar atrás versiones de ti que ya no caben en quien estás siendo.",
+    emocion: "Nostalgia", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "Da sentido al dolor del cambio personal. Reflexiva y muy compartible.",
+    hashtags: "#crecimientopersonal #cambio #saludmental #madurez #reflexion",
+    prompt: "Persona soltando una hoja al viento desde una colina al atardecer, estética simbólica y cálida.",
+    tecnicas: ["Reframe", "Metáfora", "Cierre emocional"]
+  },
+  {
+    frase: "El perdón no es para quien te hirió. Es para que tú dejes de cargar lo que ya no merece tu energía.",
+    emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Redefine el perdón como un acto de liberación propia. Top en guardados.",
+    hashtags: "#perdon #sanar #saludmental #pazmental #bienestar",
+    prompt: "Persona dejando caer una piedra pesada de su mano sobre el agua, ondas suaves, luz serena.",
+    tecnicas: ["Reframe", "Metáfora", "Regla de oro"]
+  },
+  {
+    frase: "Etiqueta a alguien que necesita escuchar que sí va a estar bien.",
+    emocion: "Esperanza", nicho: "Psicología", objetivo: "Comentarios",
+    descripcion: "CTA directo y cálido que multiplica el alcance por etiquetas.",
+    hashtags: "#esperanza #saludmental #apoyo #bienestar #frases",
+    prompt: "Dos manos entrelazadas en señal de apoyo, luz cálida, estética tierna y luminosa.",
+    tecnicas: ["CTA invisible", "Prueba social", "Brevedad"]
+  },
+  {
+    frase: "Un día vas a contar todo esto como la etapa que te hizo fuerte, no como la que te rompió.",
+    emocion: "Esperanza", nicho: "Autoestima", objetivo: "Compartidos",
+    descripcion: "Proyecta el dolor presente hacia un futuro de superación. Muy motivadora.",
+    hashtags: "#superacion #resiliencia #esperanza #fortaleza #mentalidad",
+    prompt: "Amanecer tras una noche de tormenta, persona de pie mirando la luz, estética épica y esperanzadora.",
+    tecnicas: ["Perspectiva temporal", "Reframe", "Cierre potente"]
   }
 ];
 
