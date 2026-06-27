@@ -391,6 +391,7 @@ h1, h2, h3, h4, .logo { font-family: var(--font-display); line-height: 1.15; }
 
 .hr { height: 1px; background: var(--border); border: none; margin: 1.4rem 0; }
 
+.more-wrap { text-align: center; margin: 1.6rem 0; }
 .search-empty { text-align: center; color: var(--text-faint); padding: 3rem 1rem; }
 .result-meta { font-size: .8rem; color: var(--text-faint); margin-bottom: 1rem; }
 

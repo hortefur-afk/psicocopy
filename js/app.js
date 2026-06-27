@@ -180,7 +180,7 @@
         (!state.objetivo || p.objetivo === state.objetivo));
       list.appendChild(el("div", "result-meta", `${res.length} publicación(es)`));
       if (!res.length) { list.appendChild(el("div", "search-empty", "No hay resultados con esos filtros.")); return; }
-      res.forEach(p => list.appendChild(buildPost(p)));
+      renderPaged(list, res, 30);
     }
 
     target.append(filters, el("hr", "hr"), list);
@@ -199,6 +199,27 @@
     post.appendChild(buildAccordion({ ico: "🧠", title: "Técnicas utilizadas",
       html: "<ul>" + p.tecnicas.map(t => `<li>${esc(t)}</li>`).join("") + "</ul>" }));
     return post;
+  }
+
+  // Renderiza publicaciones por lotes con botón "Mostrar más" (mantiene la app fluida con 1.000 posts)
+  function renderPaged(target, posts, pageSize) {
+    pageSize = pageSize || 30;
+    let shown = 0;
+    const holder = el("div");
+    const moreWrap = el("div", "more-wrap");
+    const btn = el("button", "btn");
+    const renderNext = () => {
+      const frag = document.createDocumentFragment();
+      posts.slice(shown, shown + pageSize).forEach(p => frag.appendChild(buildPost(p)));
+      holder.appendChild(frag);
+      shown = Math.min(shown + pageSize, posts.length);
+      if (shown >= posts.length) moreWrap.remove();
+      else btn.textContent = `Mostrar más (${posts.length - shown} restantes)`;
+    };
+    btn.addEventListener("click", renderNext);
+    moreWrap.appendChild(btn);
+    target.append(holder, moreWrap);
+    renderNext();
   }
 
   function renderGenerador(target) {
@@ -334,7 +355,7 @@
 
     if (libHits.length) {
       content.appendChild(el("h2", null, "Publicaciones"));
-      libHits.forEach(p => content.appendChild(buildPost(p)));
+      renderPaged(content, libHits, 30);
     }
 
     if (!secHits.length && !libHits.length) {
