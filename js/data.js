@@ -1553,7 +1553,7 @@ const LIBRARY = [
   {
     frase: "Reír de verdad relaja tus arterias y baja el estrés. Tu carcajada es, literalmente, medicina gratis.",
     emocion: "Esperanza", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Respalda el beneficio de la risa. Positivo y compartible.",
+    descripcion: "😂 Dato que da permiso de reír más: una carcajada de verdad relaja tus arterias, libera tensión y baja el estrés. No es solo «sentirse bien», es un efecto físico real. Tu risa es, literalmente, medicina gratis y sin efectos secundarios. ✨ Comparte con esa persona que te hace reír hasta llorar.",
     hashtags: "#ciencia #risa #bienestar #salud #datoscuriosos",
     prompt: "Grupo de amigos riendo con luz cálida y natural, ambiente alegre y genuino.",
     tecnicas: ["Dato revelador", "Reframe", "Brevedad"]
@@ -1561,7 +1561,7 @@ const LIBRARY = [
   {
     frase: "Tener vínculos cercanos predice tu salud mejor que muchos hábitos. La soledad crónica pesa como una enfermedad.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Dato sobre conexión social y longevidad. Profundo y guardable.",
+    descripcion: "🫂 Dato que pocos toman en serio: estudios de décadas muestran que tener vínculos cercanos predice tu salud y tu longevidad mejor que muchos hábitos famosos. La soledad crónica desgasta el cuerpo casi como una enfermedad. Cuidar tus relaciones también es cuidar tu vida. 🔖 Guárdalo y escribe hoy a alguien que extrañas.",
     hashtags: "#ciencia #conexion #salud #relaciones #bienestar",
     prompt: "Manos de varias personas unidas en círculo bajo luz cálida, estética conceptual humana.",
     tecnicas: ["Dato revelador", "Reframe", "Cierre emocional"]
@@ -1569,7 +1569,7 @@ const LIBRARY = [
   {
     frase: "El efecto placebo es tan real que una pastilla sin nada puede aliviar dolor. Tu expectativa cambia tu biología.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Explica el placebo de forma simple. Genera debate y asombro.",
+    descripcion: "🧠 Esto demuestra el poder de tu mente: el efecto placebo es tan real que una pastilla sin ningún ingrediente activo puede aliviar dolor, solo porque crees que funcionará. Tu expectativa cambia tu biología de verdad. La mente y el cuerpo están más conectados de lo que pensamos. 👇 ¿Te alucina este dato? Cuéntalo abajo.",
     hashtags: "#ciencia #placebo #cerebro #mente #datoscuriosos",
     prompt: "Pastilla de luz suave en una mano abierta, fondo neutro, estética conceptual elegante.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Gancho de debate"]
@@ -1577,7 +1577,7 @@ const LIBRARY = [
   {
     frase: "Tu cerebro borra los sueños a propósito al despertar. Recordar todo lo que sueñas te impediría distinguir lo real.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Curiosidad sobre el olvido de los sueños. Fascinante y guardable.",
+    descripcion: "💤 Dato curioso sobre por qué olvidas tus sueños: tu cerebro los borra a propósito al despertar. Si recordaras cada sueño con la misma nitidez que lo real, te costaría distinguir qué pasó de verdad. Olvidar, en este caso, es una función, no un fallo. 🔖 Guárdalo, es de esos datos que te dejan pensando.",
     hashtags: "#ciencia #sueños #cerebro #memoria #datoscuriosos",
     prompt: "Persona despertando mientras imágenes oníricas se disuelven en luz, estética conceptual.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Reframe"]
@@ -1585,7 +1585,7 @@ const LIBRARY = [
   {
     frase: "Tomar decisiones cansa al cerebro. Por eso al final del día caes en lo fácil: no es falta de carácter, es batería baja.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Explica la fatiga de decisión. Libera de culpa y es accionable.",
+    descripcion: "🔋 Te quito una culpa: si al final del día caes en lo fácil (comida chatarra, scroll, decir que sí a todo), no es falta de carácter, es fatiga de decisión. Tu cerebro gasta energía en cada elección y, agotado, busca el camino corto. Por eso conviene decidir lo importante temprano. 🔖 Guárdalo, esto te organiza el día.",
     hashtags: "#ciencia #decisiones #cerebro #productividad #psicologia",
     prompt: "Batería mental descargándose junto a un escritorio al anochecer, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Validación emocional"]
@@ -1593,7 +1593,7 @@ const LIBRARY = [
   {
     frase: "Crees que todos notan tu error, pero casi nadie lo recuerda mañana. Se llama efecto foco: el reflector es tuyo, no de ellos.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Explica el efecto foco para aliviar la ansiedad social. Compartible.",
+    descripcion: "🔦 Para tu ansiedad social, lee esto: crees que todos notaron ese tropiezo, ese comentario torpe, esa caída… pero mañana casi nadie lo recordará, porque están ocupados con su propio reflector. Se llama efecto foco: la luz que sientes encima es tuya, no de ellos. ✨ Comparte con quien se castiga por el qué dirán.",
     hashtags: "#ciencia #psicologia #ansiedadsocial #cerebro #bienestar",
     prompt: "Persona bajo un reflector que en realidad nadie mira, multitud distraída, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Identificación"]
@@ -1601,7 +1601,7 @@ const LIBRARY = [
   {
     frase: "La luz azul de las pantallas le dice a tu cerebro que aún es de día. Por eso te cuesta dormir tras el último scroll.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Dato práctico sobre pantallas y sueño. Accionable y guardable.",
+    descripcion: "📱 Te explico por qué no concilias el sueño: la luz azul del celular le dice a tu cerebro que todavía es de día y frena la melatonina, la hormona del sueño. Por eso, tras el último scroll, das vueltas en la cama. Apaga pantallas un rato antes y nota la diferencia. 🔖 Guárdalo y prueba esta noche.",
     hashtags: "#ciencia #sueño #pantallas #cerebro #bienestar",
     prompt: "Rostro iluminado por la luz azul de un teléfono en la oscuridad, estética conceptual.",
     tecnicas: ["Dato revelador", "Causa-efecto", "Llamado a la acción"]
@@ -1611,7 +1611,7 @@ const LIBRARY = [
   {
     frase: "Las tareas sin terminar ocupan espacio en tu mente hasta que las cierras. Por eso anotar lo pendiente te calma.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Explica el efecto Zeigarnik de forma útil. Accionable y guardable.",
+    descripcion: "🧠 Dato que calma tu cabeza: lo que dejas a medias se queda dando vueltas en tu mente, consumiendo energía hasta que lo cierras. Por eso anotar tus pendientes te relaja: liberas a tu cerebro de tener que «recordarlo todo». Sacarlo de la cabeza al papel baja la ansiedad. 🔖 Guárdalo y haz tu lista hoy.",
     hashtags: "#psicologia #productividad #mente #ansiedad #bienestar",
     prompt: "Lista de tareas con varias casillas marcadas y una mente despejándose, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Llamado a la acción"]
@@ -1619,7 +1619,7 @@ const LIBRARY = [
   {
     frase: "Buscas pruebas de lo que ya crees e ignoras el resto. Por eso cambiar de opinión se siente como perder.",
     emocion: "Sorpresa", nicho: "Psicología", objetivo: "Comentarios",
-    descripcion: "Explica el sesgo de confirmación. Genera reflexión y debate.",
+    descripcion: "🧠 Sesgo que todos tenemos sin notarlo: tu mente busca pruebas de lo que ya crees e ignora lo que la contradice. Por eso cambiar de opinión se siente como «perder», cuando en realidad es crecer. Reconocerlo te vuelve más libre y menos manipulable. 👇 ¿Te cuesta cambiar de opinión aunque tengas datos en contra? Te leo abajo.",
     hashtags: "#psicologia #sesgos #mente #pensamiento #crecimientopersonal",
     prompt: "Persona mirando solo a través de una rendija que confirma lo que espera, conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Gancho de debate"]
@@ -1627,7 +1627,7 @@ const LIBRARY = [
   {
     frase: "Seguir en algo que ya no funciona solo porque 'ya invertiste tanto' es la trampa que más sueños entierra.",
     emocion: "Sorpresa", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "Explica la falacia del costo hundido aplicada a la vida. Revelador.",
+    descripcion: "🪤 Trampa mental que entierra sueños: seguir en una relación, un trabajo o un camino solo porque «ya invertí mucho tiempo» es la falacia del costo hundido. Lo ya gastado no vuelve por aguantar más; solo añades pérdidas. A veces lo más valiente es soltar lo que ya no es. ✨ Comparte con quien sigue por inercia.",
     hashtags: "#psicologia #decisiones #soltar #mentalidad #crecimientopersonal",
     prompt: "Persona soltando un ancla pesada para poder avanzar en un bote, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Metáfora"]
@@ -1635,7 +1635,7 @@ const LIBRARY = [
   {
     frase: "No reaccionas a lo que pasa, sino a lo que te dices que significa. Cambia la historia y cambia la emoción.",
     emocion: "Esperanza", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Principio de la terapia cognitiva, simple y accionable. Guardable.",
+    descripcion: "🧠 Clave de la salud mental en una frase: no reaccionas a lo que pasa, sino a la historia que te cuentas sobre lo que pasa. El mismo hecho duele o no según lo que decides que significa. Cambia la interpretación y cambia la emoción. Ahí está tu poder. 🔖 Guárdalo, esto te cambia los días.",
     hashtags: "#psicologia #emociones #pensamiento #saludmental #bienestar",
     prompt: "Mismo paisaje visto con dos filtros de luz distintos, estética conceptual de perspectiva.",
     tecnicas: ["Reframe", "Causa-efecto", "Regla de oro"]
@@ -1643,7 +1643,7 @@ const LIBRARY = [
   {
     frase: "El cuerpo recuerda la calma con la que lo tratas. Háblate suave hasta cuando fallas.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "Invita a la autocompasión con tono cálido. Conecta.",
+    descripcion: "🫶 Recordatorio para los duros consigo mismos: tu cuerpo y tu mente recuerdan el trato que les das. Si te hablas con golpes cada vez que fallas, vives en tensión. Si te hablas suave, incluso al equivocarte, aprendes sin destruirte. La amabilidad contigo también se entrena. ✨ Comparte con quien se exige de más.",
     hashtags: "#autocompasion #saludmental #psicologia #amorpropio #bienestar",
     prompt: "Persona con la mano en el corazón respirando en calma, luz suave, ambiente íntimo.",
     tecnicas: ["Reframe", "Regla de oro", "Cierre emocional"]
@@ -1651,7 +1651,7 @@ const LIBRARY = [
   {
     frase: "Madurar es dejar de buscar culpables y empezar a buscar responsabilidad. Una te ancla, la otra te libera.",
     emocion: "Orgullo", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Distingue culpa de responsabilidad. Profundo y guardable.",
+    descripcion: "🧠 Diferencia que lo cambia todo: buscar culpables te mantiene atado al pasado y a la rabia; buscar tu parte de responsabilidad te devuelve el poder de cambiar. Una te ancla, la otra te libera. Madurar es dejar de preguntar «¿quién tuvo la culpa?» y empezar con «¿qué puedo hacer yo?». 🔖 Guárdalo, esto es madurez pura.",
     hashtags: "#madurez #psicologia #responsabilidad #crecimientopersonal #mentalidad",
     prompt: "Persona tomando las riendas de su propio camino al amanecer, estética conceptual firme.",
     tecnicas: ["Antítesis", "Reframe", "Cierre potente"]
@@ -1659,7 +1659,7 @@ const LIBRARY = [
   {
     frase: "Te quedaste por la persona que prometía ser, no por la que era. Y esa diferencia te costó años.",
     emocion: "Tristeza", nicho: "Relaciones", objetivo: "Compartidos",
-    descripcion: "Toca el costo de aferrarse al potencial ajeno. Identificación fuerte.",
+    descripcion: "💔 Verdad que cuesta admitir: no te quedaste por quien esa persona era, sino por quien prometía llegar a ser. Te enamoraste del potencial, no de la realidad, y esperar ese cambio te costó años. El amor no se le tiene a una promesa, se le tiene a los hechos. ✨ Comparte si alguna vez amaste un potencial.",
     hashtags: "#relaciones #desamor #amorpropio #soltar #reflexion",
     prompt: "Persona mirando una silueta que se desvanece entre lo que era y lo que prometía, conceptual.",
     tecnicas: ["Antítesis", "Reframe", "Espejo emocional"]
@@ -1667,7 +1667,7 @@ const LIBRARY = [
   {
     frase: "El respeto no se pide cada semana. Cuando hay que recordarlo constantemente, ya no es respeto: es tolerancia condicionada.",
     emocion: "Enojo", nicho: "Relaciones", objetivo: "Comentarios",
-    descripcion: "Frase contundente sobre el respeto en pareja. Genera debate.",
+    descripcion: "🚩 Frase para releer en pareja: el respeto real no se mendiga cada semana. Si tienes que recordarlo una y otra vez para que te traten bien, eso ya no es respeto, es algo que te dan a ratos según su humor. Lo que se debe pedir constantemente, no estaba de verdad. 👇 ¿De acuerdo? Cuéntalo en los comentarios.",
     hashtags: "#relaciones #respeto #limites #parejas #verdades",
     prompt: "Dos figuras a distinta altura, una mirando hacia arriba esperando, luz fría, conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Gancho de debate"]
@@ -1675,7 +1675,7 @@ const LIBRARY = [
   {
     frase: "A veces no extrañas a la persona. Extrañas a quien eras tú cuando todavía creías en ella.",
     emocion: "Nostalgia", nicho: "Relaciones", objetivo: "Guardados",
-    descripcion: "Giro profundo sobre el duelo amoroso. Muy guardable.",
+    descripcion: "🥹 Giro que ordena el corazón: a veces no extrañas a esa persona, extrañas a quien eras tú cuando aún creías en ella. Esa versión tuya ilusionada, confiada, entera. La buena noticia es que esa persona no se fue, sigue en ti esperando que vuelvas a confiar. 🔖 Guárdalo para cuando la nostalgia te confunda.",
     hashtags: "#desamor #relaciones #nostalgia #amorpropio #frases",
     prompt: "Persona mirando un reflejo más joven y esperanzado de sí misma, luz cálida melancólica.",
     tecnicas: ["Reframe", "Open Loop", "Cierre emocional"]
@@ -1683,7 +1683,7 @@ const LIBRARY = [
   {
     frase: "Te enseñaron a ser fuerte, pero no a pedir ayuda. Y cargar todo solo no es fortaleza: es soledad con buena fama.",
     emocion: "Tristeza", nicho: "Autoestima", objetivo: "Compartidos",
-    descripcion: "Cuestiona la falsa fortaleza. Identificación profunda.",
+    descripcion: "🫂 Verdad para los que cargan con todo: te enseñaron a ser fuerte, pero no a pedir ayuda, y terminaste creyendo que aguantar solo es de valientes. No lo es. Cargar todo en silencio no es fortaleza, es soledad con buena reputación. Pedir ayuda también es de fuertes. ✨ Comparte con quien necesita escucharlo.",
     hashtags: "#autoestima #saludmental #vulnerabilidad #ayuda #bienestar",
     prompt: "Persona sosteniendo un peso enorme sola bajo luz tenue, estética conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Espejo emocional"]
@@ -1691,7 +1691,7 @@ const LIBRARY = [
   {
     frase: "Dejar de explicarte ante quien solo quiere malinterpretarte también es una forma de quererte.",
     emocion: "Calma", nicho: "Autoestima", objetivo: "Guardados",
-    descripcion: "Empodera a soltar la necesidad de ser entendido por todos. Guardable.",
+    descripcion: "🕊️ Recordatorio que da paz: hay gente que no busca entenderte, busca malinterpretarte. Con ellos, cada explicación es munición. Dejar de justificarte ante quien ya decidió verte mal no es rendirte, es quererte. No todos merecen tu versión de los hechos. 🔖 Guárdalo y ahorra esa energía.",
     hashtags: "#amorpropio #limites #autoestima #pazmental #bienestar",
     prompt: "Persona cerrando un libro con calma y mirando hacia la luz, estética serena.",
     tecnicas: ["Reframe", "Regla de oro", "Cierre emocional"]
@@ -1699,7 +1699,7 @@ const LIBRARY = [
   {
     frase: "Tu valor no baja porque alguien no supo verlo. El oro sigue siendo oro aunque caiga en manos que no lo aprecian.",
     emocion: "Orgullo", nicho: "Autoestima", objetivo: "Compartidos",
-    descripcion: "Metáfora clásica pero efectiva sobre el valor propio. Compartible.",
+    descripcion: "✨ Para cuando un rechazo te haga dudar: que alguien no haya sabido valorarte no te quita ni un gramo de valor. El oro sigue siendo oro aunque caiga en manos que no lo aprecian o que ni saben lo que tienen. Su ceguera no es tu defecto. 🤍 Comparte con quien necesita recordar cuánto vale.",
     hashtags: "#autoestima #amorpropio #valor #confianza #frases",
     prompt: "Pieza de oro brillando incluso en un entorno opaco, luz cálida, estética conceptual.",
     tecnicas: ["Metáfora", "Reframe", "Cierre potente"]
@@ -1709,7 +1709,7 @@ const LIBRARY = [
   {
     frase: "Pagarte a ti primero no es egoísmo financiero. Es la única forma de que el dinero no se evapore en lo urgente.",
     emocion: "Esperanza", nicho: "Dinero", objetivo: "Guardados",
-    descripcion: "Principio del 'págate primero', claro y accionable. Guardable.",
+    descripcion: "💸 Regla de oro de las finanzas: págate a ti primero. Apenas te llega el dinero, aparta tu ahorro antes que nada; si esperas a «ver qué sobra», nunca sobra, porque lo urgente se lo come todo. No es egoísmo, es asegurar tu futuro antes que tus impulsos. 🔖 Guárdalo y aplícalo el próximo pago.",
     hashtags: "#finanzas #ahorro #dinero #habitos #mentalidad",
     prompt: "Persona apartando una parte de su ingreso en un frasco antes de gastar, luz cálida.",
     tecnicas: ["Reframe", "Regla práctica", "Llamado a la acción"]
@@ -1717,7 +1717,7 @@ const LIBRARY = [
   {
     frase: "El interés compuesto es la octava maravilla para quien lo cobra… y una trampa para quien lo paga.",
     emocion: "Sorpresa", nicho: "Dinero", objetivo: "Compartidos",
-    descripcion: "Explica las dos caras del interés compuesto. Educativo y compartible.",
+    descripcion: "💰 Dato que decide tu futuro financiero: el interés compuesto multiplica el dinero con el tiempo… a favor de quien invierte y en contra de quien debe. Del lado del ahorro, te hace libre; del lado de la deuda, te hunde. La misma fuerza, dos destinos opuestos. 👇 ¿De qué lado del interés estás hoy? Te leo abajo.",
     hashtags: "#finanzas #inversion #deudas #dinero #educacionfinanciera",
     prompt: "Curva ascendente de monedas creciendo frente a otra de deudas, estética conceptual.",
     tecnicas: ["Antítesis", "Dato revelador", "Reframe"]
@@ -1725,7 +1725,7 @@ const LIBRARY = [
   {
     frase: "No necesitas controlar cada centavo. Necesitas conocer a dónde se va el dinero que dices que 'no sabes en qué gastaste'.",
     emocion: "Calma", nicho: "Dinero", objetivo: "Guardados",
-    descripcion: "Quita la presión del control extremo y propone consciencia. Práctico.",
+    descripcion: "💸 Te quito la presión de los presupuestos extremos: no necesitas anotar cada centavo con angustia. Solo necesitas saber a dónde se va ese dinero que «no sabes en qué gastaste». Esos pequeños gastos invisibles son los que se comen tu mes. Verlos ya es controlarlos. 🔖 Guárdalo y revísalos esta semana.",
     hashtags: "#finanzas #dinero #gastos #habitos #claridad",
     prompt: "Persona revisando con calma un registro simple de gastos, luz natural, ambiente sereno.",
     tecnicas: ["Reframe", "Antítesis", "Regla práctica"]
@@ -1733,7 +1733,7 @@ const LIBRARY = [
   {
     frase: "No subas la apuesta de tus metas. Baja el listón de empezar. La grandeza se construye con días pequeños y repetidos.",
     emocion: "Esperanza", nicho: "Hábitos", objetivo: "Guardados",
-    descripcion: "Refuerza el inicio mínimo viable de hábitos. Accionable.",
+    descripcion: "🎯 Error que te hace abandonar: pones metas tan enormes que arrancar da pereza y rendirte da alivio. Hazlo al revés: baja el listón de empezar tanto que sea ridículo no hacerlo. La grandeza no se construye con un día épico, sino con días pequeños repetidos. 🔖 Guárdalo y empieza con la versión mínima hoy.",
     hashtags: "#habitos #disciplina #constancia #productividad #mejora",
     prompt: "Escalón muy bajo y fácil de subir al inicio de una larga escalera luminosa, conceptual.",
     tecnicas: ["Antítesis", "Reframe", "Regla práctica"]
@@ -1741,7 +1741,7 @@ const LIBRARY = [
   {
     frase: "Tu identidad sigue a tus actos. No esperes 'ser disciplinado' para actuar: actúa y te volverás esa persona.",
     emocion: "Orgullo", nicho: "Hábitos", objetivo: "Compartidos",
-    descripcion: "Conecta hábitos e identidad. Motivador y compartible.",
+    descripcion: "🔁 Cambia el orden y cambia tu vida: no esperes «sentirte disciplinado» para actuar, porque ese día no llega solo. Es al revés: cada vez que actúas como la persona que quieres ser, te vuelves un poco esa persona. Tu identidad sigue a tus actos, no al contrario. ✨ Comparte con quien espera tener ganas para empezar.",
     hashtags: "#habitos #identidad #disciplina #mentalidad #crecimiento",
     prompt: "Persona transformándose a través de acciones repetidas representadas en pasos de luz, conceptual.",
     tecnicas: ["Reframe", "Causa-efecto", "Cierre potente"]
