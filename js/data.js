@@ -970,6 +970,192 @@ const LIBRARY = [
     hashtags: "#autoconciencia #saludmental #psicologia #bienestar #mindfulness",
     prompt: "Persona meditando junto a una ventana con plantas, luz natural, atmósfera de calma y claridad.",
     tecnicas: ["CTA invisible", "Reframe", "Cierre emocional"]
+  },
+
+  /* ========== LOTE 5 (equilibrado · ciencia + psicología) ========== */
+
+  /* ----- PSICOLOGÍA / CIENCIA DE LA MENTE ----- */
+  {
+    frase: "Tu mente repite los pensamientos negativos no porque sean ciertos, sino porque los practicaste más.",
+    emocion: "Esperanza", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Explica los pensamientos automáticos como hábitos mentales reentrenables.",
+    hashtags: "#psicologia #pensamientos #saludmental #mente #habitos",
+    prompt: "Sendero marcado en la hierba por el paso repetido, junto a uno nuevo apenas iniciado, luz cálida.",
+    tecnicas: ["Reframe", "Causa-efecto", "Dato revelador"]
+  },
+  {
+    frase: "El estrés no es siempre el enemigo. En dosis cortas afila tu mente; el problema es no apagarlo nunca.",
+    emocion: "Calma", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "Matiza la idea del estrés con criterio científico. Útil y compartible.",
+    hashtags: "#estres #saludmental #psicologia #bienestar #ciencia",
+    prompt: "Cuerda de instrumento tensada en su punto justo, luz suave, estética conceptual de equilibrio.",
+    tecnicas: ["Dato revelador", "Antítesis", "Reframe"]
+  },
+  {
+    frase: "Posponer una decisión también es decidir. Tu cerebro lo hace para evitar el miedo, no para protegerte.",
+    emocion: "Sorpresa", nicho: "Psicología", objetivo: "Comentarios",
+    descripcion: "Revela el mecanismo detrás de la indecisión. Genera reflexión y respuestas.",
+    hashtags: "#decisiones #psicologia #miedo #mente #crecimientopersonal",
+    prompt: "Persona ante dos puertas dudando, reloj de fondo avanzando, luz tenue, estética conceptual.",
+    tecnicas: ["Revelación", "Reframe", "Gancho de debate"]
+  },
+  {
+    frase: "Dormir mal no solo te cansa: borra parte de lo que aprendiste. El descanso es donde tu cerebro guarda el progreso.",
+    emocion: "Sorpresa", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Dato sobre sueño y memoria. Educativo y muy guardable.",
+    hashtags: "#sueño #cerebro #memoria #saludmental #ciencia",
+    prompt: "Persona durmiendo plácidamente mientras destellos suaves de luz se ordenan sobre su cabeza, conceptual.",
+    tecnicas: ["Dato revelador", "Reframe", "Causa-efecto"]
+  },
+
+  /* ----- RELACIONES ----- */
+  {
+    frase: "Pasamos horas analizando a quien nos ignora y minutos valorando a quien sí está. El cerebro premia lo incierto.",
+    emocion: "Sorpresa", nicho: "Relaciones", objetivo: "Compartidos",
+    descripcion: "Aplica el sesgo hacia lo incierto a las relaciones. Revelador.",
+    hashtags: "#relaciones #psicologia #amorpropio #desamor #reflexion",
+    prompt: "Persona mirando un teléfono mientras alguien presente a su lado espera, luz contrastada, conceptual.",
+    tecnicas: ["Dato revelador", "Antítesis", "Espejo emocional"]
+  },
+  {
+    frase: "No se trata de encontrar a alguien perfecto. Se trata de encontrar a alguien con quien valga la pena reparar lo imperfecto.",
+    emocion: "Esperanza", nicho: "Relaciones", objetivo: "Guardados",
+    descripcion: "Madura la idea del amor real frente al ideal. Guardable.",
+    hashtags: "#relaciones #amor #parejas #madurez #frases",
+    prompt: "Dos manos reparando juntas una taza de cerámica con líneas doradas (kintsugi), luz cálida.",
+    tecnicas: ["Reframe", "Metáfora", "Cierre emocional"]
+  },
+  {
+    frase: "Si después de hablar con alguien sientes paz y no ansiedad, presta atención: ahí hay algo sano.",
+    emocion: "Calma", nicho: "Relaciones", objetivo: "Compartidos",
+    descripcion: "Da una señal corporal para reconocer vínculos sanos. Práctica.",
+    hashtags: "#relaciones #pazmental #amorpropio #vinculos #bienestar",
+    prompt: "Dos personas conversando relajadas en un banco al atardecer, luz dorada, ambiente apacible.",
+    tecnicas: ["Reframe", "Regla práctica", "Identificación"]
+  },
+
+  /* ----- AUTOESTIMA ----- */
+  {
+    frase: "Te exiges una perfección que no le pedirías jamás a alguien que amas. Empieza a tratarte como a esa persona.",
+    emocion: "Calma", nicho: "Autoestima", objetivo: "Guardados",
+    descripcion: "Invita a la autocompasión usando el contraste con el trato a otros.",
+    hashtags: "#amorpropio #autocompasion #autoestima #saludmental #bienestar",
+    prompt: "Persona abrazándose a sí misma con ternura frente a un espejo, luz cálida y suave.",
+    tecnicas: ["Reframe", "Contraste", "Regla de oro"]
+  },
+  {
+    frase: "Cada vez que cumples una promesa pequeña que te hiciste, tu cerebro aprende a confiar en ti.",
+    emocion: "Orgullo", nicho: "Autoestima", objetivo: "Compartidos",
+    descripcion: "Conecta autoconfianza y autocompromiso con base psicológica. Motivadora.",
+    hashtags: "#autoestima #confianza #disciplina #habitos #mentalidad",
+    prompt: "Persona marcando con satisfacción un pequeño logro diario en una libreta, luz cálida.",
+    tecnicas: ["Causa-efecto", "Reframe", "Cierre potente"]
+  },
+  {
+    frase: "No eres 'demasiado'. Solo estuviste rodeado de gente con poca capacidad para sostenerte.",
+    emocion: "Enojo", nicho: "Autoestima", objetivo: "Comentarios",
+    descripcion: "Devuelve el valor a quien fue tachado de intenso. Provoca identificación.",
+    hashtags: "#autoestima #autenticidad #amorpropio #valor #frases",
+    prompt: "Persona iluminada con fuerza mientras las sombras alrededor no logran contenerla, conceptual.",
+    tecnicas: ["Reframe", "Espejo emocional", "Gancho de debate"]
+  },
+
+  /* ----- DINERO ----- */
+  {
+    frase: "Comparas tu sueldo con el de otros y te sientes pobre. La comparación es el ladrón silencioso de tu tranquilidad.",
+    emocion: "Calma", nicho: "Dinero", objetivo: "Guardados",
+    descripcion: "Une psicología de la comparación y finanzas. Reflexiva.",
+    hashtags: "#dinero #finanzas #comparacion #mentalidad #bienestar",
+    prompt: "Persona en calma frente a su propio camino, ignorando carriles vecinos, luz serena, conceptual.",
+    tecnicas: ["Reframe", "Metáfora", "Regla de oro"]
+  },
+  {
+    frase: "El primer paso para tener dinero no es ganar más. Es saber a dónde se va el que ya tienes.",
+    emocion: "Esperanza", nicho: "Dinero", objetivo: "Compartidos",
+    descripcion: "Consejo financiero base, claro y accionable. Compartible.",
+    hashtags: "#finanzas #ahorro #dinero #educacionfinanciera #habitos",
+    prompt: "Persona revisando un registro de gastos con claridad y calma, luz natural, ambiente honesto.",
+    tecnicas: ["Reframe", "Llamado a la acción", "Brevedad"]
+  },
+
+  /* ----- HÁBITOS ----- */
+  {
+    frase: "No necesitas más tiempo. Necesitas proteger el poco que tienes de las cosas que no elegiste.",
+    emocion: "Sorpresa", nicho: "Hábitos", objetivo: "Guardados",
+    descripcion: "Reenfoca la gestión del tiempo hacia la protección de la atención.",
+    hashtags: "#productividad #habitos #tiempo #enfoque #disciplina",
+    prompt: "Reloj de arena protegido por dos manos del viento, luz cálida, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Metáfora"]
+  },
+  {
+    frase: "El truco no es no caer. Es acortar el tiempo entre la caída y volver a empezar.",
+    emocion: "Esperanza", nicho: "Hábitos", objetivo: "Compartidos",
+    descripcion: "Resalta la recuperación rápida sobre la perfección. Motivadora.",
+    hashtags: "#habitos #constancia #resiliencia #disciplina #mejora",
+    prompt: "Persona levantándose tras un tropiezo en una pista, mirada decidida, luz dinámica.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
+  },
+  {
+    frase: "Lo que mides, mejora. Anota una sola cosa al día y verás cómo tu mente empieza a cuidarla.",
+    emocion: "Esperanza", nicho: "Hábitos", objetivo: "Guardados",
+    descripcion: "Principio práctico del seguimiento de hábitos. Accionable.",
+    hashtags: "#habitos #productividad #seguimiento #disciplina #mejora",
+    prompt: "Pequeña tabla de seguimiento con una marca diaria y un lápiz, luz limpia, estética minimalista.",
+    tecnicas: ["Regla práctica", "Causa-efecto", "Llamado a la acción"]
+  },
+
+  /* ----- NARCISISMO / RELACIONES TÓXICAS ----- */
+  {
+    frase: "Primero crean el problema, luego se ofrecen como la solución. Y tú terminas agradeciéndoles el alivio que ellos provocaron.",
+    emocion: "Sorpresa", nicho: "Narcisismo", objetivo: "Guardados",
+    descripcion: "Describe un patrón de control con claridad. Revelador y guardable.",
+    hashtags: "#narcisismo #relacionestoxicas #manipulacion #saludmental #conciencia",
+    prompt: "Figura que apaga y enciende una luz mientras otra agradece, luz intermitente, conceptual.",
+    tecnicas: ["Revelación", "Open Loop", "Reframe"]
+  },
+  {
+    frase: "Te acostumbraste tanto al caos que la tranquilidad te parecía aburrida. Eso no eras tú: era lo que te enseñaron.",
+    emocion: "Calma", nicho: "Narcisismo", objetivo: "Compartidos",
+    descripcion: "Explica por qué la calma incomoda tras una relación tóxica. Sanadora.",
+    hashtags: "#relacionestoxicas #pazmental #saludmental #sanar #conciencia",
+    prompt: "Persona aprendiendo a disfrutar el silencio en una habitación luminosa y ordenada, luz suave.",
+    tecnicas: ["Reframe", "Validación emocional", "Cierre emocional"]
+  },
+
+  /* ----- MANIPULACIÓN (límites) ----- */
+  {
+    frase: "Pedir respeto no es ser difícil. Difícil es convivir contigo mismo cuando te traicionas por agradar.",
+    emocion: "Orgullo", nicho: "Manipulación", objetivo: "Comentarios",
+    descripcion: "Reenfoca el costo de no poner límites. Genera identificación y debate.",
+    hashtags: "#limites #amorpropio #inteligenciaemocional #saludmental #conciencia",
+    prompt: "Persona de pie firme bajo un foco, sombras alrededor retrocediendo, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Gancho de debate"]
+  },
+  {
+    frase: "No tienes que asistir a cada discusión a la que te invitan. El silencio también es un límite.",
+    emocion: "Calma", nicho: "Manipulación", objetivo: "Guardados",
+    descripcion: "Enseña el silencio elegido como herramienta de límite. Guardable.",
+    hashtags: "#limites #inteligenciaemocional #pazmental #saludmental #conciencia",
+    prompt: "Persona alejándose serena de un grupo que discute, luz cálida adelante, estética conceptual.",
+    tecnicas: ["Reframe", "Metáfora", "Regla de oro"]
+  },
+
+  /* ----- CIERRE EQUILIBRIO ----- */
+  {
+    frase: "Tu atención es la moneda más cara que tienes. Decide con cuidado a quién y a qué se la regalas.",
+    emocion: "Sorpresa", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "Eleva la atención a recurso valioso. Reflexiva y compartible.",
+    hashtags: "#atencion #enfoque #psicologia #mentalidad #bienestar",
+    prompt: "Haz de luz concentrado iluminando un solo objeto en una sala oscura, estética conceptual.",
+    tecnicas: ["Metáfora", "Reframe", "Cierre potente"]
+  },
+  {
+    frase: "Guárdalo para tus días difíciles: no tienes que sentirte bien para hacer lo correcto por ti.",
+    emocion: "Esperanza", nicho: "Autoestima", objetivo: "Guardados",
+    descripcion: "Separa la emoción de la acción de autocuidado. CTA de guardar incluido.",
+    hashtags: "#autocuidado #saludmental #disciplina #bienestar #amorpropio",
+    prompt: "Persona abriendo las cortinas en un día gris dejando entrar la luz, gesto de cuidado, cálido.",
+    tecnicas: ["CTA invisible", "Reframe", "Brevedad"]
   }
 ];
 
