@@ -2533,7 +2533,7 @@ const LIBRARY = [
   {
     frase: "Le enseñas a la gente cómo tratarte con lo que les permites. Tu silencio también es una instrucción.",
     emocion: "Sorpresa", nicho: "Autoestima", objetivo: "Compartidos",
-    descripcion: "Conecta límites y trato recibido. Reveladora y compartible.",
+    descripcion: "🧠 Verdad incómoda sobre los límites: la gente aprende a tratarte según lo que les permites, no según lo que dices. Cada vez que callas algo que te molesta, les enseñas que está bien repetirlo. Tu silencio también es una instrucción. Poner límites no es agresión, es educación. 🔖 Guárdalo y empieza a enseñar cómo quieres ser tratado.",
     hashtags: "#autoestima #limites #amorpropio #relaciones #verdades",
     prompt: "Persona poniendo una línea clara con calma frente a otra, estética conceptual firme.",
     tecnicas: ["Reframe", "Causa-efecto", "Regla de oro"]
@@ -2541,7 +2541,7 @@ const LIBRARY = [
   {
     frase: "No tienes que caerle bien a todos. Eso es físicamente imposible y emocionalmente agotador.",
     emocion: "Calma", nicho: "Autoestima", objetivo: "Guardados",
-    descripcion: "Libera de la necesidad de agradar a todos. Guardable.",
+    descripcion: "🕊️ Recordatorio liberador: caerle bien a absolutamente todos es imposible (ni el agua le gusta a todo el mundo) y, además, intentarlo te agota por dentro. Mientras más auténtico eres, más gente real atraes y más gente equivocada se aleja. Y eso está perfecto. 🔖 Guárdalo para cuando te obsesione la opinión ajena.",
     hashtags: "#autoestima #amorpropio #autenticidad #limites #bienestar",
     prompt: "Persona caminando tranquila sin mirar la aprobación de la multitud, luz cálida.",
     tecnicas: ["Reframe", "Brevedad", "Regla de oro"]
@@ -2551,7 +2551,7 @@ const LIBRARY = [
   {
     frase: "Los pequeños gastos diarios que 'no son nada' son justo los que se comen tu fin de mes. Las goteras hunden barcos.",
     emocion: "Sorpresa", nicho: "Dinero", objetivo: "Guardados",
-    descripcion: "Explica el efecto de los micro-gastos. Accionable y guardable.",
+    descripcion: "💸 Te explico a dónde se va tu dinero: esos gastos pequeños de «total, no es nada» (el cafecito, el delivery, la suscripción olvidada) son justo los que vacían tu cuenta a fin de mes. No te hunde un gasto enorme, te hunden mil goteras. Súmalas un mes y te asustarás. 🔖 Guárdalo y revisa tus pequeñas fugas.",
     hashtags: "#finanzas #ahorro #dinero #gastos #habitos",
     prompt: "Pequeñas gotas que vacían lentamente un recipiente lleno, estética conceptual clara.",
     tecnicas: ["Metáfora", "Reframe", "Dato revelador"]
@@ -2559,7 +2559,7 @@ const LIBRARY = [
   {
     frase: "Tu riqueza no es lo que ganas: es lo que conservas. Hay sueldos altos con bolsillos vacíos.",
     emocion: "Sorpresa", nicho: "Dinero", objetivo: "Compartidos",
-    descripcion: "Distingue ingreso de patrimonio. Educativo y compartible.",
+    descripcion: "💰 Verdad financiera que cambia todo: tu riqueza no se mide por lo que ganas, sino por lo que logras conservar. Hay sueldos altísimos con bolsillos vacíos y sueldos modestos que construyen patrimonio. Ganar mucho y gastarlo todo es solo correr más rápido en el mismo lugar. 👇 ¿Conoces a alguien que gana mucho y nunca tiene? Cuéntalo.",
     hashtags: "#finanzas #dinero #patrimonio #ahorro #mentalidad",
     prompt: "Dos billeteras: una que entra y sale vacía, otra que retiene, estética conceptual.",
     tecnicas: ["Antítesis", "Reframe", "Brevedad"]
@@ -2567,7 +2567,7 @@ const LIBRARY = [
   {
     frase: "El dinero compra tranquilidad hasta cubrir lo básico. Después, lo que de verdad da paz son los vínculos y el sentido.",
     emocion: "Calma", nicho: "Dinero", objetivo: "Guardados",
-    descripcion: "Matiza la relación dinero-felicidad. Reflexiva y guardable.",
+    descripcion: "🧠 Lo que dice la ciencia sobre dinero y felicidad: el dinero sí compra tranquilidad… hasta que cubres lo básico y dejas de vivir con angustia. A partir de ahí, lo que de verdad da paz no es más dinero, son tus vínculos y tener un sentido. Ni el lujo llena lo que solo llenan las personas. 🔖 Guárdalo, da perspectiva.",
     hashtags: "#dinero #felicidad #bienestar #mentalidad #vida",
     prompt: "Persona en calma compartiendo con seres queridos en un hogar sencillo, luz cálida.",
     tecnicas: ["Reframe", "Antítesis", "Cierre emocional"]
@@ -2575,7 +2575,7 @@ const LIBRARY = [
   {
     frase: "Mejorar un 1% al día no se nota hoy, pero en un año eres otra persona. Lo pequeño, compuesto, es imparable.",
     emocion: "Esperanza", nicho: "Hábitos", objetivo: "Compartidos",
-    descripcion: "Explica el interés compuesto de los hábitos. Motivador.",
+    descripcion: "📈 La matemática del cambio real: mejorar solo un 1% al día parece nada hoy, pero compuesto durante un año te vuelve casi 37 veces mejor. Lo pequeño y constante es imparable, aunque sea invisible al principio. No subestimes los avances diminutos. ✨ Comparte con quien cree que «no está avanzando».",
     hashtags: "#habitos #mejora #constancia #disciplina #crecimiento",
     prompt: "Línea casi plana que despega exponencialmente con el tiempo, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Metáfora"]
@@ -2583,7 +2583,7 @@ const LIBRARY = [
   {
     frase: "Hazlo obvio, fácil y satisfactorio si lo quieres mantener. El truco no es tu fuerza: es bajarle el esfuerzo a tu mejor versión.",
     emocion: "Esperanza", nicho: "Hábitos", objetivo: "Guardados",
-    descripcion: "Resume las leyes de los buenos hábitos. Accionable y guardable.",
+    descripcion: "🧠 Fórmula para que un hábito se quede: hazlo obvio (a la vista), fácil (mínimo esfuerzo para empezar) y satisfactorio (date una pequeña recompensa). El truco nunca fue tener más fuerza de voluntad, sino bajarle el esfuerzo a tu mejor versión. Diseña, no pelees. 🔖 Guárdalo y aplícalo a tu próximo hábito.",
     hashtags: "#habitos #disciplina #productividad #sistemas #mejora",
     prompt: "Objetos de un buen hábito a la vista y al alcance, ambiente ordenado, luz limpia.",
     tecnicas: ["Regla práctica", "Reframe", "Lista implícita"]
@@ -2591,7 +2591,7 @@ const LIBRARY = [
   {
     frase: "No te castigues por el día que fallaste. Castígate menos y vuelve más rápido: eso sí construye una vida.",
     emocion: "Calma", nicho: "Hábitos", objetivo: "Compartidos",
-    descripcion: "Promueve la autocompasión en los hábitos. Compartible.",
+    descripcion: "💪 Lo que de verdad construye constancia: no es no fallar nunca, es no castigarte cuando fallas y volver rápido. La culpa te tira dos o tres días más; la autocompasión te devuelve al ruedo al día siguiente. Falla menos seguido, sí, pero sobre todo regresa más rápido. ✨ Comparte con quien se rinde al primer tropiezo.",
     hashtags: "#habitos #autocompasion #constancia #disciplina #bienestar",
     prompt: "Persona retomando con calma su rutina tras un tropiezo, luz cálida, estética serena.",
     tecnicas: ["Reframe", "Antítesis", "Regla de oro"]
@@ -2599,7 +2599,7 @@ const LIBRARY = [
   {
     frase: "Te acusaba justo de lo que él hacía. La proyección convierte sus defectos en tus supuestas culpas.",
     emocion: "Sorpresa", nicho: "Narcisismo", objetivo: "Guardados",
-    descripcion: "Explica la proyección en relaciones tóxicas. Revelador y guardable.",
+    descripcion: "🚩 Táctica que confunde a cualquiera: te acusaban justo de lo que ellos hacían (de mentir, de no querer, de ser frío). Se llama proyección: te endosan sus propios defectos para que te defiendas y dejes de ver los suyos. Si la acusación no te calza pero te tiene a la defensiva, ojo. 🔖 Guárdalo, esto aclara muchas discusiones.",
     hashtags: "#narcisismo #proyeccion #relacionestoxicas #limites #conciencia",
     prompt: "Figura proyectando su propia sombra sobre otra persona inocente, estética conceptual.",
     tecnicas: ["Revelación", "Reframe", "Causa-efecto"]
@@ -2607,7 +2607,7 @@ const LIBRARY = [
   {
     frase: "Cada vez que cumplías una exigencia, aparecía otra. Con quien mueve la meta, nunca eres suficiente porque ese es el plan.",
     emocion: "Enojo", nicho: "Narcisismo", objetivo: "Compartidos",
-    descripcion: "Describe el patrón de mover la meta. Revelador y compartible.",
+    descripcion: "🚩 Patrón agotador que debes reconocer: hacías todo lo que pedían y, en cuanto lo cumplías, aparecía una exigencia nueva. Con quien mueve la meta constantemente, nunca vas a ser suficiente, y no es tu culpa: ese es justo el plan para tenerte siempre esforzándote. ✨ Comparte para que alguien deje de correr tras una meta imposible.",
     hashtags: "#narcisismo #relacionestoxicas #manipulacion #limites #conciencia",
     prompt: "Línea de meta que se aleja cada vez que alguien la alcanza, estética conceptual.",
     tecnicas: ["Revelación", "Reframe", "Antítesis"]
@@ -2615,7 +2615,7 @@ const LIBRARY = [
   {
     frase: "Discutir con quien tuerce cada palabra es agotador a propósito. A veces ganar es dejar de jugar ese juego.",
     emocion: "Calma", nicho: "Manipulación", objetivo: "Guardados",
-    descripcion: "Describe las discusiones circulares y el desgaste. Guardable.",
+    descripcion: "🧠 Consejo que te ahorra energía: discutir con alguien que tuerce cada palabra, cambia el tema y te marea es agotador a propósito; su meta no es entenderte, es desgastarte. A veces la verdadera victoria no es tener la razón, es dejar de jugar ese juego. 🔖 Guárdalo para tu próxima discusión sin salida.",
     hashtags: "#manipulacion #limites #relacionestoxicas #saludmental #conciencia",
     prompt: "Persona alejándose serena de un laberinto de palabras enredadas, estética conceptual.",
     tecnicas: ["Reframe", "Metáfora", "Regla de oro"]
@@ -2623,7 +2623,7 @@ const LIBRARY = [
   {
     frase: "El amor sano no se gana portándote bien ni se pierde poniendo límites. Si depende de obedecer, no era amor: era control.",
     emocion: "Sorpresa", nicho: "Manipulación", objetivo: "Compartidos",
-    descripcion: "Distingue amor de control condicional. Revelador y compartible.",
+    descripcion: "🚩 Frase para releer: el amor sano no es un premio que ganas portándote «bien» ni que pierdes por poner un límite. Si el cariño aparece cuando obedeces y desaparece cuando te defiendes, eso no es amor, es control con disfraz. El amor verdadero no es condicional. ✨ Comparte para que alguien deje de confundirlos.",
     hashtags: "#manipulacion #relacionestoxicas #amor #limites #conciencia",
     prompt: "Persona libre frente a una jaula abierta de condiciones, luz cálida, conceptual.",
     tecnicas: ["Antítesis", "Reframe", "Cierre potente"]
@@ -2633,7 +2633,7 @@ const LIBRARY = [
   {
     frase: "No usas solo el 10% de tu cerebro: lo usas casi todo, todo el tiempo. Ese mito vendió muchas películas, pero es falso.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Desmiente el mito del 10% del cerebro. Genera debate y correcciones.",
+    descripcion: "🧠 Mito derribado: eso de que «solo usamos el 10% del cerebro» es falso, aunque haya vendido muchas películas. Usas casi todo tu cerebro, todo el tiempo, incluso mientras duermes. No tienes un 90% de superpoderes escondidos, tienes un órgano increíble trabajando completo. 👇 ¿Tú también te creíste ese mito? Cuéntalo abajo.",
     hashtags: "#ciencia #cerebro #mitos #neurociencia #datoscuriosos",
     prompt: "Cerebro completamente iluminado en todas sus zonas, fondo oscuro, estética científica.",
     tecnicas: ["Mito vs verdad", "Dato revelador", "Gancho de debate"]
@@ -2641,7 +2641,7 @@ const LIBRARY = [
   {
     frase: "No existen personas 'de cerebro izquierdo' o 'derecho'. Ambos lados trabajan juntos en casi todo lo que haces.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Desmiente el mito de los hemisferios. Educativo y guardable.",
+    descripcion: "🧠 Otro mito que cae: no existen personas «de cerebro izquierdo» (lógicas) o «derecho» (creativas). Ambos hemisferios trabajan juntos en casi todo lo que haces. Que seas creativo no significa que no puedas ser analítico, ni al revés. No te encasilles en una mitad. 🔖 Guárdalo y deja de creerte una sola cosa.",
     hashtags: "#ciencia #cerebro #mitos #neurociencia #datoscuriosos",
     prompt: "Cerebro con ambos hemisferios conectados por puentes de luz, estética conceptual.",
     tecnicas: ["Mito vs verdad", "Dato revelador", "Reframe"]
@@ -2649,7 +2649,7 @@ const LIBRARY = [
   {
     frase: "El azúcar no vuelve hiperactivos a los niños: lo demostraron los estudios. Lo que cambia es lo que los adultos esperan ver.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Desmiente el mito azúcar-hiperactividad. Polémico y debatible.",
+    descripcion: "🍬 Dato que sorprende a muchos padres: los estudios muestran que el azúcar NO vuelve hiperactivos a los niños. Lo que cambia es la expectativa del adulto: si crees que el dulce los acelera, interpretas su juego normal como «hiperactividad». El sesgo está en quien mira, no en el azúcar. 👇 ¿Te cae bien o mal este dato? Te leo abajo.",
     hashtags: "#ciencia #mitos #azucar #ninos #datoscuriosos",
     prompt: "Niño jugando normal mientras un adulto lo observa con prejuicio, estética conceptual.",
     tecnicas: ["Mito vs verdad", "Dato revelador", "Gancho de debate"]
@@ -2657,7 +2657,7 @@ const LIBRARY = [
   {
     frase: "Tu lengua no tiene zonas separadas para cada sabor. Ese mapa que te enseñaron en la escuela es un mito.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Desmiente el mito del mapa de la lengua. Curioso y compartible.",
+    descripcion: "👅 Mito escolar derribado: ese «mapa de la lengua» con zonas para lo dulce, lo salado y lo amargo es falso. Toda tu lengua percibe todos los sabores, no hay regiones separadas. Te lo enseñaron mal durante años. La ciencia también se corrige a sí misma, y eso es lo bonito. ✨ Comparte y sorprende a alguien.",
     hashtags: "#ciencia #mitos #cuerpo #datoscuriosos #curiosidades",
     prompt: "Ilustración de una lengua con sabores distribuidos por toda su superficie, conceptual.",
     tecnicas: ["Mito vs verdad", "Dato revelador", "Curiosity Gap"]
@@ -2665,7 +2665,7 @@ const LIBRARY = [
   {
     frase: "Cuanto más caro pagaste por algo, más te cuesta soltarlo aunque ya no sirva. Valoramos de más lo que es 'nuestro'.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Explica el efecto dotación (endowment). Útil y guardable.",
+    descripcion: "🧠 Sesgo que explica por qué guardas cosas inútiles: cuanto más te costó algo (dinero, tiempo, esfuerzo), más te cuesta soltarlo aunque ya no sirva. Se llama efecto dotación: valoramos de más lo que sentimos «nuestro». Aplica a objetos, trabajos y hasta relaciones. 🔖 Guárdalo, te ayuda a soltar con más claridad.",
     hashtags: "#ciencia #psicologia #sesgos #decisiones #datoscuriosos",
     prompt: "Persona aferrada a un objeto viejo etiquetado como 'mío', estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Causa-efecto"]
@@ -2673,7 +2673,7 @@ const LIBRARY = [
   {
     frase: "Demasiadas opciones no te hacen más libre: te paralizan. A más alternativas, más miedo a elegir mal.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Explica la paradoja de la elección. Reflexiva y compartible.",
+    descripcion: "🧠 Dato que explica tu indecisión: demasiadas opciones no te dan más libertad, te paralizan. Mientras más alternativas tienes, más miedo a equivocarte y más insatisfacción después de elegir. Se llama la paradoja de la elección. A veces, menos opciones es más paz. 🔖 Guárdalo, te ayuda a decidir sin agobiarte.",
     hashtags: "#ciencia #psicologia #decisiones #sesgos #bienestar",
     prompt: "Persona abrumada frente a un pasillo infinito de opciones idénticas, conceptual.",
     tecnicas: ["Dato revelador", "Antítesis", "Reframe"]
@@ -2681,7 +2681,7 @@ const LIBRARY = [
   {
     frase: "Aprendes una palabra nueva y de repente la ves en todos lados. No apareció más: tu cerebro empezó a notarla.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Explica el fenómeno Baader-Meinhof. Lúdico y debatible.",
+    descripcion: "🧠 ¿Aprendiste una palabra y de repente la ves en todos lados? No es que aparezca más, es que tu cerebro empezó a notarla. Se llama fenómeno Baader-Meinhof. Pasa igual con un coche que quieres comprar o un nombre nuevo: tu atención lo «enciende». 👇 ¿Con qué palabra o cosa te ha pasado? Cuéntalo abajo.",
     hashtags: "#ciencia #cerebro #percepcion #datoscuriosos #psicologia",
     prompt: "Una palabra destacándose repetidamente en un entorno cotidiano, estética conceptual.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Gancho de debate"]
@@ -2689,7 +2689,7 @@ const LIBRARY = [
   {
     frase: "Cómo te presentan algo cambia tu decisión: '90% sin grasa' suena mejor que '10% de grasa', aunque es lo mismo.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Explica el efecto marco (framing). Educativo y guardable.",
+    descripcion: "🧠 Truco que te aplican en cada anuncio: «90% sin grasa» suena mucho mejor que «10% de grasa», aunque es exactamente lo mismo. Se llama efecto marco: cómo te presentan algo cambia tu decisión, sin cambiar el dato. Aprende a leer lo que de verdad dice, no cómo lo visten. 🔖 Guárdalo, te vuelve un consumidor más listo.",
     hashtags: "#ciencia #psicologia #sesgos #decisiones #marketing",
     prompt: "Misma información con dos etiquetas distintas provocando reacciones opuestas, conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Curiosity Gap"]
@@ -2697,7 +2697,7 @@ const LIBRARY = [
   {
     frase: "Juzgamos lo que es probable por lo fácil que es recordarlo. Por eso un titular alarmante te asusta más que una estadística real.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Explica el heurístico de disponibilidad. Útil contra el alarmismo.",
+    descripcion: "🧠 Dato que te protege del miedo mediático: juzgamos qué tan probable es algo por lo fácil que es recordarlo, no por las cifras reales. Por eso un titular alarmante te asusta más que una estadística, aunque el riesgo real sea mínimo. Tu miedo no siempre mide el peligro real. ✨ Comparte para combatir el alarmismo.",
     hashtags: "#ciencia #psicologia #sesgos #miedo #pensamientocritico",
     prompt: "Titular gigante eclipsando datos pequeños y reales, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Causa-efecto"]
@@ -2705,7 +2705,7 @@ const LIBRARY = [
   {
     frase: "Tu lado nocturno o madrugador es en parte biológico. No todos rinden a la misma hora: conocer tu reloj interno lo cambia todo.",
     emocion: "Esperanza", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Explica los cronotipos. Práctico y guardable.",
+    descripcion: "🧠 Dato que te quita culpa: ser más nocturno o más madrugador es en parte biológico, no flojera ni falta de disciplina. No todos rendimos a la misma hora. Si conoces tu reloj interno y agendas tus tareas importantes en tu mejor momento, todo te cuesta menos. 🔖 Guárdalo y organiza tu día según tu energía.",
     hashtags: "#ciencia #sueño #cronotipo #productividad #cerebro",
     prompt: "Dos relojes internos, uno activo de noche y otro de día, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Llamado a la acción"]
@@ -2713,7 +2713,7 @@ const LIBRARY = [
   {
     frase: "Una siesta corta de 20 minutos recarga tu mente; una larga te deja peor. El descanso también tiene su dosis exacta.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Dato práctico sobre las siestas. Accionable y guardable.",
+    descripcion: "😴 Dato práctico sobre las siestas: una de unos 20 minutos te recarga y despeja; una larga te deja más atontado que antes, porque entras en sueño profundo y te despiertas a media fase. El descanso también tiene su dosis exacta. Pon una alarma y nota la diferencia. 🔖 Guárdalo para tu próxima siesta.",
     hashtags: "#ciencia #sueño #siesta #productividad #bienestar",
     prompt: "Persona tomando una siesta breve junto a un reloj marcando 20 minutos, luz suave.",
     tecnicas: ["Dato revelador", "Reframe", "Regla práctica"]
@@ -2721,7 +2721,7 @@ const LIBRARY = [
   {
     frase: "Las 'mariposas en el estómago' son reales: tu intestino reacciona al nervio del miedo y la emoción. Sientes con las tripas, literal.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Explica el origen de las mariposas. Curioso y compartible.",
+    descripcion: "🦋 Dato que conecta cuerpo y emoción: las «mariposas en el estómago» son reales. Cuando te emocionas o te pones nervioso, tu intestino reacciona a través del nervio vago, el mismo que conecta tripas y cerebro. Por eso sientes con el estómago, literalmente, no es solo una frase. ✨ Comparte, a todos nos ha pasado.",
     hashtags: "#ciencia #cuerpo #emociones #cerebro #datoscuriosos",
     prompt: "Ilustración del eje intestino-cerebro con mariposas de luz, estética conceptual amable.",
     tecnicas: ["Dato revelador", "Reframe", "Identificación"]
