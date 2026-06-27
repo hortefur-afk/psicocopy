@@ -2337,7 +2337,7 @@ const LIBRARY = [
   {
     frase: "Lo que sienten por ti se mide en cómo te tratan cuando no les conviene fingir.",
     emocion: "Calma", nicho: "Manipulación", objetivo: "Guardados",
-    descripcion: "Regla clara para leer la intención real. Guardable.",
+    descripcion: "🎭 Verdad para no dejarte engañar: lo que alguien siente por ti no se mide en sus palabras bonitas, sino en cómo te trata cuando ya no le conviene fingir, cuando está cansado, molesto o cree que nadie lo ve. Ahí sale quién es de verdad. Las acciones en lo cotidiano gritan más que cualquier promesa. 🔖 Guárdalo y observa, no solo escuches.",
     hashtags: "#limites #relaciones #verdades #conciencia #inteligenciaemocional",
     prompt: "Dos versiones de una misma persona, una actuando y otra real, estética conceptual.",
     tecnicas: ["Reframe", "Regla de oro", "Brevedad"]
@@ -2345,7 +2345,7 @@ const LIBRARY = [
   {
     frase: "Confundir lástima con amor te ata a quien deberías soltar. Quedarte por pena no salva a nadie: los hunde a los dos.",
     emocion: "Sorpresa", nicho: "Manipulación", objetivo: "Compartidos",
-    descripcion: "Distingue la culpa-lástima del amor. Revelador y compartible.",
+    descripcion: "💔 Reflexión incómoda: quedarte con alguien por lástima, por miedo a cómo le caerá tu partida, no es amor, es culpa. Y quedarte por pena no salva a nadie: los hunde a los dos en una relación que ya murió. A veces el acto más amoroso (para ambos) es soltar. ✨ Comparte con quien sigue por pena y no por amor.",
     hashtags: "#relaciones #limites #culpa #saludmental #conciencia",
     prompt: "Dos personas hundiéndose juntas mientras una podría nadar, estética conceptual.",
     tecnicas: ["Antítesis", "Reframe", "Metáfora"]
@@ -2355,7 +2355,7 @@ const LIBRARY = [
   {
     frase: "Tu cerebro termina de madurar cerca de los 25 años, y la última zona es la que controla los impulsos. Por eso a los 20 todo era ahora.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato sobre el desarrollo de la corteza prefrontal. Curioso y compartible.",
+    descripcion: "🧠 Dato que explica tus 20: tu cerebro termina de madurar cerca de los 25 años, y la última zona en desarrollarse es la que controla los impulsos y mide consecuencias. Por eso a los 18 o 20 todo era «ahora» y sin frenos. No eras un desastre, tu corteza prefrontal aún estaba en obras. 👇 ¿Te explica algunas decisiones de joven? Cuéntalo abajo.",
     hashtags: "#ciencia #cerebro #neurociencia #juventud #datoscuriosos",
     prompt: "Cerebro ilustrado con la zona frontal iluminándose al final, estética científica elegante.",
     tecnicas: ["Dato revelador", "Reframe", "Curiosity Gap"]
@@ -2363,7 +2363,7 @@ const LIBRARY = [
   {
     frase: "Dormir poco afecta tu juicio tanto como ir algo ebrio. No es que rindas cansado: es que decides peor sin notarlo.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Dato sobre falta de sueño y rendimiento. Impactante y guardable.",
+    descripcion: "😴 Dato que te hará respetar tu sueño: dormir poco afecta tu juicio y tus reflejos de forma parecida a ir algo ebrio. No es solo que rindas cansado, es que decides peor y ni lo notas, porque tu cerebro privado de sueño se cree capaz. Dormir bien no es perder el tiempo, es proteger tu criterio. 🔖 Guárdalo y prioriza tus horas.",
     hashtags: "#ciencia #sueño #cerebro #salud #datoscuriosos",
     prompt: "Persona somnolienta frente a decisiones borrosas, luz tenue, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Causa-efecto"]
@@ -2371,7 +2371,7 @@ const LIBRARY = [
   {
     frase: "Entras a un cuarto y olvidas a qué venías: es el efecto umbral. Cruzar una puerta le dice a tu cerebro 'capítulo nuevo'.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Explica el 'doorway effect'. Lúdico y muy debatible.",
+    descripcion: "🚪 ¿Entras a un cuarto y olvidas a qué ibas? No te estás volviendo loco: es el efecto umbral. Cruzar una puerta le dice a tu cerebro «empieza un capítulo nuevo» y archiva lo anterior, incluido a qué venías. Es tan común que tiene nombre. 👇 ¿Te pasa seguido? Cuéntalo en los comentarios 😄.",
     hashtags: "#ciencia #memoria #cerebro #datoscuriosos #psicologia",
     prompt: "Persona parada en una puerta con un signo de interrogación sobre la cabeza, conceptual.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Gancho de debate"]
@@ -2379,7 +2379,7 @@ const LIBRARY = [
   {
     frase: "En medio del ruido, tu cerebro detecta tu nombre al instante. Tu atención tiene un filtro que nunca deja de vigilarte.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Explica el efecto cóctel. Curioso y compartible.",
+    descripcion: "🧠 Dato curioso del cerebro: en medio de una fiesta ruidosa puedes no escuchar nada… hasta que alguien dice tu nombre al otro lado del salón y lo captas al instante. Se llama efecto cóctel: tu atención tiene un filtro que nunca deja de vigilar lo importante para ti. ✨ Comparte, a todos nos pasa.",
     hashtags: "#ciencia #cerebro #atencion #datoscuriosos #neurociencia",
     prompt: "Una voz destacando entre muchas ondas de sonido difusas, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Curiosity Gap"]
@@ -2387,7 +2387,7 @@ const LIBRARY = [
   {
     frase: "Ves caras en las nubes, en los enchufes, en todo. Tu cerebro está tan programado para detectar rostros que los inventa.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Explica la pareidolia. Lúdico y genera respuestas.",
+    descripcion: "👀 ¿Ves caras en las nubes, en los enchufes, en la fachada de un coche? No es tu imaginación desbordada: tu cerebro está tan programado para detectar rostros (clave para sobrevivir en sociedad) que los encuentra hasta donde no los hay. Se llama pareidolia. 👇 ¿Dónde has visto una «cara» rara? Cuéntalo abajo.",
     hashtags: "#ciencia #cerebro #pareidolia #datoscuriosos #percepcion",
     prompt: "Objetos cotidianos que parecen caras sonrientes, luz suave, estética conceptual amigable.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Gancho de debate"]
@@ -2395,7 +2395,7 @@ const LIBRARY = [
   {
     frase: "No puedes hacerte cosquillas a ti mismo: tu cerebro predice tu propio toque y lo ignora. Solo lo inesperado te sorprende.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato curioso sobre predicción cerebral. Muy compartible por lo lúdico.",
+    descripcion: "🤔 Dato divertido para probar ahora: intenta hacerte cosquillas… no funciona. Tu cerebro predice tu propio movimiento y lo ignora, porque solo le importa lo inesperado. Es el mismo mecanismo que te mantiene alerta ante lo que no controlas. Curioso, ¿no? ✨ Comparte y reta a alguien a intentarlo.",
     hashtags: "#ciencia #cerebro #datoscuriosos #percepcion #neurociencia",
     prompt: "Ilustración divertida de una mano intentando hacerse cosquillas sin efecto, conceptual.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Interacción"]
@@ -2403,7 +2403,7 @@ const LIBRARY = [
   {
     frase: "Las malas noticias se te quedan más que las buenas. Tu cerebro evolucionó para sobrevivir, no para estar tranquilo.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Explica el sesgo de negatividad en el consumo de noticias. Útil.",
+    descripcion: "🧠 Te explico por qué te afecta más una crítica que diez halagos: tu cerebro evolucionó para detectar amenazas, no para hacerte feliz. Por eso lo malo se te queda pegado y lo bueno se evapora. No es que tu vida sea mala, es un sesgo de supervivencia. Reconocerlo te ayuda a no creerle todo a tu mente. 🔖 Guárdalo.",
     hashtags: "#ciencia #cerebro #sesgos #noticias #bienestar",
     prompt: "Balanza donde una mala noticia pesa más que muchas buenas, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Causa-efecto"]
@@ -2411,7 +2411,7 @@ const LIBRARY = [
   {
     frase: "Cuando algo te supera, a veces no peleas ni huyes: te paralizas o complaces. Congelarse y agradar también son respuestas de supervivencia.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Explica las respuestas de freeze y fawn. Validante y guardable.",
+    descripcion: "🧠 Dato que te quita culpa: ante una amenaza, no solo existen «pelear o huir». También está congelarse (bloquearte, no reaccionar) y complacer (ceder para calmar el peligro). Si alguna vez te paralizaste o cediste cuando «deberías» haber reaccionado, no fuiste débil: tu cuerpo eligió sobrevivir. 🔖 Guárdalo, esto sana mucha culpa.",
     hashtags: "#ciencia #trauma #cerebro #saludmental #respuestas",
     prompt: "Figura inmóvil ante una amenaza, líneas suaves de tensión, estética conceptual.",
     tecnicas: ["Dato revelador", "Validación emocional", "Reframe"]
@@ -2419,7 +2419,7 @@ const LIBRARY = [
   {
     frase: "Tomas miles de decisiones al día sin notarlo. Por eso simplificar tu vida no es pereza: es liberar a tu cerebro.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato sobre la cantidad de decisiones diarias. Práctico y compartible.",
+    descripcion: "🧠 Dato que justifica simplificar tu vida: tomas miles de microdecisiones al día (qué ponerte, qué comer, qué responder) y cada una gasta energía mental. Por eso simplificar (rutinas, menos opciones, orden) no es pereza, es liberar a tu cerebro para lo que de verdad importa. ✨ Comparte con quien vive saturado.",
     hashtags: "#ciencia #cerebro #decisiones #simplicidad #bienestar",
     prompt: "Mente saturada de pequeñas decisiones que se ordenan al simplificar, conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Llamado a la acción"]
@@ -2427,7 +2427,7 @@ const LIBRARY = [
   {
     frase: "Juzgamos una cara en milisegundos, antes de pensar. La primera impresión no es justa, pero es biológica.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Explica la rapidez de la primera impresión. Debatible.",
+    descripcion: "🧠 Dato sobre primeras impresiones: juzgamos una cara (confianza, simpatía, amenaza) en milisegundos, antes de pensar racionalmente. No es justo, pero es biológico, un mecanismo de supervivencia. Saberlo sirve para dos cosas: cuidar tu primera impresión y no fiarte ciegamente de la tuya. 👇 ¿Te fías de tu primera impresión? Te leo abajo.",
     hashtags: "#ciencia #cerebro #primeraimpresion #psicologia #datoscuriosos",
     prompt: "Rostro evaluado por un destello instantáneo de juicio, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Gancho de debate"]
@@ -2435,7 +2435,7 @@ const LIBRARY = [
   {
     frase: "Cuanto menos sabes de un tema, más fácil es creer que lo dominas. La verdadera experiencia te vuelve más humilde, no más seguro.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Explica el efecto Dunning-Kruger. Educativo y guardable.",
+    descripcion: "🧠 Dato que explica mucho del internet: cuanto menos sabes de un tema, más fácil es creer que lo dominas, porque ni siquiera sabes lo que ignoras. Se llama efecto Dunning-Kruger. Por eso el verdadero experto suele dudar y matizar, mientras el principiante afirma con total seguridad. 🔖 Guárdalo, te hará más humilde y más crítico.",
     hashtags: "#ciencia #psicologia #dunningkruger #humildad #aprendizaje",
     prompt: "Persona en una cima pequeña creyendo verlo todo frente a una montaña real, conceptual.",
     tecnicas: ["Dato revelador", "Antítesis", "Reframe"]
@@ -2443,7 +2443,7 @@ const LIBRARY = [
   {
     frase: "Lo que esperan de ti influye en cómo te desempeñas. Rodéate de quien cree en ti: la fe ajena también moldea resultados.",
     emocion: "Esperanza", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Explica el efecto Pigmalión. Inspirador y compartible.",
+    descripcion: "🌱 Dato precioso y útil: lo que los demás esperan de ti influye de verdad en cómo te desempeñas. Si te tratan como capaz, tiendes a rendir más; si te tratan como inútil, te apagas. Se llama efecto Pigmalión. Por eso rodearte de quien cree en ti no es un lujo, es estrategia. ✨ Comparte con quien necesita mejor compañía.",
     hashtags: "#ciencia #psicologia #expectativas #motivacion #crecimiento",
     prompt: "Persona creciendo bajo la mirada de apoyo de otra, luz cálida, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Llamado a la acción"]
@@ -2453,7 +2453,7 @@ const LIBRARY = [
   {
     frase: "Sanar no es una línea recta. Habrá días en que sientas que vuelves atrás: no es fracaso, es el proceso teniendo curvas.",
     emocion: "Esperanza", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Normaliza las recaídas en la sanación. Compasiva y guardable.",
+    descripcion: "🌱 Para cuando creas que retrocediste: sanar no es una línea recta que sube siempre. Tiene curvas, bajones y días en que parece que volviste a empezar. Eso no es fracaso, es cómo funciona el proceso de verdad. Una recaída no borra todo lo que avanzaste. 🔖 Guárdalo para los días en que dudes de tu progreso.",
     hashtags: "#sanar #saludmental #proceso #resiliencia #bienestar",
     prompt: "Camino sinuoso que sube entre la niebla hacia la luz, estética conceptual esperanzadora.",
     tecnicas: ["Reframe", "Antítesis", "Validación emocional"]
@@ -2461,7 +2461,7 @@ const LIBRARY = [
   {
     frase: "Quien hiere desde el dolor no te define a ti, lo define a él. La gente lastima con lo que carga, no con lo que tú vales.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "Explica que el daño ajeno habla de quien lo causa. Liberadora.",
+    descripcion: "🧠 Verdad que te libera de cargas ajenas: cuando alguien te hiere desde su propia herida, eso habla de lo que él carga, no de lo que tú vales. La gente lastima con lo que tiene dentro, no con lo que tú mereces. No tomes como tuyo el veneno que era de otro. ✨ Comparte con quien se culpa por el maltrato que recibió.",
     hashtags: "#psicologia #saludmental #limites #amorpropio #bienestar",
     prompt: "Persona en calma mientras la sombra ajena no la alcanza, luz protectora, conceptual.",
     tecnicas: ["Reframe", "Causa-efecto", "Cierre emocional"]
@@ -2469,7 +2469,7 @@ const LIBRARY = [
   {
     frase: "Aceptar no es rendirse. Es dejar de gastar fuerzas peleando con lo que ya pasó para usarlas en lo que sigue.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Reencuadra la aceptación como ahorro de energía. Guardable.",
+    descripcion: "🕊️ Diferencia que da paz: aceptar no es rendirte ni decir que algo «estuvo bien». Es dejar de gastar tus fuerzas peleando contra lo que ya pasó y no puedes cambiar, para usarlas en lo que sí sigue en tus manos. Aceptar libera la energía que la resistencia te roba. 🔖 Guárdalo para cuando algo no se pueda cambiar.",
     hashtags: "#psicologia #aceptacion #saludmental #pazmental #mentalidad",
     prompt: "Persona soltando una cuerda tensa y enderezándose con alivio, estética conceptual.",
     tecnicas: ["Antítesis", "Reframe", "Cierre potente"]
@@ -2477,7 +2477,7 @@ const LIBRARY = [
   {
     frase: "Concéntrate en lo que sí controlas: tu esfuerzo, tu actitud, tu límite. Lo demás solo te roba la paz sin cambiar el resultado.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "Aplica la dicotomía del control. Práctica y compartible.",
+    descripcion: "🧠 Filtro que cambia tu día: divide las cosas en lo que sí controlas (tu esfuerzo, tu actitud, tus límites) y lo que no (lo que otros piensan, hacen o deciden). Gastar energía en lo segundo te roba la paz sin cambiar nada. Enfócate donde sí tienes poder. ✨ Comparte con quien se angustia por lo que no depende de él.",
     hashtags: "#psicologia #control #estoicismo #saludmental #mentalidad",
     prompt: "Persona enfocada en un círculo de luz a su alcance ignorando lo lejano, conceptual.",
     tecnicas: ["Reframe", "Lista implícita", "Regla de oro"]
@@ -2485,7 +2485,7 @@ const LIBRARY = [
   {
     frase: "El autoboicot no es debilidad: es una parte de ti intentando protegerte de un fracaso que aún no llega. Escúchala y sigue igual.",
     emocion: "Esperanza", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Reencuadra el autoboicot con compasión. Profundo y guardable.",
+    descripcion: "🧠 Reencuadre del autosabotaje: cuando te boicoteas justo antes de lograr algo, no es debilidad ni falta de carácter. Es una parte de ti intentando protegerte de un posible fracaso o rechazo. No la pelees ni te castigues: escúchala con cariño, dale las gracias por cuidarte… y avanza igual. 🔖 Guárdalo, esto cambia cómo te tratas.",
     hashtags: "#psicologia #autoboicot #miedo #saludmental #crecimientopersonal",
     prompt: "Persona dando un paso adelante mientras una versión temerosa intenta frenarla, conceptual.",
     tecnicas: ["Reframe", "Validación emocional", "Llamado a la acción"]
@@ -2493,7 +2493,7 @@ const LIBRARY = [
   {
     frase: "El duelo no tiene calendario. Sanar más lento que otros no significa que lo estés haciendo mal.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "Valida el ritmo propio del duelo. Compasiva y compartible.",
+    descripcion: "🕯️ Recordatorio para quien siente que «ya debería haberlo superado»: el duelo no tiene calendario. No hay un plazo correcto para dejar de doler, y sanar más lento que otros no significa que lo estés haciendo mal. Cada quien cierra a su ritmo. Date el tiempo que necesites, sin culpa. ✨ Comparte con quien está de duelo.",
     hashtags: "#duelo #saludmental #sanar #emociones #bienestar",
     prompt: "Persona en calma frente al mar gris al amanecer, ritmo propio, estética serena.",
     tecnicas: ["Reframe", "Validación emocional", "Brevedad"]
@@ -2501,7 +2501,7 @@ const LIBRARY = [
   {
     frase: "El desprecio disfrazado de broma sigue siendo desprecio. Quien te quiere no construye su humor sobre tu vergüenza.",
     emocion: "Enojo", nicho: "Relaciones", objetivo: "Comentarios",
-    descripcion: "Señala el desprecio encubierto en 'bromas'. Genera debate.",
+    descripcion: "🎭 Frase para poner límites: «era broma» no borra el daño. El desprecio disfrazado de chiste sigue siendo desprecio, y quien te quiere no construye su humor sobre tu vergüenza ni te ridiculiza frente a otros. Si las «bromas» siempre van a tu costa, no son bromas. 👇 ¿Te ha pasado que te hieren y luego dicen 'era broma'? Cuéntalo abajo.",
     hashtags: "#relaciones #respeto #limites #parejas #verdades",
     prompt: "Persona incómoda mientras otra ríe a su costa, luz fría, estética conceptual.",
     tecnicas: ["Reframe", "Revelación", "Gancho de debate"]
@@ -2509,7 +2509,7 @@ const LIBRARY = [
   {
     frase: "El amor se demuestra en los pequeños gestos diarios, no en las grandes promesas de fin de semana.",
     emocion: "Calma", nicho: "Relaciones", objetivo: "Guardados",
-    descripcion: "Resalta la consistencia cotidiana sobre los gestos grandilocuentes.",
+    descripcion: "❤️ Verdad sencilla sobre el amor real: no se mide en grandes promesas ni en regalos de vez en cuando, sino en los pequeños gestos diarios: el mensaje de buenos días, recordar lo que te importa, estar cuando no es cómodo. Lo cotidiano dice más que cualquier declaración. 🔖 Guárdalo para reconocer el amor verdadero.",
     hashtags: "#relaciones #amor #parejas #gestos #frases",
     prompt: "Detalle de un café preparado para el otro cada mañana, luz cálida, ambiente tierno.",
     tecnicas: ["Antítesis", "Reframe", "Cierre emocional"]
@@ -2517,7 +2517,7 @@ const LIBRARY = [
   {
     frase: "Quien te quiere busca cómo, quien no, busca excusas. Y las dos cosas se notan, aunque te cueste aceptarlas.",
     emocion: "Sorpresa", nicho: "Relaciones", objetivo: "Compartidos",
-    descripcion: "Frase clara sobre el esfuerzo real. Identificación fuerte.",
+    descripcion: "💯 Frase que aclara cualquier duda: quien te quiere busca la manera de estar, de hacer tiempo, de demostrarlo; quien no, busca excusas y las disfraza de circunstancias. Ambas cosas se notan, aunque a veces prefieras no verlas. Deja de descifrar a quien con sus actos ya te respondió. ✨ Comparte si necesitas recordarlo.",
     hashtags: "#relaciones #amor #esfuerzo #amorpropio #frases",
     prompt: "Dos caminos: uno que insiste en llegar y otro lleno de excusas, estética conceptual.",
     tecnicas: ["Antítesis", "Reframe", "Brevedad"]
@@ -2525,7 +2525,7 @@ const LIBRARY = [
   {
     frase: "Tienes permiso de superar a la gente que ya no crece contigo. Querer a alguien no te obliga a quedarte donde te apagas.",
     emocion: "Esperanza", nicho: "Autoestima", objetivo: "Guardados",
-    descripcion: "Da permiso para soltar vínculos que estancan. Guardable.",
+    descripcion: "🌱 Permiso que tal vez necesitas: puedes querer a alguien y aun así crecer más rápido que esa persona, y soltar lo que ya no te deja avanzar. Querer a alguien no te obliga a quedarte donde te apagas para no «dejarlo atrás». Crecer no es traición. 🔖 Guárdalo para cuando sientas culpa por evolucionar.",
     hashtags: "#autoestima #crecimiento #amorpropio #limites #frases",
     prompt: "Persona ascendiendo hacia la luz dejando atrás con cariño un lugar conocido, conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
