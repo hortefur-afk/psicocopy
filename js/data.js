@@ -582,6 +582,208 @@ const LIBRARY = [
     hashtags: "#superacion #resiliencia #esperanza #fortaleza #mentalidad",
     prompt: "Amanecer tras una noche de tormenta, persona de pie mirando la luz, estética épica y esperanzadora.",
     tecnicas: ["Perspectiva temporal", "Reframe", "Cierre potente"]
+  },
+
+  /* ========== LOTE 3 (equilibrado) ========== */
+
+  /* ----- RELACIONES ----- */
+  {
+    frase: "El amor real no te deja en visto en lo que más te importa.",
+    emocion: "Enojo", nicho: "Relaciones", objetivo: "Comentarios",
+    descripcion: "Frase breve que define el amor por los actos, no las palabras. Invita a opinar.",
+    hashtags: "#relaciones #amor #hechos #amorpropio #frases",
+    prompt: "Teléfono con una notificación vista y sin respuesta sobre una mesa, luz fría, ambiente tenso.",
+    tecnicas: ["Brevedad", "Gancho de debate", "Reframe"]
+  },
+  {
+    frase: "Extrañar no significa volver. A veces extrañas justo lo que te hizo daño.",
+    emocion: "Nostalgia", nicho: "Relaciones", objetivo: "Guardados",
+    descripcion: "Aclara la diferencia entre extrañar y querer regresar. Muy útil para sanar.",
+    hashtags: "#desamor #soltar #relaciones #sanar #reflexiones",
+    prompt: "Persona mirando una foto antigua con expresión pensativa, luz cálida de ventana, tono melancólico.",
+    tecnicas: ["Reframe", "Antítesis", "Validación emocional"]
+  },
+  {
+    frase: "Querer a alguien no basta. También hay que saber tratarlo bien.",
+    emocion: "Calma", nicho: "Relaciones", objetivo: "Compartidos",
+    descripcion: "Separa el sentir del actuar. Sencilla, directa y muy compartible.",
+    hashtags: "#relaciones #amor #respeto #parejas #frases",
+    prompt: "Dos tazas de café juntas y manos cercanas sobre una mesa de madera, luz cálida, intimidad sencilla.",
+    tecnicas: ["Antítesis", "Brevedad", "Regla de oro"]
+  },
+  {
+    frase: "Lo que no se dice a tiempo se convierte en distancia que no se explica.",
+    emocion: "Tristeza", nicho: "Relaciones", objetivo: "Compartidos",
+    descripcion: "Toca el costo del silencio en las relaciones. Reflexiva y conectora.",
+    hashtags: "#comunicacion #relaciones #silencio #parejas #reflexion",
+    prompt: "Dos siluetas en extremos opuestos de un sofá, espacio vacío en medio, luz tenue de tarde.",
+    tecnicas: ["Causa-efecto", "Metáfora", "Cierre emocional"]
+  },
+
+  /* ----- PSICOLOGÍA ----- */
+  {
+    frase: "No tienes que estar productivo todo el tiempo para merecer descanso.",
+    emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Libera de la cultura del rendimiento constante. Alivia y se guarda.",
+    hashtags: "#descanso #saludmental #autocuidado #burnout #bienestar",
+    prompt: "Persona acostada en el pasto mirando el cielo, luz suave de tarde, sensación de pausa.",
+    tecnicas: ["Reframe", "Validación emocional", "Regla de oro"]
+  },
+  {
+    frase: "Tu cuerpo lleva la cuenta de todo lo que tu mente intentó ignorar.",
+    emocion: "Sorpresa", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "Conecta emociones reprimidas con el cuerpo. Reveladora y compartible.",
+    hashtags: "#saludmental #emociones #cuerpo #psicologia #bienestar",
+    prompt: "Silueta humana con líneas de tensión suaves en hombros y pecho, estética conceptual serena.",
+    tecnicas: ["Revelación", "Metáfora", "Reframe"]
+  },
+  {
+    frase: "Poner límites no te hace egoísta. Te hace responsable de tu propia paz.",
+    emocion: "Orgullo", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Quita la culpa de poner límites. Empoderadora y muy guardable.",
+    hashtags: "#limites #saludmental #pazmental #autocuidado #bienestar",
+    prompt: "Persona cerrando suavemente una puerta con calma, luz cálida del otro lado, estética serena.",
+    tecnicas: ["Reframe", "Antítesis", "Regla de oro"]
+  },
+  {
+    frase: "Sentir que retrocedes no siempre es retroceder. A veces es tu mente tomando impulso.",
+    emocion: "Esperanza", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "Reencuadra las recaídas en el proceso de crecer. Da esperanza.",
+    hashtags: "#crecimientopersonal #saludmental #proceso #resiliencia #mentalidad",
+    prompt: "Arco tensándose antes de soltar la flecha, metáfora de impulso, luz dramática suave.",
+    tecnicas: ["Reframe", "Metáfora", "Cierre potente"]
+  },
+
+  /* ----- DINERO ----- */
+  {
+    frase: "Gastas según cómo te sientes. Por eso ordenar tus emociones también ordena tu cartera.",
+    emocion: "Sorpresa", nicho: "Dinero", objetivo: "Guardados",
+    descripcion: "Une finanzas y emociones de forma novedosa. Educativa y guardable.",
+    hashtags: "#finanzas #dinero #emociones #habitos #mentalidad",
+    prompt: "Persona reflexionando frente a un cuaderno de gastos con una taza de té, luz cálida y honesta.",
+    tecnicas: ["Causa-efecto", "Reframe", "Revelación"]
+  },
+  {
+    frase: "El lujo más caro no es un auto. Es deber dinero y fingir que no te quita el sueño.",
+    emocion: "Enojo", nicho: "Dinero", objetivo: "Comentarios",
+    descripcion: "Confronta el endeudamiento por apariencia. Genera debate fuerte.",
+    hashtags: "#deudas #dinero #finanzas #apariencias #verdades",
+    prompt: "Persona despierta de noche con la mirada preocupada, luz azulada de la madrugada, ambiente tenso.",
+    tecnicas: ["Antítesis", "Polémica controlada", "Reframe"]
+  },
+  {
+    frase: "Ahorrar sin un porqué es difícil. Ponle nombre a tu meta y verás cómo cambia todo.",
+    emocion: "Esperanza", nicho: "Dinero", objetivo: "Guardados",
+    descripcion: "Consejo práctico de finanzas conductuales. Accionable y guardable.",
+    hashtags: "#ahorro #finanzas #metas #dinero #habitos",
+    prompt: "Frasco de ahorros con una etiqueta escrita a mano, luz cálida, ambiente esperanzador.",
+    tecnicas: ["Reframe", "Regla práctica", "Llamado a la acción"]
+  },
+
+  /* ----- AUTOESTIMA ----- */
+  {
+    frase: "No bajes tu nivel para que otros no se sientan pequeños a tu lado.",
+    emocion: "Orgullo", nicho: "Autoestima", objetivo: "Compartidos",
+    descripcion: "Empodera a no encogerse por la inseguridad ajena. Motivadora.",
+    hashtags: "#autoestima #empoderamiento #valor #confianza #frases",
+    prompt: "Persona de pie segura bajo un haz de luz, postura firme, estética editorial poderosa.",
+    tecnicas: ["Reframe", "Regla de oro", "Cierre potente"]
+  },
+  {
+    frase: "Hablarte bien no es vanidad. Es la base sobre la que construyes todo lo demás.",
+    emocion: "Calma", nicho: "Autoestima", objetivo: "Guardados",
+    descripcion: "Defiende el diálogo interno amable como cimiento. Guardable.",
+    hashtags: "#amorpropio #autoestima #dialogointerno #bienestar #saludmental",
+    prompt: "Persona sonriéndose con calma frente al espejo por la mañana, luz suave y cálida.",
+    tecnicas: ["Reframe", "Metáfora", "Regla de oro"]
+  },
+  {
+    frase: "Te pasaste años pidiendo perdón por existir como eres. Ya basta.",
+    emocion: "Enojo", nicho: "Autoestima", objetivo: "Comentarios",
+    descripcion: "Frase de ruptura con la autoexigencia. Provoca identificación intensa.",
+    hashtags: "#autoestima #autenticidad #amorpropio #liberacion #frases",
+    prompt: "Persona quitándose un peso simbólico de los hombros, luz que entra por una ventana, alivio.",
+    tecnicas: ["Espejo emocional", "Reframe", "Gancho de debate"]
+  },
+
+  /* ----- NARCISISMO / RELACIONES TÓXICAS ----- */
+  {
+    frase: "Te pidió que cambiaras 'por amor'. El amor no te pide ser otra persona para merecerlo.",
+    emocion: "Sorpresa", nicho: "Narcisismo", objetivo: "Compartidos",
+    descripcion: "Desenmascara el control disfrazado de amor. Reveladora.",
+    hashtags: "#relacionestoxicas #narcisismo #limites #amorpropio #conciencia",
+    prompt: "Persona ante dos máscaras eligiendo no ponerse ninguna, luz teatral suave, estilo conceptual.",
+    tecnicas: ["Revelación", "Antítesis", "Reframe"]
+  },
+  {
+    frase: "Cuando por fin pusiste el límite, lo llamaron exageración. Ahí supiste que el límite era necesario.",
+    emocion: "Orgullo", nicho: "Narcisismo", objetivo: "Guardados",
+    descripcion: "Valida los límites frente al reproche manipulador. Empoderadora.",
+    hashtags: "#limites #relacionestoxicas #narcisismo #saludmental #conciencia",
+    prompt: "Persona sosteniendo una línea de luz entre ella y una sombra, estética conceptual firme.",
+    tecnicas: ["Reframe", "Open Loop", "Cierre potente"]
+  },
+
+  /* ----- HÁBITOS ----- */
+  {
+    frase: "No falles dos veces seguidas. Un tropiezo es humano; dos seguidos ya es el nuevo hábito.",
+    emocion: "Esperanza", nicho: "Hábitos", objetivo: "Guardados",
+    descripcion: "Regla práctica y memorable para sostener hábitos. Muy guardable.",
+    hashtags: "#habitos #disciplina #constancia #productividad #mejora",
+    prompt: "Calendario con marcas diarias y una sola casilla vacía retomada al día siguiente, estética limpia.",
+    tecnicas: ["Regla práctica", "Reframe", "Brevedad"]
+  },
+  {
+    frase: "Tu entorno te empuja o te frena. Rodéate de lo que quieres llegar a ser.",
+    emocion: "Esperanza", nicho: "Hábitos", objetivo: "Compartidos",
+    descripcion: "Resalta el poder del entorno en los hábitos. Inspiradora.",
+    hashtags: "#habitos #entorno #mentalidad #crecimiento #disciplina",
+    prompt: "Persona caminando hacia un grupo activo y luminoso, dejando atrás la sombra, estética motivadora.",
+    tecnicas: ["Reframe", "Causa-efecto", "Llamado a la acción"]
+  },
+  {
+    frase: "La disciplina es elegirte a ti del futuro por encima de lo que te apetece ahora.",
+    emocion: "Orgullo", nicho: "Hábitos", objetivo: "Guardados",
+    descripcion: "Define la disciplina desde el autocuidado, no el castigo. Guardable.",
+    hashtags: "#disciplina #habitos #futuro #mentalidad #autocuidado",
+    prompt: "Persona eligiendo agua sobre comodidad, escena cotidiana con luz cálida, decisión consciente.",
+    tecnicas: ["Reframe", "Perspectiva temporal", "Metáfora"]
+  },
+
+  /* ----- MANIPULACIÓN (límites) ----- */
+  {
+    frase: "Si tu silencio incomoda a quien siempre te interrumpe, vas por buen camino.",
+    emocion: "Orgullo", nicho: "Manipulación", objetivo: "Comentarios",
+    descripcion: "Anima a recuperar la voz frente a quien la opaca. Genera respuestas.",
+    hashtags: "#limites #inteligenciaemocional #saludmental #conciencia #verdades",
+    prompt: "Persona en calma rodeada de ruido visual que se desvanece, foco nítido en ella, conceptual.",
+    tecnicas: ["Reframe", "Gancho de debate", "Brevedad"]
+  },
+  {
+    frase: "Que se enojen cuando dejas de complacer no significa que hagas algo mal. Significa que perdieron una ventaja.",
+    emocion: "Sorpresa", nicho: "Manipulación", objetivo: "Guardados",
+    descripcion: "Reencuadra el enojo ajeno al poner límites. Liberadora.",
+    hashtags: "#limites #relacionestoxicas #manipulacion #saludmental #conciencia",
+    prompt: "Persona soltando hilos de marioneta de sus manos, luz de liberación, estilo conceptual.",
+    tecnicas: ["Reframe", "Revelación", "Antítesis"]
+  },
+
+  /* ----- CIERRE (extra equilibrio) ----- */
+  {
+    frase: "Compártelo si crees que sanar también es un acto de valentía.",
+    emocion: "Esperanza", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "CTA directo que dignifica el proceso de sanar. Multiplica alcance.",
+    hashtags: "#sanar #valentia #saludmental #bienestar #frases",
+    prompt: "Persona de pie frente al amanecer con expresión serena y firme, luz dorada esperanzadora.",
+    tecnicas: ["CTA invisible", "Reframe", "Brevedad"]
+  },
+  {
+    frase: "Aprende a estar bien solo. No para alejar a nadie, sino para no quedarte por miedo.",
+    emocion: "Calma", nicho: "Autoestima", objetivo: "Guardados",
+    descripcion: "Enseña la independencia emocional como libertad, no aislamiento. Guardable.",
+    hashtags: "#amorpropio #soledad #independencia #autoestima #bienestar",
+    prompt: "Persona disfrutando un café sola junto a una ventana luminosa, ambiente tranquilo y pleno.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre emocional"]
   }
 ];
 
