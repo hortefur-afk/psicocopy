@@ -7057,6 +7057,284 @@ const LIBRARY = [
     hashtags: "#manipulacion #sanar #cierre #pazmental #conciencia",
     prompt: "Persona en paz tras soltar la espera de un cierre, luz cálida, conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Cierre emocional"]
+  },
+
+  /* ========== LOTE 68 (Ciencia · cosmos, cuerpo y animales) ========== */
+  {
+    frase: "Un día en Mercurio dura más que su año: tarda más en girar sobre sí mismo que en dar la vuelta al Sol. El tiempo no funciona igual en todas partes.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
+    descripcion: "Dato astronómico que rompe la lógica. Genera debate.",
+    hashtags: "#ciencia #mercurio #astronomia #universo #datoscuriosos",
+    prompt: "Mercurio girando lentamente cerca del Sol, estética conceptual cósmica.",
+    tecnicas: ["Dato revelador", "Curiosity Gap", "Gancho de debate"]
+  },
+  {
+    frase: "Mercurio, el planeta más cercano al Sol, tiene hielo en cráteres donde nunca llega la luz. Hasta junto al fuego puede sobrevivir algo frío.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Dato astronómico con metáfora. Guardable.",
+    hashtags: "#ciencia #mercurio #hielo #astronomia #datoscuriosos",
+    prompt: "Cráteres sombríos de Mercurio con hielo, estética conceptual cósmica.",
+    tecnicas: ["Dato revelador", "Metáfora", "Reframe"]
+  },
+  {
+    frase: "Hay más partidas de ajedrez posibles que átomos en el universo observable. La complejidad puede nacer de reglas muy simples.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Dato matemático impactante. Compartible.",
+    hashtags: "#ciencia #ajedrez #matematicas #universo #datoscuriosos",
+    prompt: "Tablero de ajedrez desplegando infinitas posibilidades, estética conceptual.",
+    tecnicas: ["Dato revelador", "Curiosity Gap", "Reframe"]
+  },
+  {
+    frase: "Cada brazo de un pulpo tiene tantas neuronas que casi 'piensa' por su cuenta. A veces el cuerpo sabe cosas que la cabeza no controla.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Dato biológico fascinante. Guardable.",
+    hashtags: "#ciencia #pulpo #cerebro #animales #datoscuriosos",
+    prompt: "Pulpo con cada brazo actuando con autonomía, estética conceptual.",
+    tecnicas: ["Dato revelador", "Metáfora", "Curiosity Gap"]
+  },
+  {
+    frase: "Las cabras tienen 'acentos': los rebaños de distintas zonas balan diferente. Hasta los animales suenan distinto según de dónde vienen.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
+    descripcion: "Dato animal curioso. Genera respuestas.",
+    hashtags: "#ciencia #cabras #animales #naturaleza #datoscuriosos",
+    prompt: "Cabras de distintas regiones comunicándose, estética conceptual.",
+    tecnicas: ["Dato revelador", "Curiosity Gap", "Gancho de debate"]
+  },
+  {
+    frase: "Las vacas dan más leche cuando escuchan música tranquila. La calma del entorno también se nota en lo que producimos.",
+    emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Dato animal con metáfora del entorno. Compartible.",
+    hashtags: "#ciencia #vacas #animales #musica #datoscuriosos",
+    prompt: "Vacas tranquilas en un establo con ambiente sereno, estética conceptual.",
+    tecnicas: ["Dato revelador", "Metáfora", "Reframe"]
+  },
+  {
+    frase: "Las estrellas de neutrones pueden girar cientos de veces por segundo. Hay objetos en el cosmos que rotan más rápido que una licuadora.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Dato astronómico impactante. Guardable.",
+    hashtags: "#ciencia #estrelladeneutrones #astronomia #universo #datoscuriosos",
+    prompt: "Estrella de neutrones girando vertiginosamente, estética conceptual cósmica.",
+    tecnicas: ["Dato revelador", "Curiosity Gap", "Reframe"]
+  },
+  {
+    frase: "El universo entero tiene un 'eco' de su origen: una radiación de fondo que aún podemos detectar. El comienzo de todo dejó una huella que sigue ahí.",
+    emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Dato cosmológico (radiación de fondo). Compartible.",
+    hashtags: "#ciencia #universo #bigbang #cosmos #datoscuriosos",
+    prompt: "Eco luminoso del origen del universo extendiéndose, estética conceptual cósmica.",
+    tecnicas: ["Dato revelador", "Metáfora", "Cierre emocional"]
+  },
+  {
+    frase: "Tus músculos oculares son de los más rápidos del cuerpo: se mueven decenas de veces por segundo sin que lo notes. Hay trabajo veloz hasta en una mirada quieta.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Dato corporal curioso. Guardable.",
+    hashtags: "#ciencia #cuerpo #ojos #musculos #datoscuriosos",
+    prompt: "Movimientos oculares rápidos representados con líneas de luz, estética conceptual.",
+    tecnicas: ["Dato revelador", "Reframe", "Curiosity Gap"]
+  },
+  {
+    frase: "Tu hígado cumple cientos de funciones distintas, desde limpiar tu sangre hasta guardar energía. Algunos órganos trabajan en silencio haciendo de todo.",
+    emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Dato corporal con metáfora. Compartible.",
+    hashtags: "#ciencia #higado #cuerpo #biologia #datoscuriosos",
+    prompt: "Hígado realizando múltiples funciones representadas en luz, estética conceptual.",
+    tecnicas: ["Dato revelador", "Metáfora", "Reframe"]
+  },
+  {
+    frase: "Las palomas pueden reconocer rostros humanos y recordar quién las trató bien. Hasta donde menos lo esperas hay memoria de la bondad.",
+    emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Dato animal con metáfora. Compartible.",
+    hashtags: "#ciencia #palomas #animales #memoria #datoscuriosos",
+    prompt: "Paloma observando y recordando un rostro amable, estética conceptual.",
+    tecnicas: ["Dato revelador", "Metáfora", "Cierre emocional"]
+  },
+  {
+    frase: "Donde estés, eres el centro de tu universo observable: la luz solo ha tenido tiempo de llegarte hasta cierta distancia. Todos vemos un cosmos distinto desde nuestro lugar.",
+    emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Dato cosmológico con metáfora de perspectiva. Guardable.",
+    hashtags: "#ciencia #universo #perspectiva #astronomia #datoscuriosos",
+    prompt: "Persona en el centro de su esfera de universo observable, estética conceptual.",
+    tecnicas: ["Dato revelador", "Metáfora", "Reframe"]
+  },
+
+  /* ========== LOTE 69 (Psicología / Relaciones / Autoestima) ========== */
+  {
+    frase: "Deja de diluirte para que los demás te traguen más fácil. No tienes que rebajar quién eres para encajar en bocas que no saben apreciarte.",
+    emocion: "Orgullo", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "Empodera a no reducirse para agradar. Compartible.",
+    hashtags: "#psicologia #autenticidad #amorpropio #limites #saludmental",
+    prompt: "Persona manteniéndose intensa y auténtica sin diluirse, estética conceptual.",
+    tecnicas: ["Reframe", "Metáfora", "Cierre potente"]
+  },
+  {
+    frase: "Tu única competencia es quien fuiste ayer. Medirte con los demás te distrae de la única carrera que de verdad puedes ganar.",
+    emocion: "Esperanza", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Reorienta la comparación hacia uno mismo. Guardable.",
+    hashtags: "#psicologia #comparacion #crecimientopersonal #mentalidad #superacion",
+    prompt: "Persona compitiendo solo con su versión anterior, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
+  },
+  {
+    frase: "Las emociones se sienten, no se arreglan. No puedes pensar para salir de algo que primero necesitas dejarte sentir.",
+    emocion: "Calma", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "Reencuadra el manejo emocional. Compartible.",
+    hashtags: "#psicologia #emociones #saludmental #bienestar #mente",
+    prompt: "Persona permitiéndose sentir en lugar de racionalizar, estética conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Validación emocional"]
+  },
+  {
+    frase: "El cuerpo susurra antes de gritar. Escucha el cansancio pequeño hoy y te ahorrarás el colapso grande de mañana.",
+    emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Promueve escuchar señales tempranas. Guardable.",
+    hashtags: "#psicologia #autocuidado #cuerpo #saludmental #bienestar",
+    prompt: "Persona atendiendo las señales tempranas de su cuerpo, estética conceptual.",
+    tecnicas: ["Metáfora", "Reframe", "Llamado a la acción"]
+  },
+  {
+    frase: "No tienes que ganarte tu propia amabilidad. Te la debes incondicionalmente, sobre todo los días en que sientes que no la mereces.",
+    emocion: "Esperanza", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "Promueve la autocompasión incondicional. Compartible.",
+    hashtags: "#psicologia #autocompasion #amorpropio #saludmental #bienestar",
+    prompt: "Persona tratándose con amabilidad incondicional, luz cálida, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre emocional"]
+  },
+  {
+    frase: "Algunos crecimientos solo ocurren en la incomodidad que estuviste evitando. Lo que te asusta enfrentar suele guardar tu próxima versión.",
+    emocion: "Esperanza", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Reencuadra la incomodidad como crecimiento. Guardable.",
+    hashtags: "#psicologia #crecimiento #miedo #mentalidad #superacion",
+    prompt: "Persona cruzando la incomodidad hacia su crecimiento, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
+  },
+  {
+    frase: "Deja de aceptar 'estoy ocupado' como razón. Todos hacemos tiempo para lo que de verdad nos importa, sin excepción.",
+    emocion: "Enojo", nicho: "Relaciones", objetivo: "Comentarios",
+    descripcion: "Confronta la excusa de la falta de tiempo. Genera debate.",
+    hashtags: "#relaciones #amorpropio #limites #parejas #frases",
+    prompt: "Persona reconociendo que el tiempo se hace para lo que importa, conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Gancho de debate"]
+  },
+  {
+    frase: "Si siempre eres tú quien se disculpa, no estás en una relación: estás en una administración de crisis. El amor se reparte, no se gestiona solo.",
+    emocion: "Sorpresa", nicho: "Relaciones", objetivo: "Compartidos",
+    descripcion: "Señala el desequilibrio en las disculpas. Identificación.",
+    hashtags: "#relaciones #parejas #amorpropio #limites #frases",
+    prompt: "Persona cargando sola la reparación de la relación, estética conceptual.",
+    tecnicas: ["Metáfora", "Reframe", "Brevedad"]
+  },
+  {
+    frase: "Elige a quien calma tu sistema nervioso, no a quien lo enciende. El amor no debería sentirse como una alarma constante.",
+    emocion: "Calma", nicho: "Relaciones", objetivo: "Guardados",
+    descripcion: "Da una señal corporal de vínculo sano. Guardable.",
+    hashtags: "#relaciones #amor #pazmental #saludmental #parejas",
+    prompt: "Persona en calma junto a alguien que le transmite seguridad, estética conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Cierre emocional"]
+  },
+  {
+    frase: "No te diluyas tratando de ser inolvidable. La persona correcta te recordará por lo que eres, no por cuánto te esforzaste en impresionarla.",
+    emocion: "Orgullo", nicho: "Autoestima", objetivo: "Compartidos",
+    descripcion: "Empodera a no forzar ser memorable. Compartible.",
+    hashtags: "#autoestima #autenticidad #amorpropio #relaciones #frases",
+    prompt: "Persona siendo auténtica sin esforzarse por impresionar, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
+  },
+  {
+    frase: "Tu valor no tiene fecha de vencimiento. No importa cuánto tardes en florecer: lo que vales no caduca mientras esperas tu momento.",
+    emocion: "Esperanza", nicho: "Autoestima", objetivo: "Guardados",
+    descripcion: "Afirma que el valor propio no expira. Guardable.",
+    hashtags: "#autoestima #amorpropio #valor #ritmopropio #frases",
+    prompt: "Persona floreciendo a su propio ritmo sin prisa, estética conceptual.",
+    tecnicas: ["Reframe", "Metáfora", "Cierre emocional"]
+  },
+  {
+    frase: "Sé la persona que te elige cuando nadie más lo hace. Esa lealtad contigo es la base de todo lo que construyes después.",
+    emocion: "Orgullo", nicho: "Autoestima", objetivo: "Compartidos",
+    descripcion: "Promueve la autolealtad. Compartible.",
+    hashtags: "#autoestima #amorpropio #autenticidad #fortaleza #frases",
+    prompt: "Persona eligiéndose a sí misma con firmeza, luz cálida, estética conceptual.",
+    tecnicas: ["Reframe", "Metáfora", "Cierre potente"]
+  },
+
+  /* ========== LOTE 70 (Dinero / Hábitos / Narcisismo / Manipulación) ========== */
+  {
+    frase: "El que no controla su dinero, termina siendo controlado por él. La diferencia entre paz y angustia financiera casi siempre es un plan.",
+    emocion: "Calma", nicho: "Dinero", objetivo: "Compartidos",
+    descripcion: "Conecta control financiero y paz. Compartible.",
+    hashtags: "#finanzas #dinero #control #mentalidad #bienestar",
+    prompt: "Persona dirigiendo su dinero con un plan claro y en calma, estética conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Cierre potente"]
+  },
+  {
+    frase: "Cada gasto es un voto por la vida que quieres. Tu dinero, gastado consciente, dibuja exactamente la persona que estás eligiendo ser.",
+    emocion: "Esperanza", nicho: "Dinero", objetivo: "Guardados",
+    descripcion: "Conecta gasto y valores de vida. Guardable.",
+    hashtags: "#finanzas #dinero #valores #mentalidad #consciencia",
+    prompt: "Persona gastando de forma alineada con la vida que quiere, estética conceptual.",
+    tecnicas: ["Metáfora", "Reframe", "Cierre potente"]
+  },
+  {
+    frase: "El verdadero lujo es no tener que pensar en dinero. La libertad no es gastar sin mirar, sino vivir sin que el dinero te quite el sueño.",
+    emocion: "Calma", nicho: "Dinero", objetivo: "Compartidos",
+    descripcion: "Redefine el lujo como tranquilidad. Compartible.",
+    hashtags: "#dinero #libertadfinanciera #finanzas #tranquilidad #mentalidad",
+    prompt: "Persona viviendo tranquila sin la presión del dinero, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre emocional"]
+  },
+  {
+    frase: "El secreto no es empezar fuerte, es no parar. La intensidad impresiona un día; la constancia transforma una vida.",
+    emocion: "Orgullo", nicho: "Hábitos", objetivo: "Guardados",
+    descripcion: "Prioriza no parar sobre empezar intenso. Guardable.",
+    hashtags: "#habitos #constancia #disciplina #mentalidad #mejora",
+    prompt: "Persona avanzando sin detenerse frente a otra que arrancó fuerte y paró, conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Cierre potente"]
+  },
+  {
+    frase: "Tus días promedio definen tu vida, no tus días récord. Lo que haces en un día cualquiera es lo que, sumado, te lleva a donde vas.",
+    emocion: "Esperanza", nicho: "Hábitos", objetivo: "Compartidos",
+    descripcion: "Resalta los días normales sobre los excepcionales. Compartible.",
+    hashtags: "#habitos #constancia #disciplina #mentalidad #mejora",
+    prompt: "Días promedio constantes que construyen una gran vida, estética conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Cierre potente"]
+  },
+  {
+    frase: "Lo que repites en silencio te construye. Nadie ve tus pequeñas elecciones diarias, pero ellas deciden en quién te conviertes.",
+    emocion: "Orgullo", nicho: "Hábitos", objetivo: "Guardados",
+    descripcion: "Conecta elecciones invisibles e identidad. Guardable.",
+    hashtags: "#habitos #disciplina #identidad #constancia #mentalidad",
+    prompt: "Pequeñas elecciones silenciosas que construyen a la persona, estética conceptual.",
+    tecnicas: ["Causa-efecto", "Reframe", "Cierre emocional"]
+  },
+  {
+    frase: "Te pedían calma justo cuando ellos encendían el fuego. Provocar y luego acusarte de reaccionar era parte del mismo juego.",
+    emocion: "Enojo", nicho: "Narcisismo", objetivo: "Comentarios",
+    descripcion: "Describe provocar y culpar la reacción. Genera debate.",
+    hashtags: "#narcisismo #relacionestoxicas #manipulacion #limites #conciencia",
+    prompt: "Figura encendiendo el conflicto y culpando a la otra de reaccionar, conceptual.",
+    tecnicas: ["Revelación", "Antítesis", "Gancho de debate"]
+  },
+  {
+    frase: "Cada vez que crecías, encontraban cómo recordarte tu pasado. A quien le estorba tu evolución no quiere tu bien: quiere tu versión pequeña.",
+    emocion: "Enojo", nicho: "Narcisismo", objetivo: "Compartidos",
+    descripcion: "Señala el sabotaje al crecimiento. Identificación.",
+    hashtags: "#narcisismo #relacionestoxicas #crecimiento #limites #conciencia",
+    prompt: "Persona creciendo mientras una sombra le recuerda su pasado, estética conceptual.",
+    tecnicas: ["Revelación", "Reframe", "Antítesis"]
+  },
+  {
+    frase: "No exagerabas: minimizaban tu dolor para no tener que rendir cuentas. Que alguien reste importancia a lo que sientes no lo hace menos real.",
+    emocion: "Sorpresa", nicho: "Manipulación", objetivo: "Guardados",
+    descripcion: "Desenmascara la minimización. Validante y guardable.",
+    hashtags: "#manipulacion #gaslighting #emociones #saludmental #conciencia",
+    prompt: "Persona validando su propio dolor pese a que otros lo minimizan, conceptual.",
+    tecnicas: ["Revelación", "Reframe", "Validación emocional"]
+  },
+  {
+    frase: "Recuperaste tu poder el día en que su aprobación dejó de importarte. Su opinión solo te dirigía mientras tú le diste el volante.",
+    emocion: "Orgullo", nicho: "Manipulación", objetivo: "Compartidos",
+    descripcion: "Reencuadra recuperar el poder propio. Compartible.",
+    hashtags: "#manipulacion #amorpropio #limites #saludmental #conciencia",
+    prompt: "Persona retomando el control de su vida con firmeza, estética conceptual.",
+    tecnicas: ["Reframe", "Metáfora", "Cierre potente"]
   }
 ];
 
