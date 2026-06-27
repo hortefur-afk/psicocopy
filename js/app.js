@@ -187,6 +187,20 @@
     paint();
   }
 
+  function buildImagePrompt(p) {
+    const paleta = (typeof EMOTION_PALETTE !== "undefined" && EMOTION_PALETTE[p.emocion]) || "iluminación natural equilibrada";
+    const s = (typeof IMAGE_STYLE !== "undefined") ? IMAGE_STYLE : {};
+    return [
+      `ESCENA: ${p.prompt}`,
+      `PALETA / AMBIENTE: ${paleta}.`,
+      `FORMATO: ${s.formato || "imagen vertical 4:5 (1080 x 1350 px), alta resolución"}.`,
+      `TEXTO EN LA IMAGEN: «${p.frase}»`,
+      `TIPOGRAFÍA: ${s.tipografia || "sans-serif gruesa, palabra clave resaltada"}.`,
+      `POSICIÓN DEL TEXTO: ${s.posicion || "centrado en el tercio inferior sobre banda oscura semitransparente"}; ${s.legibilidad || "texto blanco de alto contraste"}.`,
+      `ESTILO: ${s.estilo || "composición minimalista y limpia, sin saturar"}.`
+    ].join("\n");
+  }
+
   function buildPost(p) {
     const post = el("div", "post");
     post.appendChild(el("div", "frase", esc(p.frase)));
@@ -195,7 +209,17 @@
     post.appendChild(meta);
     post.appendChild(buildAccordion({ ico: "📝", title: "Descripción", html: `<p>${esc(p.descripcion)}</p>` }));
     post.appendChild(buildAccordion({ ico: "#️⃣", title: "Hashtags", html: `<p>${esc(p.hashtags)}</p>` }));
-    post.appendChild(buildAccordion({ ico: "📷", title: "Prompt IA", html: `<p>${esc(p.prompt)}</p>` }));
+
+    const promptText = buildImagePrompt(p);
+    const promptAcc = buildAccordion({ ico: "📷", title: "Prompt IA (detallado)",
+      html: `<button class="btn btn--ghost copy-btn" type="button">Copiar prompt</button><pre class="prompt-box">${esc(promptText)}</pre>` });
+    promptAcc.querySelector(".copy-btn").addEventListener("click", (e) => {
+      navigator.clipboard?.writeText(promptText);
+      e.target.textContent = "¡Copiado!";
+      setTimeout(() => e.target.textContent = "Copiar prompt", 1200);
+    });
+    post.appendChild(promptAcc);
+
     post.appendChild(buildAccordion({ ico: "🧠", title: "Técnicas utilizadas",
       html: "<ul>" + p.tecnicas.map(t => `<li>${esc(t)}</li>`).join("") + "</ul>" }));
     return post;
@@ -257,7 +281,11 @@
       const cta = GENERATOR_BANK.ctas[goal.sel.value] || "";
       const desc = cta ? `${descBase}\n\n${cta}` : descBase;
 
-      const prompt = `Fotografía cinematográfica que transmite ${emo.sel.value.toLowerCase()}, relacionada con "${tema}", luz natural suave, estética editorial, bokeh.`;
+      const prompt = buildImagePrompt({
+        prompt: `Fotografía cinematográfica relacionada con "${tema}", que transmite ${emo.sel.value.toLowerCase()}, con un sujeto o escenario evocador y bokeh suave`,
+        frase: frase,
+        emocion: emo.sel.value
+      });
 
       // Publicación completa, lista para copiar y pegar de una sola vez
       const fullPost = `${frase}\n\n${desc}\n\n${hashtags}`;

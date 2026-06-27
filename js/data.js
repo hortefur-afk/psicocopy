@@ -14,6 +14,32 @@ const EMOTIONS = ["Tristeza", "Nostalgia", "Esperanza", "Enojo", "Sorpresa", "Mi
 const NICHES   = ["Relaciones", "Psicología", "Ciencia", "Dinero", "Autoestima", "Narcisismo", "Hábitos", "Manipulación"];
 const GOALS    = ["Compartidos", "Comentarios", "Guardados", "Seguidores", "Clics"];
 
+/* -------- ESTILO DE IMAGEN (prompts) --------
+   Especificación basada en lo que más interacción genera en Facebook:
+   · Formato 4:5 (1080x1350) ideal para móvil; alto contraste (>4.5:1).
+   · 1-2 fuentes, sans-serif gruesa, palabra clave resaltada, texto centrado.
+   Fuentes: thedetroitbureau.com, imba.missouri.edu, sagedatum.com (reformulado).
+   Edita aquí UNA vez y cambia el estilo de las 1.000 publicaciones a la vez. */
+const IMAGE_STYLE = {
+  formato: "imagen vertical en formato 4:5 (1080 x 1350 px), alta resolución, calidad profesional de revista",
+  tipografia: "tipografía sans-serif gruesa y moderna (estilo Montserrat o Poppins, peso Bold); máximo 2 fuentes; la palabra clave de la frase resaltada en mayor tamaño o color de acento",
+  posicion: "frase centrada en el tercio inferior de la imagen, con márgenes amplios, colocada sobre una banda o degradado oscuro semitransparente",
+  legibilidad: "texto en blanco con contraste alto (relación superior a 4.5:1), nítido y perfectamente legible en pantalla de móvil",
+  estilo: "composición minimalista y limpia, sin elementos que distraigan, con el foco visual en la frase"
+};
+
+/* Paleta/ambiente sugerido según la emoción de la publicación */
+const EMOTION_PALETTE = {
+  "Tristeza":  "paleta fría y melancólica, azules y grises suaves",
+  "Nostalgia": "paleta cálida tipo sepia, atmósfera nostálgica y suave",
+  "Esperanza": "luz dorada de amanecer, tonos cálidos y luminosos",
+  "Enojo":     "alto contraste dramático, sombras marcadas, estética intensa",
+  "Sorpresa":  "colores vibrantes con un punto de luz que destaca",
+  "Miedo":     "iluminación tenue y atmósfera de tensión contenida",
+  "Orgullo":   "tonos cálidos y estética editorial poderosa",
+  "Calma":     "luz natural suave, tonos neutros y serenos"
+};
+
 /* -------- Plantillas para el GENERADOR (base ampliable) -------- */
 const GENERATOR_BANK = {
   frases: [
@@ -8431,11 +8457,19 @@ const SECTIONS = [
   {
     id: "prompts", icon: "📷", title: "Prompts",
     blocks: [
-      { type: "head", kicker: "Imágenes con IA", title: "Prompts",
-        lead: "La imagen correcta multiplica el alcance del copy. Esta es la fórmula base." },
-      { type: "quote", text: "[Sujeto] + [acción/emoción] + [escenario] + [luz] + [estilo/estética]" },
-      { type: "callout", variant: "good", tag: "Ejemplo",
-        html: "«Persona mirando por la ventana al atardecer, melancólica, luz cálida dorada, fotografía cinematográfica, bokeh suave.»" }
+      { type: "head", kicker: "Imágenes con IA", title: "Prompts detallados",
+        lead: "La imagen correcta multiplica el alcance. Un prompt vago da resultados mediocres; estos son los datos que sí debes especificar siempre." },
+      { type: "h2", text: "La estructura completa" },
+      { type: "list", items: [
+        "ESCENA: sujeto + acción/emoción + escenario + luz.",
+        "FORMATO: vertical 4:5 (1080 x 1350 px) para máximo alcance en móvil.",
+        "TEXTO EN LA IMAGEN: la frase exacta que quieres que aparezca.",
+        "TIPOGRAFÍA: sans-serif gruesa (Montserrat/Poppins Bold), palabra clave resaltada.",
+        "POSICIÓN: texto centrado en el tercio inferior, sobre banda oscura semitransparente.",
+        "LEGIBILIDAD: texto blanco, contraste alto (>4.5:1), limpio y sin saturar."
+      ]},
+      { type: "callout", variant: "good", tag: "Por qué",
+        html: "Las imágenes verticales y de alto contraste reciben más interacción en Facebook. En la <strong>Biblioteca</strong>, cada publicación ya trae su prompt armado con esta estructura, listo para copiar." }
     ]
   },
 
