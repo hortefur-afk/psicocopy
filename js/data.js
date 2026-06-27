@@ -2729,7 +2729,7 @@ const LIBRARY = [
   {
     frase: "En un peligro real sientes que el tiempo se ralentiza. No es magia: tu cerebro graba con más detalle para sobrevivir.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Explica la percepción del tiempo bajo adrenalina. Fascinante.",
+    descripcion: "🧠 Dato que explica por qué un accidente «pasa en cámara lenta»: ante un peligro real, tu cerebro graba con muchísimo más detalle para ayudarte a sobrevivir, y al recordarlo después sientes que el tiempo se estiró. No es magia ni cosa de películas, es tu instinto de supervivencia en acción. 👇 ¿Te ha pasado vivir algo «en cámara lenta»? Cuéntalo abajo.",
     hashtags: "#ciencia #cerebro #adrenalina #tiempo #datoscuriosos",
     prompt: "Escena en cámara lenta con destellos de detalle alrededor de una persona, conceptual.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Gancho de debate"]
@@ -2739,7 +2739,7 @@ const LIBRARY = [
   {
     frase: "La positividad tóxica calla lo que duele. 'Échale ganas' a alguien que sufre no lo cura: lo deja más solo.",
     emocion: "Enojo", nicho: "Psicología", objetivo: "Comentarios",
-    descripcion: "Critica la positividad tóxica. Genera debate y validación.",
+    descripcion: "🔥 Hablemos de la positividad tóxica: decirle «échale ganas» o «todo pasa por algo» a alguien que sufre no lo ayuda, lo deja más solo con su dolor. Validar («tiene sentido que te duela») acompaña mucho más que cualquier frase optimista forzada. No siempre hay que ver el lado bueno; a veces solo hay que estar. 👇 ¿De acuerdo? Te leo abajo.",
     hashtags: "#psicologia #positividadtoxica #emociones #saludmental #bienestar",
     prompt: "Persona triste recibiendo una frase vacía mientras se aísla más, estética conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Gancho de debate"]
@@ -2747,7 +2747,7 @@ const LIBRARY = [
   {
     frase: "Lo que reprimes no desaparece: se guarda con vida y sale cuando menos lo esperas. Sentir a tiempo es más barato que estallar después.",
     emocion: "Sorpresa", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Explica el costo de reprimir emociones. Profundo y guardable.",
+    descripcion: "🧠 Verdad sobre las emociones guardadas: lo que reprimes no desaparece, se queda dentro «con vida» y sale cuando menos lo esperas, en forma de explosión, ansiedad o malestar físico. Sentir a tiempo, aunque incomode, siempre sale más barato que estallar después. 🔖 Guárdalo y date permiso de sentir lo que toca.",
     hashtags: "#psicologia #emociones #saludmental #represion #bienestar",
     prompt: "Emoción guardada en una caja que vibra a punto de abrirse, estética conceptual.",
     tecnicas: ["Reframe", "Metáfora", "Causa-efecto"]
@@ -2755,7 +2755,7 @@ const LIBRARY = [
   {
     frase: "Cuidar de todos menos de ti tiene nombre: autoabandono. Y nadie puede dar de un pozo que dejó secar.",
     emocion: "Tristeza", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "Nombra el autoabandono. Identificación profunda.",
+    descripcion: "🫗 Si vives para los demás y te dejas al último, esto es para ti: cuidar de todos menos de ti tiene nombre, autoabandono. Y por más amor que tengas, nadie puede seguir dando de un pozo que dejó secar. Llenarte a ti no es egoísmo, es lo que te permite seguir dando. ✨ Comparte con quien siempre se pone al final de la lista.",
     hashtags: "#psicologia #autoabandono #autocuidado #saludmental #limites",
     prompt: "Persona regando muchas plantas mientras la suya se marchita, estética conceptual.",
     tecnicas: ["Reframe", "Metáfora", "Espejo emocional"]
@@ -2763,7 +2763,7 @@ const LIBRARY = [
   {
     frase: "Un disparador emocional no mide tu locura: mide una herida que aún no terminó de sanar. Obsérvalo, no te juzgues por él.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Explica los gatillos emocionales con compasión. Guardable.",
+    descripcion: "🧠 Para cuando reacciones «de más» a algo pequeño: ese disparador no significa que estés loco o seas exagerado. Señala una herida que aún no terminó de sanar y que ese momento tocó. En vez de juzgarte por reaccionar, obsérvalo con curiosidad: te está mostrando qué falta cuidar. 🔖 Guárdalo, esto cambia cómo te tratas.",
     hashtags: "#psicologia #emociones #saludmental #sanar #autoconciencia",
     prompt: "Herida antigua de luz que reacciona ante un estímulo, estética conceptual suave.",
     tecnicas: ["Reframe", "Validación emocional", "Dato revelador"]
@@ -2771,7 +2771,7 @@ const LIBRARY = [
   {
     frase: "No tienes que ser 'el fuerte' siempre. Pedir ayuda no rompe tu fortaleza: la hace sostenible.",
     emocion: "Esperanza", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "Reencuadra pedir ayuda como fortaleza real. Compartible.",
+    descripcion: "🫂 Recordatorio para el que siempre sostiene a todos: no tienes que ser «el fuerte» las 24 horas. Pedir ayuda no rompe tu fortaleza, la hace sostenible; hasta las columnas necesitan apoyo para no quebrarse. Dejarte cuidar también es de valientes. ✨ Comparte con quien carga con todo en silencio.",
     hashtags: "#psicologia #ayuda #saludmental #vulnerabilidad #bienestar",
     prompt: "Persona apoyándose en otra para seguir de pie, luz cálida, ambiente de apoyo.",
     tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
@@ -2779,7 +2779,7 @@ const LIBRARY = [
   {
     frase: "Estar cómodo en tu zona de confort no es debilidad. Pero la vida que quieres casi siempre vive un paso afuera.",
     emocion: "Esperanza", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Matiza la zona de confort con respeto. Motivadora y guardable.",
+    descripcion: "🧠 Sin culpas, pero con verdad: estar en tu zona de confort no te hace débil, es humano buscar seguridad. Pero casi todo lo que de verdad quieres (esa meta, esa relación, esa versión de ti) vive un paso afuera de lo conocido. El crecimiento empieza donde termina lo cómodo. 🔖 Guárdalo y da ese paso pequeño.",
     hashtags: "#psicologia #zonadeconfort #crecimiento #mentalidad #superacion",
     prompt: "Persona asomándose desde un círculo cálido hacia una luz nueva afuera, conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Llamado a la acción"]
@@ -2787,7 +2787,7 @@ const LIBRARY = [
   {
     frase: "Si solo te escriben cuando no tienen nada mejor, no eres su opción: eres su repuesto. Y tú no naciste para ser plan B.",
     emocion: "Enojo", nicho: "Relaciones", objetivo: "Comentarios",
-    descripcion: "Confronta el ser tratado como repuesto. Genera identificación.",
+    descripcion: "🚩 Léelo y date tu lugar: si solo te buscan cuando se aburren, cuando les fallaron otros o cuando no tienen plan, no eres su opción, eres su repuesto. Y tú no naciste para ser el plan B de nadie. Mereces ser la prioridad de alguien, no su última carta. 👇 ¿Te ha tocado sentirte así? Cuéntalo abajo.",
     hashtags: "#relaciones #amorpropio #limites #verdades #frases",
     prompt: "Teléfono iluminándose solo cuando todo lo demás se apagó, estética conceptual.",
     tecnicas: ["Reframe", "Metáfora", "Gancho de debate"]
@@ -2795,7 +2795,7 @@ const LIBRARY = [
   {
     frase: "Las relaciones se construyen en los pequeños 'estoy aquí', no en las grandes declaraciones. La presencia gana al discurso.",
     emocion: "Calma", nicho: "Relaciones", objetivo: "Guardados",
-    descripcion: "Resalta los pequeños gestos de conexión (bids). Guardable.",
+    descripcion: "❤️ Lo que de verdad sostiene una relación: no son las grandes declaraciones ni las promesas de película, sino los pequeños «estoy aquí» de todos los días. El mensaje a tiempo, la mano cuando lloras, estar cuando no es cómodo. La presencia constante le gana a cualquier discurso bonito. 🔖 Guárdalo para valorar lo cotidiano.",
     hashtags: "#relaciones #amor #presencia #parejas #vinculos",
     prompt: "Detalle de una mano sosteniendo otra en silencio, luz cálida, ambiente íntimo.",
     tecnicas: ["Antítesis", "Reframe", "Cierre emocional"]
@@ -2803,7 +2803,7 @@ const LIBRARY = [
   {
     frase: "Si tienes que convencerte cada día de que te quieren, ya tienes tu respuesta. El amor seguro no se interroga tanto.",
     emocion: "Tristeza", nicho: "Relaciones", objetivo: "Compartidos",
-    descripcion: "Señala la inseguridad constante en una relación. Identificación.",
+    descripcion: "💔 Verdad que duele pero aclara: si todos los días tienes que convencerte de que te quieren, buscar señales y calmar tus dudas, tu cuerpo ya te dio la respuesta. El amor seguro no se interroga tanto; se siente, no se descifra. La ansiedad constante en el amor es un mensaje. ✨ Comparte si necesitas recordarlo.",
     hashtags: "#relaciones #amorpropio #ansiedad #parejas #frases",
     prompt: "Persona buscando señales de cariño en gestos ambiguos, luz tenue, conceptual.",
     tecnicas: ["Reframe", "Espejo emocional", "Brevedad"]
@@ -2811,7 +2811,7 @@ const LIBRARY = [
   {
     frase: "No eres para todos, y está perfecto. El que intenta gustarle a todo el mundo termina diluyéndose en nadie.",
     emocion: "Orgullo", nicho: "Autoestima", objetivo: "Compartidos",
-    descripcion: "Defiende la autenticidad sobre la aprobación masiva. Compartible.",
+    descripcion: "✨ Recordatorio de autenticidad: no eres para todos, y está perfecto. Quien intenta gustarle a todo el mundo termina diluyéndose hasta no ser nadie, suavizando su esencia para no incomodar. Lo que te hace «mucho» para algunos es justo lo que te hace inolvidable para los correctos. 🤍 Comparte si necesitas dejar de complacer a todos.",
     hashtags: "#autoestima #autenticidad #amorpropio #valor #frases",
     prompt: "Persona con color propio destacando entre figuras grises uniformes, conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
@@ -2819,7 +2819,7 @@ const LIBRARY = [
   {
     frase: "Que te tomen tiempo para responderte no baja tu valor. Tu precio no lo pone quien no supo apreciarte.",
     emocion: "Calma", nicho: "Autoestima", objetivo: "Guardados",
-    descripcion: "Protege la autoestima del trato ajeno. Guardable.",
+    descripcion: "💯 Recordatorio de amor propio: que alguien te ignore, te tarde en responder o no te elija no rebaja ni un poco tu valor. Tu precio no lo pone quien no supo apreciarte; igual que una joya no vale menos porque alguien no entienda lo que tiene en las manos. 🔖 Guárdalo para tu próximo «visto».",
     hashtags: "#autoestima #amorpropio #valor #limites #bienestar",
     prompt: "Pieza de valor intacta sin importar quién la ignore, luz cálida, estética conceptual.",
     tecnicas: ["Reframe", "Metáfora", "Regla de oro"]
@@ -2827,7 +2827,7 @@ const LIBRARY = [
   {
     frase: "Dejar de explicarte tanto también es madurar. No todo merece tu defensa; algunas opiniones solo merecen tu silencio.",
     emocion: "Orgullo", nicho: "Autoestima", objetivo: "Compartidos",
-    descripcion: "Empodera a no justificarse ante todos. Compartible.",
+    descripcion: "🕊️ Señal de madurez emocional: dejar de explicarte ante todo el mundo. No toda opinión merece tu defensa, ni todo malentendido tu energía. Algunas personas no buscan entenderte, solo discutir, y a ellas el mejor argumento es tu silencio. Ahorra esa energía para quien sí importa. ✨ Comparte si te cuesta dejar de justificarte.",
     hashtags: "#autoestima #madurez #limites #pazmental #amorpropio",
     prompt: "Persona caminando serena sin voltear a las críticas detrás, luz adelante, conceptual.",
     tecnicas: ["Reframe", "Regla de oro", "Cierre potente"]
@@ -2837,7 +2837,7 @@ const LIBRARY = [
   {
     frase: "Comprar tiempo libre con tu dinero es de las mejores inversiones. Delegar lo que odias te devuelve vida, no solo horas.",
     emocion: "Calma", nicho: "Dinero", objetivo: "Guardados",
-    descripcion: "Reencuadra el dinero como comprador de tiempo. Guardable.",
+    descripcion: "💸 Cambia cómo ves el dinero: una de las mejores inversiones es usarlo para comprar tiempo libre. Pagar por delegar eso que odias hacer no es flojera ni lujo: te devuelve horas de vida que puedes dedicar a lo que de verdad te importa. El tiempo no se recupera; el dinero, sí. 🔖 Guárdalo y replantea tus gastos.",
     hashtags: "#dinero #tiempo #libertadfinanciera #finanzas #mentalidad",
     prompt: "Persona disfrutando tiempo libre tras delegar tareas, luz cálida, ambiente sereno.",
     tecnicas: ["Reframe", "Dato revelador", "Cierre emocional"]
@@ -2845,7 +2845,7 @@ const LIBRARY = [
   {
     frase: "Sé tacaño con lo que no te importa para ser generoso con lo que sí. Recortar sin criterio es tan tonto como gastar sin él.",
     emocion: "Esperanza", nicho: "Dinero", objetivo: "Compartidos",
-    descripcion: "Enseña el gasto selectivo por valores. Compartible.",
+    descripcion: "💸 Filosofía de gasto inteligente: sé tacaño sin culpa con lo que no te importa, para poder ser generoso con lo que sí amas. Recortar todo a ciegas es tan tonto como gastar en todo sin pensar. La clave no es gastar poco, es gastar alineado con lo que de verdad valoras. ✨ Comparte con quien quiere ordenar sus finanzas.",
     hashtags: "#finanzas #dinero #ahorro #prioridades #mentalidad",
     prompt: "Persona eligiendo gastar en lo que valora y recortar lo demás, estética conceptual.",
     tecnicas: ["Antítesis", "Reframe", "Regla práctica"]
@@ -2853,7 +2853,7 @@ const LIBRARY = [
   {
     frase: "La generosidad bien medida también es inteligencia financiera. Dar desde la abundancia, no desde la culpa, te hace más rico por dentro.",
     emocion: "Calma", nicho: "Dinero", objetivo: "Guardados",
-    descripcion: "Conecta generosidad sana y bienestar. Guardable.",
+    descripcion: "🤍 Otra cara del dinero que pocos enseñan: la generosidad, bien medida, también es inteligencia financiera y emocional. Dar desde la abundancia (lo que de verdad puedes) y no desde la culpa o la presión, te hace más rico por dentro sin dejarte vacío por fuera. Ayudar también te construye. 🔖 Guárdalo, da que pensar.",
     hashtags: "#dinero #generosidad #finanzas #bienestar #mentalidad",
     prompt: "Manos compartiendo con calma desde un lugar de suficiencia, luz cálida, conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Cierre emocional"]
@@ -2861,7 +2861,7 @@ const LIBRARY = [
   {
     frase: "La motivación llega después de empezar, no antes. Mueve el cuerpo cinco minutos y las ganas suelen aparecer en el camino.",
     emocion: "Esperanza", nicho: "Hábitos", objetivo: "Compartidos",
-    descripcion: "Invierte la lógica motivación-acción. Accionable y compartible.",
+    descripcion: "🔥 Te derribo el mito más caro: la motivación no llega antes de actuar, llega DESPUÉS de empezar. Por eso esperar a «tener ganas» es esperar para siempre. Muévete cinco minutos, da el primer paso aunque sea sin ánimo, y verás cómo las ganas aparecen en el camino. ✨ Comparte con quien siempre espera estar motivado.",
     hashtags: "#habitos #motivacion #disciplina #accion #productividad",
     prompt: "Persona dando los primeros pasos y la energía encendiéndose en el camino, conceptual.",
     tecnicas: ["Antítesis", "Reframe", "Llamado a la acción"]
@@ -2869,7 +2869,7 @@ const LIBRARY = [
   {
     frase: "Disciplina es libertad: cada cosa que automatizas te quita una decisión y te devuelve energía para lo que importa.",
     emocion: "Orgullo", nicho: "Hábitos", objetivo: "Guardados",
-    descripcion: "Reencuadra la disciplina como libertad. Guardable.",
+    descripcion: "🧠 Reencuadre que cambia tu relación con la disciplina: no es una cárcel, es libertad. Cada hábito que automatizas (la rutina, el horario, lo que comes) te quita una decisión de encima y te devuelve energía mental para lo que de verdad importa. Las personas «libres» suelen tener mucha estructura. 🔖 Guárdalo, esto reordena tu vida.",
     hashtags: "#disciplina #habitos #libertad #productividad #mentalidad",
     prompt: "Persona con una rutina fluida que le abre tiempo libre al fondo, luz cálida, conceptual.",
     tecnicas: ["Reframe", "Causa-efecto", "Cierre potente"]
@@ -2877,7 +2877,7 @@ const LIBRARY = [
   {
     frase: "Gestiona tu energía, no solo tu tiempo. De nada sirven dos horas libres si llegas a ellas vacío.",
     emocion: "Calma", nicho: "Hábitos", objetivo: "Compartidos",
-    descripcion: "Cambia el foco del tiempo a la energía. Reflexiva y compartible.",
+    descripcion: "🔋 Cambio de enfoque que lo mejora todo: deja de gestionar solo tu tiempo y empieza a gestionar tu energía. De nada te sirven dos horas libres si llegas a ellas agotado y vacío. Cuida cuándo y en qué gastas tus fuerzas, no solo tus minutos. La energía es el recurso real. ✨ Comparte con quien vive cansado.",
     hashtags: "#productividad #energia #habitos #bienestar #enfoque",
     prompt: "Batería personal junto a un reloj, ambas en equilibrio, estética conceptual.",
     tecnicas: ["Antítesis", "Reframe", "Metáfora"]
@@ -2885,7 +2885,7 @@ const LIBRARY = [
   {
     frase: "Al principio fue perfecto, demasiado perfecto. El exceso de intensidad temprana a veces no es amor: es una estrategia.",
     emocion: "Sorpresa", nicho: "Narcisismo", objetivo: "Guardados",
-    descripcion: "Describe el 'love bombing' inicial. Revelador y guardable.",
+    descripcion: "🚩 Atención a esta bandera roja disfrazada de romance: al inicio todo fue perfecto, intenso, rapidísimo, «nunca había sentido esto tan pronto». A veces ese exceso de intensidad temprana no es amor verdadero, es 'love bombing': te llenan para engancharte. El amor sano va a paso firme, no a velocidad sospechosa. 🔖 Guárdalo, esto abre ojos.",
     hashtags: "#narcisismo #lovebombing #relacionestoxicas #limites #conciencia",
     prompt: "Lluvia de regalos y halagos rodeando a una persona confundida, estética conceptual.",
     tecnicas: ["Revelación", "Open Loop", "Reframe"]
@@ -2893,7 +2893,7 @@ const LIBRARY = [
   {
     frase: "Pasó de ponerte en un pedestal a hacerte sentir que no valías nada. Ese cambio brusco no fuiste tú: fue su patrón.",
     emocion: "Tristeza", nicho: "Narcisismo", objetivo: "Compartidos",
-    descripcion: "Describe la fase de devaluación tras la idealización. Validante.",
+    descripcion: "💔 Si viviste este vaivén, no fue tu culpa: pasaron de ponerte en un pedestal a hacerte sentir que no valías nada, sin que tú cambiaras en nada. Ese giro brusco (idealización y luego devaluación) es un patrón conocido en relaciones tóxicas, no un reflejo de lo que tú vales. ✨ Comparte para que alguien lo reconozca.",
     hashtags: "#narcisismo #devaluacion #relacionestoxicas #saludmental #conciencia",
     prompt: "Persona cayendo de un pedestal de luz hacia la sombra, estética conceptual.",
     tecnicas: ["Revelación", "Reframe", "Espejo emocional"]
@@ -2901,7 +2901,7 @@ const LIBRARY = [
   {
     frase: "Te ignoró en silencio hasta que cediste. El silencio como castigo no es paz: es control sin levantar la voz.",
     emocion: "Enojo", nicho: "Manipulación", objetivo: "Comentarios",
-    descripcion: "Describe el 'stonewalling'/ley del hielo. Genera debate.",
+    descripcion: "🚩 Que no te confundan: el silencio que usan para castigarte hasta que cedes no es «necesitar espacio», es la ley del hielo, una forma de control sin levantar la voz. Te enseña a callar y obedecer con tal de que vuelvan a hablarte. El amor sano dialoga, no congela. 👇 ¿Has vivido la ley del hielo? Cuéntalo abajo.",
     hashtags: "#manipulacion #leydelhielo #relacionestoxicas #limites #conciencia",
     prompt: "Persona hablando a un muro frío mientras otra se cierra, luz fría, conceptual.",
     tecnicas: ["Reframe", "Revelación", "Gancho de debate"]
@@ -2909,7 +2909,7 @@ const LIBRARY = [
   {
     frase: "Te repetían que exagerabas hasta que dudaste de tu propia memoria. Reconocer eso ya es empezar a recuperar tu voz.",
     emocion: "Esperanza", nicho: "Manipulación", objetivo: "Guardados",
-    descripcion: "Cierra el tema del gaslighting con esperanza. Guardable.",
+    descripcion: "🚩 Si llegaste a dudar de tu propia memoria, lee esto: que te repitan «exageras», «eso no pasó», «estás loca» hasta que ya no confías en lo que viviste, tiene nombre: gaslighting. Reconocer que te lo hicieron no es poca cosa, es el primer paso para recuperar tu voz y tu certeza. 🔖 Guárdalo, esto libera a mucha gente.",
     hashtags: "#gaslighting #manipulacion #relacionestoxicas #saludmental #conciencia",
     prompt: "Persona recuperando claridad y saliendo de la niebla hacia la luz, conceptual.",
     tecnicas: ["Reframe", "Validación emocional", "Cierre potente"]
@@ -2919,7 +2919,7 @@ const LIBRARY = [
   {
     frase: "Estás hecho, literalmente, de polvo de estrellas. Los átomos de tu cuerpo se forjaron en estrellas que murieron hace miles de millones de años.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato cósmico que conmueve. Muy compartible y poético.",
+    descripcion: "🌌 Dato que te hará sentir parte de algo enorme: estás hecho, literalmente, de polvo de estrellas. El calcio de tus huesos, el hierro de tu sangre, el oxígeno que respiras… todo se forjó en estrellas que explotaron hace miles de millones de años. Eres el universo conociéndose a sí mismo. ✨ Comparte, es de los datos más hermosos que existen.",
     hashtags: "#ciencia #universo #astronomia #polvodeestrellas #datoscuriosos",
     prompt: "Silueta humana hecha de estrellas y polvo cósmico, fondo de galaxia, estética conceptual.",
     tecnicas: ["Dato revelador", "Metáfora", "Cierre emocional"]
