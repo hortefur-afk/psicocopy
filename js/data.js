@@ -5945,6 +5945,284 @@ const LIBRARY = [
     hashtags: "#manipulacion #apoyo #saludmental #sanar #conciencia",
     prompt: "Persona reencontrándose con sus seres queridos, luz cálida, estética conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Cierre emocional"]
+  },
+
+  /* ========== LOTE 56 (Ciencia · mitos desmentidos y naturaleza) ========== */
+  {
+    frase: "El rayo sí puede caer dos veces en el mismo lugar; de hecho, en sitios altos cae muchas veces. Ese dicho popular es un mito.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
+    descripcion: "Desmiente el mito del rayo. Genera debate.",
+    hashtags: "#ciencia #mitos #rayos #datoscuriosos #curiosidades",
+    prompt: "Edificio alto recibiendo varios rayos en una tormenta, estética conceptual.",
+    tecnicas: ["Mito vs verdad", "Dato revelador", "Gancho de debate"]
+  },
+  {
+    frase: "No tragas arañas mientras duermes: es un mito que se repitió tanto que se volvió 'verdad'. La repetición no convierte algo en cierto.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Desmiente un mito popular. Compartible.",
+    hashtags: "#ciencia #mitos #datoscuriosos #curiosidades #verdades",
+    prompt: "Persona durmiendo tranquila sin arañas, estética conceptual amigable.",
+    tecnicas: ["Mito vs verdad", "Reframe", "Brevedad"]
+  },
+  {
+    frase: "Los toros no se enfurecen por el color rojo: no lo distinguen bien. Lo que los provoca es el movimiento de la tela.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Desmiente el mito del color rojo. Curioso y guardable.",
+    hashtags: "#ciencia #mitos #toros #animales #datoscuriosos",
+    prompt: "Toro reaccionando al movimiento de una tela, no a su color, estética conceptual.",
+    tecnicas: ["Mito vs verdad", "Dato revelador", "Reframe"]
+  },
+  {
+    frase: "Leer con poca luz cansa la vista, pero no la daña de forma permanente. Tu abuela tenía buena intención, pero ese era un mito.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
+    descripcion: "Desmiente el mito de leer con poca luz. Debatible.",
+    hashtags: "#ciencia #mitos #vista #cuerpo #datoscuriosos",
+    prompt: "Persona leyendo con luz tenue, estética conceptual cálida.",
+    tecnicas: ["Mito vs verdad", "Dato revelador", "Gancho de debate"]
+  },
+  {
+    frase: "Tronarte los dedos no te causa artritis: lo dicen los estudios. El sonido es solo una burbuja de gas reventando en la articulación.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Desmiente el mito de los nudillos. Curioso y guardable.",
+    hashtags: "#ciencia #mitos #cuerpo #salud #datoscuriosos",
+    prompt: "Mano tronando los dedos con una burbuja de gas ilustrada, estética conceptual.",
+    tecnicas: ["Mito vs verdad", "Dato revelador", "Reframe"]
+  },
+  {
+    frase: "Afeitarte no hace que el pelo crezca más grueso: solo lo corta en una punta más recta que parece más densa. Es una ilusión, no biología.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Desmiente el mito del afeitado. Compartible.",
+    hashtags: "#ciencia #mitos #cuerpo #datoscuriosos #curiosidades",
+    prompt: "Comparación visual de pelo cortado que parece más grueso pero no lo es, conceptual.",
+    tecnicas: ["Mito vs verdad", "Dato revelador", "Reframe"]
+  },
+  {
+    frase: "El vidrio de las ventanas antiguas no se 'escurre' con los años: es un mito. El vidrio es sólido, no un líquido lento.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Desmiente el mito del vidrio líquido. Curioso y guardable.",
+    hashtags: "#ciencia #mitos #vidrio #fisica #datoscuriosos",
+    prompt: "Ventana antigua con vidrio sólido, estética conceptual.",
+    tecnicas: ["Mito vs verdad", "Dato revelador", "Reframe"]
+  },
+  {
+    frase: "Las cigarras de algunas especies salen del suelo cada 13 o 17 años, números primos que dificultan que sus depredadores las esperen. La naturaleza también hace matemáticas.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Dato biológico fascinante. Compartible.",
+    hashtags: "#ciencia #cigarras #naturaleza #matematicas #datoscuriosos",
+    prompt: "Cigarras emergiendo del suelo tras años, estética conceptual.",
+    tecnicas: ["Dato revelador", "Curiosity Gap", "Reframe"]
+  },
+  {
+    frase: "El patrón de los girasoles y de muchas conchas sigue la secuencia de Fibonacci. La naturaleza repite la misma matemática en todas partes.",
+    emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Dato matemático en la naturaleza. Guardable.",
+    hashtags: "#ciencia #fibonacci #naturaleza #matematicas #datoscuriosos",
+    prompt: "Espiral de Fibonacci en un girasol y una concha, estética conceptual elegante.",
+    tecnicas: ["Dato revelador", "Reframe", "Curiosity Gap"]
+  },
+  {
+    frase: "Los delfines duermen con la mitad del cerebro a la vez: la otra mitad sigue despierta para respirar y vigilar. Descansan sin bajar del todo la guardia.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
+    descripcion: "Dato animal fascinante. Compartible.",
+    hashtags: "#ciencia #delfines #animales #sueño #datoscuriosos",
+    prompt: "Delfín descansando con medio cerebro activo, estética conceptual.",
+    tecnicas: ["Dato revelador", "Curiosity Gap", "Reframe"]
+  },
+  {
+    frase: "Las aves migratorias se guían por las estrellas y el campo magnético de la Tierra. Llevan una brújula interna que nosotros apenas entendemos.",
+    emocion: "Esperanza", nicho: "Ciencia", objetivo: "Guardados",
+    descripcion: "Dato animal asombroso. Guardable.",
+    hashtags: "#ciencia #aves #migracion #naturaleza #datoscuriosos",
+    prompt: "Bandada de aves migrando bajo un cielo estrellado, estética conceptual.",
+    tecnicas: ["Dato revelador", "Metáfora", "Reframe"]
+  },
+  {
+    frase: "Tu cerebro borra los parpadeos para que no veas oscuridad cada segundo. Vives una película editada sin darte cuenta del corte.",
+    emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
+    descripcion: "Explica el enmascaramiento sacádico. Genera asombro y debate.",
+    hashtags: "#ciencia #cerebro #percepcion #vista #datoscuriosos",
+    prompt: "Visión continua a pesar de los parpadeos, estética conceptual.",
+    tecnicas: ["Dato revelador", "Curiosity Gap", "Gancho de debate"]
+  },
+
+  /* ========== LOTE 57 (Psicología / Relaciones / Autoestima) ========== */
+  {
+    frase: "No controlas la tormenta, solo cómo ajustas tus velas. Gastar energía en lo que no depende de ti es agotarte sin avanzar.",
+    emocion: "Calma", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "Aplica la dicotomía del control con metáfora. Compartible.",
+    hashtags: "#psicologia #control #estoicismo #saludmental #mentalidad",
+    prompt: "Persona ajustando las velas de un bote en la tormenta con calma, conceptual.",
+    tecnicas: ["Metáfora", "Reframe", "Regla de oro"]
+  },
+  {
+    frase: "No todo merece tu reacción. A veces el silencio no es debilidad: es la forma más elegante de respetarte.",
+    emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Reencuadra el silencio como autorrespeto. Guardable.",
+    hashtags: "#psicologia #pazmental #limites #saludmental #madurez",
+    prompt: "Persona eligiendo el silencio sereno ante una provocación, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Brevedad"]
+  },
+  {
+    frase: "El duelo viene en olas: a veces calma, a veces te tumba. No tienes que estar 'bien' en línea recta para estar sanando.",
+    emocion: "Tristeza", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "Valida el duelo no lineal. Compartible.",
+    hashtags: "#psicologia #duelo #emociones #saludmental #sanar",
+    prompt: "Olas que suben y bajan junto a una persona en la orilla, estética conceptual.",
+    tecnicas: ["Metáfora", "Reframe", "Validación emocional"]
+  },
+  {
+    frase: "Tus emociones son válidas; tus reacciones son tu responsabilidad. Sentir no se elige, pero qué haces con eso, sí.",
+    emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Distingue sentir de actuar con responsabilidad. Guardable.",
+    hashtags: "#psicologia #emociones #responsabilidad #saludmental #inteligenciaemocional",
+    prompt: "Persona sintiendo y eligiendo su respuesta con calma, estética conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Regla de oro"]
+  },
+  {
+    frase: "Puedes estar orgulloso de lo que lograste y aun así querer más. La gratitud y la ambición no se pelean: caminan juntas.",
+    emocion: "Esperanza", nicho: "Psicología", objetivo: "Compartidos",
+    descripcion: "Une gratitud y ambición. Compartible.",
+    hashtags: "#psicologia #gratitud #ambicion #mentalidad #crecimientopersonal",
+    prompt: "Persona celebrando un logro mientras mira con ilusión el siguiente, conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Cierre potente"]
+  },
+  {
+    frase: "Deja de buscar lógica en quien te hizo daño. Entender por qué te lastimaron no es requisito para soltarlo y seguir.",
+    emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
+    descripcion: "Libera de la necesidad de entenderlo todo. Guardable.",
+    hashtags: "#psicologia #soltar #saludmental #sanar #pazmental",
+    prompt: "Persona dejando de buscar respuestas y avanzando en paz, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
+  },
+  {
+    frase: "Un 'tal vez' suele ser un 'no' con pasos extra. Quien te quiere claro no te deja viviendo en la sala de espera.",
+    emocion: "Enojo", nicho: "Relaciones", objetivo: "Comentarios",
+    descripcion: "Interpreta el 'tal vez' como negativa. Genera debate.",
+    hashtags: "#relaciones #amorpropio #limites #parejas #frases",
+    prompt: "Persona saliendo de una sala de espera eterna con dignidad, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Gancho de debate"]
+  },
+  {
+    frase: "Si tienes que convencer a alguien de quedarse, en el fondo ya se fue. El amor que se ruega no se sostiene.",
+    emocion: "Tristeza", nicho: "Relaciones", objetivo: "Compartidos",
+    descripcion: "Confronta el rogar por una relación. Identificación.",
+    hashtags: "#relaciones #amorpropio #desamor #limites #frases",
+    prompt: "Persona soltando con dignidad a quien ya no quería quedarse, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre emocional"]
+  },
+  {
+    frase: "Deja de aceptar 'casi amor'. Mereces algo que no tengas que justificar ni explicar, que simplemente se sienta seguro.",
+    emocion: "Orgullo", nicho: "Relaciones", objetivo: "Guardados",
+    descripcion: "Confronta conformarse con 'casi amor'. Guardable.",
+    hashtags: "#relaciones #amorpropio #merecer #limites #frases",
+    prompt: "Persona esperando un amor pleno en lugar de uno a medias, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
+  },
+  {
+    frase: "No le debes a nadie una versión más pequeña de ti. Brillar no es presumir: es dejar de pedir disculpas por existir.",
+    emocion: "Orgullo", nicho: "Autoestima", objetivo: "Compartidos",
+    descripcion: "Empodera a no reducirse. Compartible.",
+    hashtags: "#autoestima #empoderamiento #amorpropio #autenticidad #frases",
+    prompt: "Persona brillando con luz propia sin disculparse, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
+  },
+  {
+    frase: "Deja de negociar tu valor. No bajes el precio de tu paz solo para que alguien por fin te diga que sí.",
+    emocion: "Orgullo", nicho: "Autoestima", objetivo: "Guardados",
+    descripcion: "Defiende no rebajar el propio valor. Guardable.",
+    hashtags: "#autoestima #amorpropio #valor #limites #frases",
+    prompt: "Persona manteniendo firme su valor sin rebajarlo, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Regla de oro"]
+  },
+  {
+    frase: "Puedes ser suave y fuerte a la vez. La ternura no te resta poder: es la prueba de que el dolor no te endureció.",
+    emocion: "Orgullo", nicho: "Autoestima", objetivo: "Compartidos",
+    descripcion: "Une suavidad y fortaleza. Compartible.",
+    hashtags: "#autoestima #sensibilidad #fortaleza #amorpropio #frases",
+    prompt: "Persona suave y firme a la vez bajo luz cálida, estética conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Cierre potente"]
+  },
+
+  /* ========== LOTE 58 (Dinero / Hábitos / Narcisismo / Manipulación) ========== */
+  {
+    frase: "Gasta menos en impresionar y más en construir. La gente que te admira por lo que muestras se va cuando dejas de mostrarlo.",
+    emocion: "Sorpresa", nicho: "Dinero", objetivo: "Comentarios",
+    descripcion: "Confronta el gasto por estatus. Genera debate.",
+    hashtags: "#finanzas #dinero #apariencias #mentalidad #ahorro",
+    prompt: "Persona construyendo su futuro en vez de impresionar a otros, estética conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Gancho de debate"]
+  },
+  {
+    frase: "El presupuesto no te limita: te da el mapa. Saber a dónde va tu dinero es lo que te deja decidir a dónde quieres ir.",
+    emocion: "Esperanza", nicho: "Dinero", objetivo: "Guardados",
+    descripcion: "Reencuadra el presupuesto como mapa. Guardable.",
+    hashtags: "#finanzas #presupuesto #dinero #libertadfinanciera #habitos",
+    prompt: "Persona siguiendo un mapa financiero claro hacia sus metas, estética conceptual.",
+    tecnicas: ["Reframe", "Metáfora", "Antítesis"]
+  },
+  {
+    frase: "Cada 'sí' impulsivo es un 'no' silencioso a una meta más grande. El dinero que gastas hoy sin pensar es libertad que aplazas.",
+    emocion: "Calma", nicho: "Dinero", objetivo: "Compartidos",
+    descripcion: "Conecta gasto impulsivo y metas. Compartible.",
+    hashtags: "#finanzas #dinero #impulso #metas #mentalidad",
+    prompt: "Persona eligiendo su meta mayor por encima de un capricho, estética conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Causa-efecto"]
+  },
+  {
+    frase: "Hazlo aunque sea mal: hecho le gana a perfecto. La acción imperfecta de hoy vale más que el plan impecable de nunca.",
+    emocion: "Esperanza", nicho: "Hábitos", objetivo: "Compartidos",
+    descripcion: "Promueve la acción sobre el perfeccionismo. Compartible.",
+    hashtags: "#habitos #accion #perfeccionismo #disciplina #mentalidad",
+    prompt: "Persona avanzando imperfecta mientras el perfeccionista no arranca, conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Cierre potente"]
+  },
+  {
+    frase: "Tu rutina te lleva a donde tu fuerza de voluntad no llega. Lo que automatizas hoy te sostiene los días en que no puedes más.",
+    emocion: "Esperanza", nicho: "Hábitos", objetivo: "Guardados",
+    descripcion: "Refuerza la rutina sobre la voluntad. Guardable.",
+    hashtags: "#habitos #rutina #disciplina #productividad #mentalidad",
+    prompt: "Persona sostenida por su rutina en un día de pocas fuerzas, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Causa-efecto"]
+  },
+  {
+    frase: "Premia el regreso, no solo la racha. Volver después de fallar es el verdadero superpoder de quien sí logra cambiar.",
+    emocion: "Orgullo", nicho: "Hábitos", objetivo: "Compartidos",
+    descripcion: "Valora retomar tras fallar. Compartible.",
+    hashtags: "#habitos #constancia #resiliencia #disciplina #mejora",
+    prompt: "Persona celebrando volver a su rutina tras una pausa, estética conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
+  },
+  {
+    frase: "Su versión de los hechos siempre los dejaba como víctimas. Cuando alguien nunca tiene culpa de nada, el problema rara vez eres tú.",
+    emocion: "Sorpresa", nicho: "Narcisismo", objetivo: "Comentarios",
+    descripcion: "Señala el victimismo perpetuo. Genera debate.",
+    hashtags: "#narcisismo #relacionestoxicas #manipulacion #limites #conciencia",
+    prompt: "Figura presentándose siempre como víctima desviando la culpa, conceptual.",
+    tecnicas: ["Revelación", "Reframe", "Gancho de debate"]
+  },
+  {
+    frase: "Cuando pusiste límites, lo llamaron abandono. Cuidarte no es dejar a nadie: es dejar de dejarte a ti.",
+    emocion: "Orgullo", nicho: "Narcisismo", objetivo: "Compartidos",
+    descripcion: "Reencuadra los límites frente a la culpa. Compartible.",
+    hashtags: "#narcisismo #limites #relacionestoxicas #amorpropio #conciencia",
+    prompt: "Persona poniendo un límite con calma sin culpa, estética conceptual.",
+    tecnicas: ["Antítesis", "Reframe", "Cierre potente"]
+  },
+  {
+    frase: "Te enseñaron que pedir era exigir, para que dejaras de pedir. Recupera el derecho a necesitar: querer cosas no te hace difícil.",
+    emocion: "Esperanza", nicho: "Manipulación", objetivo: "Guardados",
+    descripcion: "Devuelve el derecho a tener necesidades. Guardable.",
+    hashtags: "#manipulacion #limites #necesidades #saludmental #conciencia",
+    prompt: "Persona expresando una necesidad con calma y derecho, estética conceptual.",
+    tecnicas: ["Revelación", "Reframe", "Cierre potente"]
+  },
+  {
+    frase: "Sanar es dejar de revisar si ya cambiaron. Tu paz no puede depender de que alguien por fin reconozca lo que te hizo.",
+    emocion: "Calma", nicho: "Manipulación", objetivo: "Compartidos",
+    descripcion: "Libera de esperar el reconocimiento del otro. Compartible.",
+    hashtags: "#manipulacion #sanar #saludmental #pazmental #conciencia",
+    prompt: "Persona soltando la espera de un reconocimiento ajeno, luz cálida, conceptual.",
+    tecnicas: ["Reframe", "Antítesis", "Cierre emocional"]
   }
 ];
 
