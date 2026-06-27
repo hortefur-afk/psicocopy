@@ -2927,7 +2927,7 @@ const LIBRARY = [
   {
     frase: "La luz del sol que ves tardó unos 8 minutos en llegar. Siempre miras un sol del pasado.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Curiosidad astronómica fascinante. Muy compartible.",
+    descripcion: "🌞 Dato que te vuela la cabeza: la luz del sol que ves ahora salió de ahí hace unos 8 minutos. Si el Sol se apagara en este instante, lo seguirías viendo brillar 8 minutos más. Siempre miras un sol del pasado. El universo está lleno de estos retrasos invisibles. ✨ Comparte, es de esos datos que dejan pensando.",
     hashtags: "#ciencia #sol #astronomia #universo #datoscuriosos",
     prompt: "Rayo de luz solar viajando por el espacio hacia la Tierra, estética conceptual cósmica.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Reframe"]
@@ -2935,7 +2935,7 @@ const LIBRARY = [
   {
     frase: "Hay más árboles en la Tierra que estrellas en nuestra galaxia. Lo inmenso a veces está bajo tus pies, no solo en el cielo.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato natural que invita a mirar lo cercano. Compartible.",
+    descripcion: "🌳 Dato que cambia tu perspectiva: hay más árboles en la Tierra que estrellas en toda nuestra galaxia. A veces buscamos lo inmenso mirando al cielo, cuando lo grandioso también está bajo nuestros pies, en lo que damos por sentado todos los días. ✨ Comparte y mira los árboles distinto hoy.",
     hashtags: "#ciencia #naturaleza #arboles #universo #datoscuriosos",
     prompt: "Bosque frondoso bajo un cielo estrellado, equilibrio entre tierra y cosmos, conceptual.",
     tecnicas: ["Dato revelador", "Antítesis", "Reframe"]
@@ -2943,7 +2943,7 @@ const LIBRARY = [
   {
     frase: "El pulpo tiene tres corazones y sangre azul. La naturaleza es mucho más extraña de lo que nos enseñaron.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Dato curioso de biología. Lúdico y genera respuestas.",
+    descripcion: "🐙 Dato que parece de otro planeta: el pulpo tiene TRES corazones y su sangre es azul, no roja. Además, dos de esos corazones dejan de latir cuando nada. La naturaleza es mucho más extraña y fascinante de lo que nos enseñaron en la escuela. 👇 ¿Conocías este dato del pulpo? Cuéntalo en los comentarios.",
     hashtags: "#ciencia #biologia #pulpo #naturaleza #datoscuriosos",
     prompt: "Pulpo elegante en aguas profundas con un brillo azulado, estética conceptual.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Gancho de debate"]
@@ -2951,7 +2951,7 @@ const LIBRARY = [
   {
     frase: "La miel no caduca: han encontrado tarros de miles de años aún comestibles. Algunas cosas, bien hechas, simplemente perduran.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Dato curioso con metáfora de durabilidad. Guardable.",
+    descripcion: "🍯 Dato precioso con lección incluida: la miel no caduca. Se han encontrado tarros de miles de años en tumbas antiguas, aún comestibles. Su composición la hace casi eterna. Algunas cosas, cuando están bien hechas, simplemente perduran… las personas también. 🔖 Guárdalo, da para reflexionar.",
     hashtags: "#ciencia #miel #naturaleza #datoscuriosos #curiosidades",
     prompt: "Tarro de miel dorada con luz cálida atravesándolo, estética conceptual.",
     tecnicas: ["Dato revelador", "Metáfora", "Reframe"]
@@ -2959,7 +2959,7 @@ const LIBRARY = [
   {
     frase: "Un día en Venus dura más que un año en Venus: gira tan lento que tarda más en girar que en orbitar al Sol.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Dato astronómico que rompe la lógica. Genera debate.",
+    descripcion: "🪐 Dato que rompe la lógica: en Venus, un día dura más que un año. Gira tan lento sobre sí mismo que tarda más en dar una vuelta completa que en orbitar al Sol. Si vivieras ahí, cumplirías «años» antes de ver un amanecer. El universo no sigue nuestras reglas. 👇 ¿Te explotó la cabeza? Cuéntalo abajo.",
     hashtags: "#ciencia #venus #astronomia #universo #datoscuriosos",
     prompt: "Planeta Venus girando lentamente frente al Sol, estética conceptual cósmica.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Gancho de debate"]
@@ -2967,7 +2967,7 @@ const LIBRARY = [
   {
     frase: "Los tiburones existían antes que los árboles. Llevan nadando más de 400 millones de años: son más antiguos que los bosques.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato impactante de historia natural. Compartible.",
+    descripcion: "🦈 Dato que descoloca el tiempo: los tiburones existían antes que los árboles. Llevan más de 400 millones de años en los océanos, sobreviviendo a varias extinciones masivas. Son más antiguos que los bosques, los dinosaurios e incluso los anillos de Saturno. ✨ Comparte este dato brutal.",
     hashtags: "#ciencia #tiburones #evolucion #naturaleza #datoscuriosos",
     prompt: "Tiburón antiguo nadando en un océano primitivo, estética conceptual evocadora.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Reframe"]
@@ -2975,7 +2975,7 @@ const LIBRARY = [
   {
     frase: "Un rayo es varias veces más caliente que la superficie del Sol. La furia de un instante puede superar a una estrella.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato meteorológico sorprendente. Muy compartible.",
+    descripcion: "⚡ Dato impresionante: un rayo puede alcanzar temperaturas varias veces más altas que la superficie del Sol, en una fracción de segundo. La furia de un solo instante puede superar a una estrella entera. La naturaleza concentra un poder que cuesta imaginar. ✨ Comparte, es de los datos más alucinantes que hay.",
     hashtags: "#ciencia #rayos #clima #fisica #datoscuriosos",
     prompt: "Rayo cayendo con energía intensa en un cielo oscuro, estética conceptual dramática.",
     tecnicas: ["Dato revelador", "Metáfora", "Curiosity Gap"]
@@ -2983,7 +2983,7 @@ const LIBRARY = [
   {
     frase: "La piel de gallina es un reflejo heredado de cuando teníamos pelaje. Tu cuerpo aún intenta erizar un abrigo que ya no existe.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Explica el origen evolutivo de la piel de gallina. Curioso y guardable.",
+    descripcion: "🧬 Dato curioso sobre tu cuerpo: la piel de gallina es un reflejo heredado de cuando nuestros ancestros tenían pelaje. Al erizar el «pelo» te veías más grande ante una amenaza o atrapabas calor. Hoy tu cuerpo sigue intentando levantar un abrigo que ya no existe. 🔖 Guárdalo, es fascinante cómo cargamos el pasado en la piel.",
     hashtags: "#ciencia #cuerpo #evolucion #datoscuriosos #biologia",
     prompt: "Primer plano de piel con vello erizado bajo luz suave, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Curiosity Gap"]
@@ -2991,7 +2991,7 @@ const LIBRARY = [
   {
     frase: "Tu corazón late unas 100.000 veces al día sin que se lo pidas. Tu cuerpo trabaja por ti incluso cuando crees que no haces nada.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato corporal con giro de gratitud. Reflexivo y compartible.",
+    descripcion: "❤️ Recordatorio que da gratitud: tu corazón late unas 100.000 veces al día sin que tengas que pedírselo, bombeando vida mientras duermes, trabajas o crees que «no haces nada». Tu cuerpo trabaja por ti sin descanso. A veces vale la pena agradecerle en lugar de solo exigirle. ✨ Comparte y agradécele a tu cuerpo hoy.",
     hashtags: "#ciencia #cuerpo #corazon #gratitud #datoscuriosos",
     prompt: "Corazón latiendo con pulsos de luz suave, estética conceptual cálida.",
     tecnicas: ["Dato revelador", "Reframe", "Cierre emocional"]
@@ -2999,7 +2999,7 @@ const LIBRARY = [
   {
     frase: "Lo que crees recordar de un momento intenso es vívido, pero no siempre exacto. La emoción graba fuerte, no perfecto.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Explica las memorias 'flashbulb'. Educativo y guardable.",
+    descripcion: "🧠 Dato sobre tu memoria que cambia discusiones: los recuerdos de momentos muy intensos se sienten vívidos y certeros… pero no siempre son exactos. La emoción graba con fuerza, no con precisión, y con los años se distorsionan. Por eso dos personas «recuerdan» distinto sin mentir. 🔖 Guárdalo, da humildad con tus propios recuerdos.",
     hashtags: "#ciencia #memoria #cerebro #emociones #datoscuriosos",
     prompt: "Recuerdo brillante pero ligeramente distorsionado en la mente, estética conceptual.",
     tecnicas: ["Dato revelador", "Antítesis", "Reframe"]
@@ -3007,7 +3007,7 @@ const LIBRARY = [
   {
     frase: "Cuando el miedo es extremo, una parte de tu cerebro toma el mando y apaga la razón. No eres débil por bloquearte: es biología.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Explica el 'secuestro de la amígdala'. Validante y compartible.",
+    descripcion: "🧠 Dato que te quita culpa: cuando el miedo es extremo, la amígdala (tu alarma cerebral) toma el control y apaga temporalmente la parte racional. Por eso te bloqueas, no reaccionas «como deberías» o te quedas en blanco. No es debilidad ni cobardía, es pura biología de supervivencia. ✨ Comparte para que alguien deje de culparse.",
     hashtags: "#ciencia #cerebro #miedo #emociones #saludmental",
     prompt: "Cerebro con la zona emocional iluminada dominando a la racional, estética conceptual.",
     tecnicas: ["Dato revelador", "Validación emocional", "Reframe"]
@@ -3017,7 +3017,7 @@ const LIBRARY = [
   {
     frase: "Damos por hecho que entendimos a alguien cuando en realidad llenamos los huecos con nuestras suposiciones. Pregunta antes de juzgar.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Comentarios",
-    descripcion: "Invita a no asumir intenciones. Reflexiva y debatible.",
+    descripcion: "🧠 Origen de la mitad de los conflictos: creemos que entendimos a alguien, pero en realidad llenamos los huecos de información con nuestras propias suposiciones y miedos. Reaccionamos a la historia que inventamos, no a lo que pasó. Preguntar antes de juzgar ahorra muchísimo dolor. 👇 ¿Te ha pasado pelear por algo que malinterpretaste? Cuéntalo.",
     hashtags: "#psicologia #comunicacion #suposiciones #relaciones #mente",
     prompt: "Dos personas con globos de pensamiento distintos sobre la misma escena, conceptual.",
     tecnicas: ["Reframe", "Causa-efecto", "Gancho de debate"]
@@ -3025,7 +3025,7 @@ const LIBRARY = [
   {
     frase: "Subestimamos cuánto tardaremos en hacer las cosas, una y otra vez. No eres desorganizado: tu mente es optimista con el tiempo.",
     emocion: "Sorpresa", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Explica la falacia de planificación. Útil y guardable.",
+    descripcion: "🧠 Dato que te quita culpa de encima: subestimar cuánto vas a tardar en algo no es desorganización, es un sesgo que tenemos todos. Se llama falacia de planificación: la mente es optimista con el tiempo. Por eso conviene calcular tu estimación… y sumarle un buen extra. 🔖 Guárdalo y planifica con margen.",
     hashtags: "#psicologia #productividad #tiempo #sesgos #planificacion",
     prompt: "Reloj y una lista de tareas más larga de lo previsto, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Validación emocional"]
@@ -3033,7 +3033,7 @@ const LIBRARY = [
   {
     frase: "Cuando algo sale mal, culpamos a la persona; cuando nos pasa a nosotros, culpamos a la situación. Sé justo: aplica la misma vara.",
     emocion: "Sorpresa", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "Explica el error fundamental de atribución. Reflexivo.",
+    descripcion: "🧠 Sesgo que te vuelve injusto sin notarlo: cuando otro falla, piensas «es un irresponsable»; cuando fallas tú, piensas «es que tuve un mal día». Juzgas a los demás por sus actos y a ti por tus intenciones. Aplicar la misma vara para todos te vuelve más justo y más empático. 👇 ¿Te pillaste haciéndolo? Te leo abajo.",
     hashtags: "#psicologia #sesgos #empatia #juicio #crecimientopersonal",
     prompt: "Balanza desigual al juzgar a otros y a uno mismo, estética conceptual.",
     tecnicas: ["Dato revelador", "Antítesis", "Reframe"]
@@ -3041,7 +3041,7 @@ const LIBRARY = [
   {
     frase: "Lo que resistes, persiste. Pelear con una emoción la agranda; nombrarla y dejarla pasar la disuelve.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Principio de aceptación emocional. Accionable y guardable.",
+    descripcion: "🧠 Clave emocional que pocos aplican: lo que resistes, persiste. Mientras más peleas con una emoción («no debería sentir esto»), más fuerte se vuelve. En cambio, nombrarla («estoy triste, y está bien») y dejarla pasar como una ola, la disuelve. No la reprimas ni la persigas: obsérvala. 🔖 Guárdalo, esto calma de verdad.",
     hashtags: "#psicologia #emociones #aceptacion #saludmental #bienestar",
     prompt: "Ola que pasa sin resistencia bajo una persona en calma, estética conceptual serena.",
     tecnicas: ["Reframe", "Antítesis", "Metáfora"]
@@ -3049,7 +3049,7 @@ const LIBRARY = [
   {
     frase: "El niño que fuiste sigue ahí, buscando lo que entonces le faltó. Date hoy la paciencia que esperabas de los demás.",
     emocion: "Tristeza", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "Trabaja el concepto de niño interior. Emotiva y compartible.",
+    descripcion: "🧸 Mensaje que sana: el niño que fuiste sigue dentro de ti, buscando la atención, el cariño o la paciencia que entonces le faltaron. Hoy ya eres el adulto que puede dárselos. Háblate suave, cuídate, date lo que esperabas que otros te dieran. Sanar también es eso. ✨ Comparte si necesitabas leerlo.",
     hashtags: "#psicologia #niñointerior #sanar #saludmental #autocompasion",
     prompt: "Adulto abrazando con ternura a su versión de niño, luz cálida, estética conceptual.",
     tecnicas: ["Reframe", "Espejo emocional", "Cierre emocional"]
@@ -3057,7 +3057,7 @@ const LIBRARY = [
   {
     frase: "Estar disponible para todos te deja sin nadie para ti. Decir 'no' a veces es decirte 'sí' a ti mismo.",
     emocion: "Orgullo", nicho: "Psicología", objetivo: "Guardados",
-    descripcion: "Refuerza los límites como autocuidado. Guardable.",
+    descripcion: "🧠 Verdad sobre los límites: si siempre estás disponible para todos, terminas sin energía ni tiempo para ti. Cada «sí» que das por compromiso o culpa es un «no» silencioso a tus propias necesidades. Decir «no» a veces es la forma más sana de decirte «sí». 🔖 Guárdalo y empieza a elegirte.",
     hashtags: "#psicologia #limites #autocuidado #amorpropio #saludmental",
     prompt: "Persona reservando un espacio propio en su agenda con calma, estética conceptual.",
     tecnicas: ["Antítesis", "Reframe", "Regla de oro"]
@@ -3065,7 +3065,7 @@ const LIBRARY = [
   {
     frase: "Perseguir a quien se aleja solo le enseña que puede irse y volver cuando quiera. El que se queda no debería tener que correr.",
     emocion: "Enojo", nicho: "Relaciones", objetivo: "Comentarios",
-    descripcion: "Confronta la dinámica de perseguir. Genera debate.",
+    descripcion: "🚩 Verdad que cuesta aplicar: perseguir a quien se aleja solo le enseña que puede irse y volver cuando quiera, porque siempre estarás ahí esperando. El que de verdad quiere quedarse no te hace correr detrás. Dejar de perseguir no es orgullo, es respeto propio. 👇 ¿Te ha tocado perseguir a alguien que solo iba y venía? Cuéntalo.",
     hashtags: "#relaciones #amorpropio #limites #parejas #frases",
     prompt: "Persona deteniéndose en una persecución y recuperando su dignidad, conceptual.",
     tecnicas: ["Reframe", "Causa-efecto", "Gancho de debate"]
@@ -3073,7 +3073,7 @@ const LIBRARY = [
   {
     frase: "Si te dejan en la incertidumbre a propósito, no es despiste: es una forma de tenerte esperando. Mereces claridad, no migajas.",
     emocion: "Enojo", nicho: "Relaciones", objetivo: "Compartidos",
-    descripcion: "Señala el 'breadcrumbing'. Identificación fuerte.",
+    descripcion: "🚩 Aprende a leer esta señal: cuando alguien te deja en la incertidumbre constante (ni sí ni no, ni adelante ni atrás), muchas veces no es despiste, es una forma de tenerte esperando y disponible sin comprometerse. Mereces claridad, no migajas de atención. ✨ Comparte para que alguien deje de conformarse con dudas.",
     hashtags: "#relaciones #breadcrumbing #limites #amorpropio #verdades",
     prompt: "Rastro de migajas de luz que nunca llega a una mesa servida, estética conceptual.",
     tecnicas: ["Revelación", "Metáfora", "Reframe"]
@@ -3081,7 +3081,7 @@ const LIBRARY = [
   {
     frase: "La química te atrae, pero la compatibilidad te sostiene. Una enciende la chispa; la otra mantiene el fuego.",
     emocion: "Calma", nicho: "Relaciones", objetivo: "Guardados",
-    descripcion: "Distingue química de compatibilidad. Madura y guardable.",
+    descripcion: "❤️ Distinción que salva relaciones: la química te atrae, te emociona, te enciende… pero es la compatibilidad la que sostiene una relación en el tiempo. Una prende la chispa; la otra mantiene el fuego. Por eso una conexión intensa no siempre dura, y una tranquila a veces es para siempre. 🔖 Guárdalo para elegir mejor.",
     hashtags: "#relaciones #amor #compatibilidad #parejas #frases",
     prompt: "Chispa inicial frente a una hoguera estable y duradera, estética conceptual cálida.",
     tecnicas: ["Antítesis", "Metáfora", "Reframe"]
@@ -3089,7 +3089,7 @@ const LIBRARY = [
   {
     frase: "Comparar tu vida con la de otros es como medir tu capítulo 3 con el capítulo 20 de alguien más. Cada quien va por su página.",
     emocion: "Calma", nicho: "Autoestima", objetivo: "Compartidos",
-    descripcion: "Metáfora contra la comparación. Compartible.",
+    descripcion: "📖 Recordatorio para tus días de comparación: medir tu vida con la de otros es como comparar tu capítulo 3 con el capítulo 20 de alguien más. No ves todo lo que esa persona vivió para llegar ahí. Cada quien va por su propia página, a su propio ritmo. ✨ Comparte con quien se compara y se siente atrás.",
     hashtags: "#autoestima #comparacion #ritmopropio #amorpropio #bienestar",
     prompt: "Dos libros abiertos en capítulos distintos, luz cálida, estética conceptual.",
     tecnicas: ["Metáfora", "Reframe", "Cierre emocional"]
@@ -3097,7 +3097,7 @@ const LIBRARY = [
   {
     frase: "No bajes el precio de tu paz para entrar en lugares donde no te valoran. Hay puertas que es mejor dejar cerradas.",
     emocion: "Orgullo", nicho: "Autoestima", objetivo: "Guardados",
-    descripcion: "Empodera a no rebajarse por pertenecer. Guardable.",
+    descripcion: "🚪 Recordatorio de amor propio: no rebajes el valor de tu paz para encajar donde no te valoran ni te quieren de verdad. Hay puertas, grupos y relaciones que es mejor dejar cerradas, por mucho que quieras entrar. Pertenecer a costa de tu tranquilidad sale carísimo. 🔖 Guárdalo y elige tu paz.",
     hashtags: "#autoestima #amorpropio #limites #pazmental #valor",
     prompt: "Persona alejándose serena de una puerta cerrada hacia un camino luminoso, conceptual.",
     tecnicas: ["Reframe", "Metáfora", "Regla de oro"]
@@ -3105,7 +3105,7 @@ const LIBRARY = [
   {
     frase: "Tu cicatriz no es una falla: es la prueba de que sanaste algo que creíste que iba a acabar contigo.",
     emocion: "Orgullo", nicho: "Autoestima", objetivo: "Compartidos",
-    descripcion: "Reencuadra las heridas superadas como fortaleza. Compartible.",
+    descripcion: "🌟 Cambia cómo ves tus heridas: esa cicatriz (física o del alma) no es una falla ni algo que esconder. Es la prueba de que sobreviviste a algo que creíste que iba a acabar contigo. No te marca como roto, te marca como alguien que sanó. Llévala con orgullo. ✨ Comparte con quien necesita ver sus cicatrices distinto.",
     hashtags: "#autoestima #superacion #resiliencia #sanar #fortaleza",
     prompt: "Cicatriz iluminada con luz dorada como símbolo de fuerza, estética conceptual.",
     tecnicas: ["Reframe", "Metáfora", "Cierre potente"]
@@ -3115,7 +3115,7 @@ const LIBRARY = [
   {
     frase: "El dinero no resuelve todos los problemas, pero la pobreza tampoco tiene nada de romántico. La calma financiera también es salud.",
     emocion: "Calma", nicho: "Dinero", objetivo: "Comentarios",
-    descripcion: "Frase equilibrada sobre el dinero. Genera debate sano.",
+    descripcion: "🔥 Hablemos sin hipocresía: es cierto que el dinero no compra la felicidad ni resuelve todo… pero vivir con angustia económica tampoco tiene nada de romántico ni de noble. La estabilidad financiera baja el estrés, mejora el sueño y la salud. La calma de no deber también es bienestar. 👇 ¿Crees que romantizamos demasiado la pobreza? Te leo abajo.",
     hashtags: "#dinero #finanzas #bienestar #mentalidad #verdades",
     prompt: "Persona en calma revisando sus cuentas con tranquilidad, luz cálida, estética serena.",
     tecnicas: ["Antítesis", "Reframe", "Gancho de debate"]
