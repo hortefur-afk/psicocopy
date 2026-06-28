@@ -9,6 +9,31 @@
   const el = (tag, cls, html) => { const n = document.createElement(tag); if (cls) n.className = cls; if (html != null) n.innerHTML = html; return n; };
   const esc = (s) => String(s).replace(/[&<>"]/g, m => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[m]));
 
+  /* =================================================================
+     "YA USADAS" — registro persistente de publicaciones utilizadas
+     Permite marcar cada post como usado para no repetirlo en Facebook.
+     Se guarda en localStorage usando un id estable derivado de la frase.
+     ================================================================= */
+  const USED_KEY = "psicocopy-used";
+  const hashId = (str) => {
+    let h = 0;
+    for (let i = 0; i < str.length; i++) { h = (h << 5) - h + str.charCodeAt(i); h |= 0; }
+    return "p" + (h >>> 0).toString(36);
+  };
+  const Used = (function () {
+    let set = new Set();
+    try { set = new Set(JSON.parse(localStorage.getItem(USED_KEY) || "[]")); } catch (e) {}
+    const save = () => { try { localStorage.setItem(USED_KEY, JSON.stringify([...set])); } catch (e) {} };
+    const idOf = (p) => hashId(p.frase);
+    return {
+      has:    (p) => set.has(idOf(p)),
+      toggle: (p) => { const k = idOf(p); if (set.has(k)) set.delete(k); else set.add(k); save(); return set.has(k); },
+      count:  () => set.size,
+      clear:  () => { set.clear(); save(); }
+    };
+  })();
+  const emitUsedChange = () => document.dispatchEvent(new CustomEvent("psc-used-change"));
+
   /* ---------- Refs ---------- */
   const cover      = $("#cover");
   const app        = $("#app");
@@ -146,13 +171,21 @@
      SECCIONES ESPECIALES
      ================================================================= */
   function renderBiblioteca(target) {
+    // Resumen en vivo de progreso (disponibles / usadas)
+    const summary = el("div", "used-summary");
+    summary.id = "usedSummary";
+    const resetBtn = el("button", "btn btn--ghost reset-used", "♻️ Reiniciar marcadas");
+    const summaryRow = el("div", "summary-row");
+    summaryRow.append(summary, resetBtn);
+
     const filters = el("div");
     const groups = [
+      { label: "Estado",  key: "estado",  opts: ["Todas", "✅ Disponibles", "✔️ Ya usadas"], special: true },
       { label: "Emoción", key: "emocion", opts: EMOTIONS },
       { label: "Nicho",   key: "nicho",   opts: NICHES },
       { label: "Objetivo",key: "objetivo",opts: GOALS }
     ];
-    const state = { emocion: null, nicho: null, objetivo: null };
+    const state = { emocion: null, nicho: null, objetivo: null, estado: "Todas" };
     const list = el("div");
 
     groups.forEach(g => {
@@ -161,9 +194,15 @@
       const chips = el("div", "chips");
       g.opts.forEach(opt => {
         const chip = el("button", "chip", esc(opt));
+        if (g.special && opt === state.estado) chip.classList.add("is-active");
         chip.addEventListener("click", () => {
-          state[g.key] = state[g.key] === opt ? null : opt;
-          $$(".chip", chips).forEach(c => c.classList.toggle("is-active", c.textContent === state[g.key]));
+          if (g.special) {
+            state.estado = opt; // el estado siempre tiene una opción activa
+          } else {
+            state[g.key] = state[g.key] === opt ? null : opt;
+          }
+          $$(".chip", chips).forEach(c => c.classList.toggle("is-active",
+            g.special ? c.textContent === state.estado : c.textContent === state[g.key]));
           paint();
         });
         chips.appendChild(chip);
@@ -172,20 +211,49 @@
       filters.appendChild(row);
     });
 
+    function matchEstado(p) {
+      if (state.estado === "✅ Disponibles") return !Used.has(p);
+      if (state.estado === "✔️ Ya usadas")  return Used.has(p);
+      return true;
+    }
+
     function paint() {
       list.innerHTML = "";
       const res = LIBRARY.filter(p =>
         (!state.emocion || p.emocion === state.emocion) &&
         (!state.nicho || p.nicho === state.nicho) &&
-        (!state.objetivo || p.objetivo === state.objetivo));
+        (!state.objetivo || p.objetivo === state.objetivo) &&
+        matchEstado(p));
       list.appendChild(el("div", "result-meta", `${res.length} publicación(es)`));
       if (!res.length) { list.appendChild(el("div", "search-empty", "No hay resultados con esos filtros.")); return; }
       renderPaged(list, res, 30);
     }
 
-    target.append(filters, el("hr", "hr"), list);
+    resetBtn.addEventListener("click", () => {
+      if (Used.count() === 0) return;
+      if (confirm("¿Quitar la marca de TODAS las publicaciones usadas? Esto no se puede deshacer.")) {
+        Used.clear();
+        emitUsedChange();
+        paint();
+      }
+    });
+
+    target.append(summaryRow,
+      el("div", "used-hint", "💡 Marca cada publicación que uses para no repetirla. Filtra por «✅ Disponibles» para ver solo las que te faltan."),
+      filters, el("hr", "hr"), list);
+    updateUsedSummary();
     paint();
   }
+
+  // Actualiza el contador global de usadas/disponibles (si está visible)
+  function updateUsedSummary() {
+    const node = document.getElementById("usedSummary");
+    if (!node) return;
+    const total = LIBRARY.length;
+    const used = Used.count();
+    node.innerHTML = `✅ <b>${(total - used).toLocaleString("es")}</b> disponibles &nbsp;·&nbsp; ✔️ <b>${used.toLocaleString("es")}</b> ya usadas <span>(de ${total.toLocaleString("es")})</span>`;
+  }
+  document.addEventListener("psc-used-change", updateUsedSummary);
 
   function buildImagePrompt(p) {
     const paleta = (typeof EMOTION_PALETTE !== "undefined" && EMOTION_PALETTE[p.emocion]) || "iluminación natural equilibrada";
@@ -203,6 +271,27 @@
 
   function buildPost(p) {
     const post = el("div", "post");
+    if (Used.has(p)) post.classList.add("is-used");
+
+    // Cabecera: insignia de estado + botón para marcar/desmarcar como usada
+    const head = el("div", "post__head");
+    const badge = el("span", "used-badge", "✔️ Ya usada");
+    const markBtn = el("button", "btn btn--ghost mark-btn");
+    const syncLabel = () => {
+      markBtn.innerHTML = post.classList.contains("is-used")
+        ? "↩️ Quitar marca"
+        : "✓ Marcar como usada";
+    };
+    syncLabel();
+    markBtn.addEventListener("click", () => {
+      const nowUsed = Used.toggle(p);
+      post.classList.toggle("is-used", nowUsed);
+      syncLabel();
+      emitUsedChange();
+    });
+    head.append(badge, markBtn);
+    post.appendChild(head);
+
     post.appendChild(el("div", "frase", esc(p.frase)));
     const meta = el("div", "meta chips");
     [p.emocion, p.nicho, p.objetivo].forEach(t => meta.appendChild(el("span", "chip", esc(t))));

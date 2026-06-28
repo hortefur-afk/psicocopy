@@ -384,10 +384,40 @@ h1, h2, h3, h4, .logo { font-family: var(--font-display); line-height: 1.15; }
 .post {
   background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
   padding: 1.3rem 1.4rem; margin: 1rem 0;
+  transition: opacity var(--transition), border-color var(--transition);
 }
 .post .frase { font-family: var(--font-display); font-weight: 600; font-size: 1.15rem; line-height: 1.45; }
 .post .meta { display: flex; gap: .5rem; flex-wrap: wrap; margin: .8rem 0; }
 .post .micro { font-size: .72rem; color: var(--text-faint); margin-top: .8rem; }
+
+/* Cabecera del post + marcar como usada */
+.post__head { display: flex; align-items: center; gap: .6rem; min-height: 2rem; margin-bottom: .5rem; }
+.mark-btn { margin-left: auto; font-size: .78rem; padding: .4rem .85rem; border-radius: 999px; flex-shrink: 0; }
+.used-badge {
+  display: none; align-items: center; gap: .3rem;
+  font-size: .68rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+  color: var(--accent-3);
+  background: color-mix(in srgb, var(--accent-3) 16%, transparent);
+  border: 1px solid color-mix(in srgb, var(--accent-3) 45%, var(--border));
+  padding: .25rem .65rem; border-radius: 999px;
+}
+.post.is-used { opacity: .58; border-left: 4px solid var(--accent-3); }
+.post.is-used:hover { opacity: 1; }
+.post.is-used .used-badge { display: inline-flex; }
+.post.is-used .frase { text-decoration: line-through; text-decoration-color: var(--text-faint); }
+.post.is-used .mark-btn { background: color-mix(in srgb, var(--accent-3) 14%, transparent); border-color: color-mix(in srgb, var(--accent-3) 40%, var(--border)); }
+
+/* Resumen de progreso (disponibles / usadas) */
+.summary-row { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-bottom: .6rem; }
+.used-summary {
+  font-family: var(--font-display); font-size: 1rem; color: var(--text-dim);
+  background: var(--surface); border: 1px solid var(--border);
+  padding: .65rem 1.1rem; border-radius: 999px; flex: 1; min-width: 240px;
+}
+.used-summary b { color: var(--text); font-size: 1.12rem; }
+.used-summary span { color: var(--text-faint); font-size: .85rem; }
+.reset-used { font-size: .8rem; padding: .5rem .9rem; flex-shrink: 0; }
+.used-hint { font-size: .85rem; color: var(--text-faint); margin-bottom: 1.2rem; line-height: 1.5; }
 
 .hr { height: 1px; background: var(--border); border: none; margin: 1.4rem 0; }
 
