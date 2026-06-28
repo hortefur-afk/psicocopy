@@ -4495,7 +4495,7 @@ const LIBRARY = [
   {
     frase: "Puedes ser un trabajo en progreso y una obra maestra al mismo tiempo. Crecer no significa que ahora valgas menos.",
     emocion: "Esperanza", nicho: "Autoestima", objetivo: "Guardados",
-    descripcion: "Une crecimiento y valor presente. Guardable.",
+    descripcion: "🎨 Recordatorio que necesitabas: puedes ser un trabajo en progreso y una obra maestra al mismo tiempo. Estar mejorando no significa que ahora valgas menos ni que tengas que esperar a «estar terminado» para quererte. Avanzas y vales, las dos cosas a la vez. 🔖 Guárdalo para cuando sientas que «aún no eres suficiente».",
     hashtags: "#autoestima #amorpropio #crecimiento #valor #bienestar",
     prompt: "Persona en proceso de crecer brillando con luz propia, estética conceptual.",
     tecnicas: ["Antítesis", "Reframe", "Cierre emocional"]
@@ -4505,7 +4505,7 @@ const LIBRARY = [
   {
     frase: "La meta no es tener más dinero: es tener más libertad. El dinero es el medio, no el premio.",
     emocion: "Calma", nicho: "Dinero", objetivo: "Compartidos",
-    descripcion: "Reorienta el objetivo financiero hacia la libertad. Compartible.",
+    descripcion: "💸 Reenfoque que lo cambia todo: la meta nunca fue acumular dinero por acumular. La meta es la libertad que ese dinero te compra: tiempo, opciones, tranquilidad, poder decir «no». El dinero es el medio, no el premio. Si lo persigues como fin, nunca alcanza. 👇 ¿Para ti el dinero es para gastar o para liberarte? Te leo abajo.",
     hashtags: "#dinero #libertadfinanciera #finanzas #mentalidad #vida",
     prompt: "Persona disfrutando libertad de tiempo gracias a sus finanzas, estética conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
@@ -4513,7 +4513,7 @@ const LIBRARY = [
   {
     frase: "Revisa las suscripciones que olvidaste cancelar. El dinero no se va en grandes gastos, sino en pequeñas fugas que ni recuerdas.",
     emocion: "Sorpresa", nicho: "Dinero", objetivo: "Guardados",
-    descripcion: "Consejo práctico sobre fugas de dinero. Accionable y guardable.",
+    descripcion: "💸 Tarea de hoy que te ahorra dinero: revisa tus suscripciones y cargos automáticos. Casi nadie quiebra por un gasto enorme; quebramos por pequeñas fugas que se repiten cada mes y ni recordamos. Cancela lo que no usas y te sorprenderá cuánto recuperas. 🔖 Guárdalo y haz la revisión hoy mismo.",
     hashtags: "#finanzas #ahorro #suscripciones #dinero #habitos",
     prompt: "Lista de suscripciones olvidadas drenando una cuenta, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Llamado a la acción"]
@@ -4521,7 +4521,7 @@ const LIBRARY = [
   {
     frase: "Gasta en recuerdos, no en impresionar a desconocidos. Nadie recuerda tu auto; tú recordarás los viajes toda la vida.",
     emocion: "Calma", nicho: "Dinero", objetivo: "Compartidos",
-    descripcion: "Prioriza experiencias sobre estatus. Compartible.",
+    descripcion: "✨ Verdad que cambia en qué gastas: nadie recuerda tu auto, tu ropa de marca ni tu teléfono nuevo. Pero tú recordarás los viajes, las cenas, los momentos, toda la vida. Gasta en crear recuerdos para ti, no en impresionar a desconocidos que ni te miran. La experiencia se queda; el estatus se olvida. ✨ Comparte si estás de acuerdo.",
     hashtags: "#dinero #experiencias #finanzas #felicidad #mentalidad",
     prompt: "Persona atesorando recuerdos de viaje frente a objetos de estatus olvidados, conceptual.",
     tecnicas: ["Antítesis", "Reframe", "Cierre emocional"]
@@ -4529,7 +4529,7 @@ const LIBRARY = [
   {
     frase: "Baja la barrera de entrada: que empezar tome diez segundos. Lo difícil casi nunca es hacerlo, sino arrancar.",
     emocion: "Esperanza", nicho: "Hábitos", objetivo: "Guardados",
-    descripcion: "Refuerza minimizar la fricción de inicio. Accionable y guardable.",
+    descripcion: "🧠 Truco de hábitos que sí funciona: lo difícil casi nunca es la tarea, es arrancar. Así que baja la barrera de entrada hasta que empezar tome diez segundos: deja los tenis puestos, el libro abierto, la app lista. Cuando arrancar es fácil, el resto fluye solo. 🔖 Guárdalo y reduce la fricción de tu próximo hábito.",
     hashtags: "#habitos #productividad #disciplina #mejora #rutina",
     prompt: "Persona iniciando un hábito en segundos gracias a la preparación, estética conceptual.",
     tecnicas: ["Regla práctica", "Reframe", "Antítesis"]
@@ -4537,7 +4537,7 @@ const LIBRARY = [
   {
     frase: "Lo que se agenda, se hace. Una intención sin hora es solo un deseo flotando en tu cabeza.",
     emocion: "Esperanza", nicho: "Hábitos", objetivo: "Compartidos",
-    descripcion: "Promueve agendar para concretar. Accionable y compartible.",
+    descripcion: "📅 La diferencia entre lograrlo o no: lo que se agenda, se hace. Una intención sin día ni hora («algún día empiezo a entrenar») es solo un deseo flotando en tu cabeza, fácil de posponer para siempre. Ponle fecha y hora, y se vuelve un compromiso real. 🔖 Guárdalo y agenda eso que llevas posponiendo.",
     hashtags: "#habitos #productividad #planificacion #disciplina #mejora",
     prompt: "Tarea con una hora asignada en un calendario claro, estética conceptual ordenada.",
     tecnicas: ["Antítesis", "Reframe", "Regla práctica"]
@@ -4545,7 +4545,7 @@ const LIBRARY = [
   {
     frase: "La meta no es no fallar nunca: es volverte alguien que casi nunca falla dos veces seguidas. Ahí vive la verdadera constancia.",
     emocion: "Orgullo", nicho: "Hábitos", objetivo: "Guardados",
-    descripcion: "Reencuadra la constancia como recuperación rápida. Guardable.",
+    descripcion: "💪 Reencuadre que salva tu constancia: la meta no es la perfección de nunca fallar (eso no existe). Es volverte alguien que casi nunca falla dos veces seguidas. Un tropiezo es humano; volver al día siguiente es lo que construye una vida. La constancia no es no caer, es no quedarte en el suelo. 🔖 Guárdalo.",
     hashtags: "#habitos #constancia #disciplina #mentalidad #mejora",
     prompt: "Persona retomando su rutina sin demora tras un tropiezo, estética conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
@@ -4553,7 +4553,7 @@ const LIBRARY = [
   {
     frase: "Cortar el contacto no es crueldad: a veces es la única forma de dejar de sangrar por la misma herida.",
     emocion: "Calma", nicho: "Narcisismo", objetivo: "Guardados",
-    descripcion: "Valida el contacto cero como autocuidado. Guardable.",
+    descripcion: "🕊️ Para quien siente culpa por alejarse: cortar el contacto no es crueldad ni rencor. A veces es la única forma de dejar de sangrar por la misma herida una y otra vez. No tienes que odiar a alguien para necesitar distancia. Cuidarte también es alejarte de lo que te lastima. ✨ Comparte con quien necesita ese permiso.",
     hashtags: "#narcisismo #relacionestoxicas #contactocero #saludmental #conciencia",
     prompt: "Persona cerrando con calma una puerta y cuidando su herida, estética conceptual.",
     tecnicas: ["Reframe", "Metáfora", "Regla de oro"]
@@ -4561,7 +4561,7 @@ const LIBRARY = [
   {
     frase: "Llamarán 'fría' a tu calma porque perdieron el acceso a alterarte. Tu paz les molesta justo porque ya no pueden moverla.",
     emocion: "Orgullo", nicho: "Narcisismo", objetivo: "Compartidos",
-    descripcion: "Reencuadra la crítica a tu nueva calma. Empoderador y compartible.",
+    descripcion: "🧊 Detalle que pocos entienden: cuando dejas de reaccionar a las provocaciones, te van a llamar «fría» o «cambiada». No es que estés mal: es que perdieron el acceso a alterarte, y eso les molesta. Tu paz incomoda justo a quien se beneficiaba de tu caos. ✨ Comparte si te ha pasado que critican tu nueva calma.",
     hashtags: "#narcisismo #relacionestoxicas #pazmental #limites #conciencia",
     prompt: "Persona serena e inalcanzable para quien antes la alteraba, estética conceptual.",
     tecnicas: ["Reframe", "Revelación", "Cierre potente"]
@@ -4569,7 +4569,7 @@ const LIBRARY = [
   {
     frase: "Sanar después de la manipulación es, sobre todo, reaprender a confiar en ti. Volver a creerle a tu intuición es la verdadera salida.",
     emocion: "Esperanza", nicho: "Manipulación", objetivo: "Guardados",
-    descripcion: "Orienta la recuperación hacia la autoconfianza. Guardable.",
+    descripcion: "🧠 Lo más difícil después de una relación manipuladora: reaprender a confiar en ti. Te enseñaron a dudar de lo que veías y sentías, así que sanar es volver a creerle a tu intuición, a tu «algo no está bien». Recuperar esa voz interna es la verdadera salida. 🔖 Guárdalo, esto acompaña a mucha gente que sana.",
     hashtags: "#manipulacion #saludmental #autoconfianza #sanar #conciencia",
     prompt: "Persona reconectando con su intuición y su claridad, luz cálida, estética conceptual.",
     tecnicas: ["Reframe", "Cierre potente", "Validación emocional"]
@@ -4577,7 +4577,7 @@ const LIBRARY = [
   {
     frase: "Cómo reacciona alguien a tu límite te dice todo lo que necesitas saber. Quien te respeta lo acepta; quien te usaba, lo ataca.",
     emocion: "Sorpresa", nicho: "Manipulación", objetivo: "Compartidos",
-    descripcion: "Convierte los límites en una prueba reveladora. Compartible.",
+    descripcion: "🛑 Prueba infalible para conocer a alguien: pon un límite y observa su reacción. Quien te quiere y te respeta lo acepta, aunque no le guste. Quien solo se beneficiaba de ti lo ataca, te culpa o se hace la víctima. Su reacción te dice todo lo que necesitas saber. 👇 ¿Has puesto un límite y te «castigaron» por ello? Cuéntalo abajo.",
     hashtags: "#limites #manipulacion #relaciones #saludmental #conciencia",
     prompt: "Persona poniendo un límite y observando dos reacciones opuestas, estética conceptual.",
     tecnicas: ["Reframe", "Antítesis", "Cierre potente"]
@@ -4587,7 +4587,7 @@ const LIBRARY = [
   {
     frase: "Los astronautas crecen unos centímetros en el espacio: sin gravedad que la comprima, la columna se estira. La Tierra, literalmente, nos encoge.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato espacial curioso. Compartible.",
+    descripcion: "🚀 Dato curioso del espacio: los astronautas crecen unos centímetros allá arriba, porque sin la gravedad aplastando la columna, los discos de la espalda se estiran. Al volver a la Tierra, vuelven a su altura. La gravedad, literalmente, nos mantiene «encogidos» toda la vida. ✨ Comparte este dato espacial.",
     hashtags: "#ciencia #espacio #astronautas #cuerpo #datoscuriosos",
     prompt: "Astronauta flotando estirado en la estación espacial, estética conceptual.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Reframe"]
@@ -4595,7 +4595,7 @@ const LIBRARY = [
   {
     frase: "En la estación espacial ven amanecer unas 16 veces al día. Allá arriba, cada hora y media empieza un nuevo día.",
     emocion: "Esperanza", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato espacial con metáfora de nuevos comienzos. Compartible.",
+    descripcion: "🌅 Dato que da perspectiva y esperanza: en la Estación Espacial, los astronautas ven amanecer unas 16 veces al día, porque dan una vuelta a la Tierra cada hora y media. Allá arriba, cada rato empieza un nuevo día. Buen recordatorio de que siempre hay otra oportunidad de empezar. ✨ Comparte este dato lindo.",
     hashtags: "#ciencia #espacio #amanecer #astronomia #datoscuriosos",
     prompt: "Vista de varios amaneceres desde la órbita terrestre, estética conceptual cósmica.",
     tecnicas: ["Dato revelador", "Metáfora", "Cierre emocional"]
@@ -4603,7 +4603,7 @@ const LIBRARY = [
   {
     frase: "Tienes más de cinco sentidos: también percibes el equilibrio, la posición de tu cuerpo y la temperatura. Sientes más de lo que te enseñaron.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Desmonta el mito de los 5 sentidos. Educativo y guardable.",
+    descripcion: "🧠 Dato que rompe lo que aprendiste: no tienes cinco sentidos, tienes muchos más. Percibes el equilibrio, la posición de tu cuerpo (por eso te tocas la nariz con los ojos cerrados), la temperatura, el dolor, el tiempo. Sientes el mundo de muchas más formas de las que te enseñaron en la escuela. 🔖 Guárdalo, sorprende a cualquiera.",
     hashtags: "#ciencia #cuerpo #sentidos #cerebro #datoscuriosos",
     prompt: "Cuerpo humano con múltiples sentidos representados en luz, estética conceptual.",
     tecnicas: ["Mito vs verdad", "Dato revelador", "Reframe"]
@@ -4611,7 +4611,7 @@ const LIBRARY = [
   {
     frase: "No puedes oler nada mientras duermes profundamente: por eso una alarma de humo te despierta con sonido, no con olor.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Dato curioso sobre el olfato y el sueño. Genera respuestas.",
+    descripcion: "👃 Dato que quizá te salve la vida: cuando duermes profundamente, tu olfato prácticamente «se apaga», y por eso podrías no oler el humo de un incendio dormido. Por eso las alarmas de humo despiertan con sonido fuerte, no con olor. Un detector de humo no es opcional, es vital. 👇 ¿Tienes uno en casa? Cuéntalo abajo.",
     hashtags: "#ciencia #olfato #sueño #cuerpo #datoscuriosos",
     prompt: "Persona durmiendo mientras una alarma suena, estética conceptual.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Gancho de debate"]
@@ -4619,7 +4619,7 @@ const LIBRARY = [
   {
     frase: "Los bebés nacen casi sin rótulas: son de cartílago y se endurecen con los años. Hasta los huesos llegan después, con tiempo.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Dato anatómico curioso. Guardable.",
+    descripcion: "👶 Dato tierno con metáfora: los bebés nacen casi sin rótulas; tienen cartílago que poco a poco se endurece en hueso con los años. Hasta nuestra propia estructura llega después, con tiempo y paciencia. Buen recordatorio de que madurar y «endurecerse» es un proceso, no algo instantáneo. ✨ Comparte este dato curioso.",
     hashtags: "#ciencia #cuerpo #bebes #huesos #datoscuriosos",
     prompt: "Ilustración tierna de un bebé con cartílago que se vuelve hueso, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Curiosity Gap"]
@@ -4627,7 +4627,7 @@ const LIBRARY = [
   {
     frase: "Respiras alrededor de 20.000 veces al día sin pensarlo. Tu cuerpo te mantiene vivo en automático mientras tú vives tu vida.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato corporal con giro de gratitud. Compartible.",
+    descripcion: "🌬️ Recordatorio que da gratitud: respiras alrededor de 20.000 veces al día sin tener que pensarlo ni una sola vez. Tu cuerpo te mantiene vivo en piloto automático mientras tú trabajas, amas y te preocupas. A veces vale la pena parar, respirar hondo a propósito y agradecer. ✨ Comparte y toma una respiración consciente hoy.",
     hashtags: "#ciencia #cuerpo #respiracion #biologia #datoscuriosos",
     prompt: "Persona respirando con ondas suaves de aire visibles, estética conceptual serena.",
     tecnicas: ["Dato revelador", "Reframe", "Cierre emocional"]
@@ -4635,7 +4635,7 @@ const LIBRARY = [
   {
     frase: "Tu nariz puede distinguir hasta un billón de olores distintos. Tienes un detector de aromas más fino de lo que imaginas.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Dato sensorial impresionante. Guardable.",
+    descripcion: "👃 Dato que reivindica tu olfato: tu nariz puede distinguir hasta un billón de olores distintos, muchísimos más de los que creías. Subestimamos ese sentido hasta que lo perdemos. Llevas encima un detector de aromas mucho más fino y poderoso de lo que imaginas. 🔖 Guárdalo, es de esos datos que asombran.",
     hashtags: "#ciencia #olfato #cuerpo #sentidos #datoscuriosos",
     prompt: "Nariz percibiendo un abanico de aromas representados en color, estética conceptual.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Reframe"]
@@ -4643,7 +4643,7 @@ const LIBRARY = [
   {
     frase: "La Universidad de Oxford es más antigua que el Imperio Azteca. La historia no siempre ocurrió en el orden que imaginas.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Comentarios",
-    descripcion: "Dato histórico que descoloca la intuición. Debatible.",
+    descripcion: "🏛️ Dato que descoloca tu línea del tiempo: la Universidad de Oxford ya daba clases antes de que existiera el Imperio Azteca. La historia no ocurrió en el orden «lógico» que solemos imaginar; muchas cosas «antiguas» y «modernas» convivieron de formas que sorprenden. 👇 ¿Te explotó la cabeza con este dato? Cuéntalo abajo.",
     hashtags: "#ciencia #historia #datoscuriosos #tiempo #curiosidades",
     prompt: "Línea de tiempo comparando Oxford y el Imperio Azteca, estética conceptual.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Gancho de debate"]
@@ -4651,7 +4651,7 @@ const LIBRARY = [
   {
     frase: "La primera persona en programar una máquina fue una mujer, Ada Lovelace, casi un siglo antes de la primera computadora.",
     emocion: "Orgullo", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato histórico inspirador. Compartible.",
+    descripcion: "💻 Dato que pocos conocen: la primera persona en escribir un algoritmo para una máquina fue una mujer, Ada Lovelace, casi un siglo antes de que existiera la primera computadora. Imaginó lo que las máquinas podrían hacer mucho antes de que fueran posibles. La visión también es adelantarse al tiempo. ✨ Comparte este dato.",
     hashtags: "#ciencia #historia #tecnologia #mujeres #datoscuriosos",
     prompt: "Retrato conceptual de una pionera de la computación con engranajes y código, estética elegante.",
     tecnicas: ["Dato revelador", "Reframe", "Cierre potente"]
@@ -4659,7 +4659,7 @@ const LIBRARY = [
   {
     frase: "Los polos magnéticos de la Tierra se mueven y, a lo largo de millones de años, hasta se han invertido. Lo que parece fijo, no lo es.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Dato geofísico fascinante con metáfora. Guardable.",
+    descripcion: "🧭 Dato que rompe certezas: los polos magnéticos de la Tierra se mueven constantemente, y a lo largo de millones de años hasta se han invertido por completo (el norte se vuelve sur). Ni el «norte» es tan fijo como creemos. Casi nada en el universo es permanente. 🔖 Guárdalo, da para reflexionar sobre el cambio.",
     hashtags: "#ciencia #planeta #magnetismo #geologia #datoscuriosos",
     prompt: "Campo magnético terrestre representado con líneas que se desplazan, estética conceptual.",
     tecnicas: ["Dato revelador", "Metáfora", "Reframe"]
@@ -4667,7 +4667,7 @@ const LIBRARY = [
   {
     frase: "La mayor parte del agua dulce del planeta está congelada en la Antártida. La reserva de la vida descansa en el lugar más frío.",
     emocion: "Calma", nicho: "Ciencia", objetivo: "Compartidos",
-    descripcion: "Dato ambiental relevante. Compartible.",
+    descripcion: "🧊 Dato que importa más de lo que crees: la mayor parte del agua dulce del planeta está congelada en la Antártida. La reserva más grande de vida descansa, en silencio, en el lugar más frío y remoto de la Tierra. A veces lo más valioso está donde menos lo miramos. ✨ Comparte este dato sobre nuestro planeta.",
     hashtags: "#ciencia #agua #antartida #planeta #datoscuriosos",
     prompt: "Inmensos glaciares de la Antártida bajo un cielo claro, estética conceptual.",
     tecnicas: ["Dato revelador", "Reframe", "Cierre emocional"]
@@ -4675,7 +4675,7 @@ const LIBRARY = [
   {
     frase: "El lugar más frío conocido del universo no es el espacio vacío: es una nebulosa donde un gas se enfría más que su entorno. Hay fríos que cuesta imaginar.",
     emocion: "Sorpresa", nicho: "Ciencia", objetivo: "Guardados",
-    descripcion: "Dato cosmológico curioso. Guardable.",
+    descripcion: "❄️ Dato que reta tu imaginación: el lugar más frío conocido del universo no es el espacio vacío, sino una nebulosa donde un gas en expansión se enfría incluso más que su entorno, acercándose al cero absoluto. Hay fríos tan extremos que cuesta concebirlos. El cosmos siempre tiene un récord. 🔖 Guárdalo, es alucinante.",
     hashtags: "#ciencia #universo #frio #astronomia #datoscuriosos",
     prompt: "Nebulosa fría con tonos azulados profundos en el espacio, estética conceptual.",
     tecnicas: ["Dato revelador", "Curiosity Gap", "Reframe"]
@@ -4685,7 +4685,7 @@ const LIBRARY = [
   {
     frase: "Preocuparte sin parar es como rezar por lo que no quieres que pase. Tu mente ensaya el desastre y tu cuerpo lo vive como real.",
     emocion: "Calma", nicho: "Psicología", objetivo: "Compartidos",
-    descripcion: "Reencuadra la preocupación con una metáfora potente. Compartible.",
+    descripcion: "🧠 Reflexión que calma la ansiedad: preocuparte sin parar es como rezar por lo que no quieres que pase. Tu mente ensaya el desastre con tanto detalle que tu cuerpo lo vive como si ya estuviera ocurriendo, y sufres algo que quizá nunca llegue. Cuida lo que ensayas en tu cabeza. ✨ Comparte con quien vive preocupándose de más.",
     hashtags: "#psicologia #ansiedad #preocupacion #saludmental #mente",
     prompt: "Persona soltando un bucle de preocupación que se disuelve, estética conceptual.",
     tecnicas: ["Metáfora", "Reframe", "Causa-efecto"]
